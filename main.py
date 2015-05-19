@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from random import randint
 import itertools
 from math import floor
-from numpy import int64, int16, int32, dtype
+from numpy import int64, int16, int16, dtype
 from operator import xor
 
 x = np.array([
@@ -76,6 +76,7 @@ def combinations(x, n, maxComb = np.inf):
     # collision matrix, true where squares (i,j) do not collide    
     C = dx | dy
     
+    # find the cliques: all combinations of squares than can be placed toghether
     ri = bronk(C, set(), set(range(0, C.shape[0])), set())
 
     r = set()
@@ -85,10 +86,9 @@ def combinations(x, n, maxComb = np.inf):
             for L in reversed(range(1, len(s)+1)):
                 for subset in itertools.combinations(s, L):
                     r.add(frozenset(i_[np.array(subset)]))
+                    if (len(r) >= maxComb):
+                        return r
          
-#     if len(r) > combinations.count:
-#         print(len(r))
-#         combinations.count = len(r)
     return r
 
 # combinations.count = 0
@@ -103,12 +103,12 @@ def place(x, n, partialLength = 0, bestLength = np.inf):
         if (partialLength + len(i) >= bestLength):
             return None
         
-        l = np.ones(len(i), dtype=int32)
+        l = np.ones(len(i), dtype=int16)
         return np.vstack([i, l])
     
     else:
 
-        squares = np.zeros((2, 0), dtype=int32)
+        squares = np.zeros((2, 0), dtype=int16)
         
         # copy
         x = np.array(x, dtype = bool)
@@ -123,7 +123,7 @@ def place(x, n, partialLength = 0, bestLength = np.inf):
         i = np.ravel_multi_index(np.where(c), x.shape)
         if (partialLength + len(i) >= bestLength):
             return None
-        l = np.ones(len(i), dtype=int32)
+        l = np.ones(len(i), dtype=int16)
         squares = np.vstack([i, l])
         partialLength += len(i)
         x &= (c == False)
@@ -150,14 +150,28 @@ def place(x, n, partialLength = 0, bestLength = np.inf):
             print('!')
             return None
         
-        r = combinations(x, n)
+        [h, m, dims] = hash_(x)
+        if (h is not None):
+            if (h in hash_.table.keys()):
+                solution = hash_.table[h]
+                [ix, iy] = np.unravel_index(solution[0,:], dims)
+                ix = ix + m[0]
+                iy = iy + m[1]
+                squares_i = np.vstack([ np.ravel_multi_index((ix, iy), x.shape), solution[1,: ]] )
+                hash_.hits += 1
+                return np.hstack([ squares, squares_i ]);
         
-        if (len(r)):
+        maxComb = max(9 - n, 1)
+        maxComb = 8
+        r = combinations(x, n, maxComb)
+        
+        if (len(r) > 0):
+
+            if (len(r) < maxComb):
+                r.add(frozenset())
             
             # the biggest sets before
             sr = sorted(r, key=lambda x: len(x), reverse=True)
-            sr.append(set())
-            sr = sr[:3]
     
             squares_i = None;
     
@@ -165,8 +179,8 @@ def place(x, n, partialLength = 0, bestLength = np.inf):
 
                 length = len(indices);
 
-                l = n*np.ones(length, dtype=int32)
-                squares_n = np.vstack([np.array(list(indices), dtype=int32), l])
+                l = n*np.ones(length, dtype=int16)
+                squares_n = np.vstack([np.array(list(indices), dtype=int16), l])
 
                 # computes the best scenario according only to the number of tiles on,
                 # not the geometry
@@ -199,7 +213,7 @@ def place(x, n, partialLength = 0, bestLength = np.inf):
                             
                 if partitioning:
                     clusters = cluster(x);
-                    squares_nm1 = np.zeros((2, 0), dtype=int32)
+                    squares_nm1 = np.zeros((2, 0), dtype=int16)
                     subLength = 0
                     for c in clusters:
                         xi =  np.zeros(x.shape, dtype=bool)
@@ -238,7 +252,30 @@ def place(x, n, partialLength = 0, bestLength = np.inf):
             if (squares_i == None):
                 return None
                                           
+            [h, m, dims] = hash_(x)
+            if (h is not None):
+                [ix, iy] = np.unravel_index(squares_i[0,:], x.shape)
+#                 print('squares = ' + str(squares_i))
+#                 print('ix = ' + str(ix))
+#                 print('iy = ' + str(iy))
+#                 print('m = ' + str(m))
+#                 print(ix - m[0])
+#                 print(iy - m[1])
+#                 print(dims)
+#                 if (np.any(iy - m[1] < 0)):
+#                     print('')
+                i = np.ravel_multi_index((ix - m[0], iy - m[1]), dims)
+                solution = np.vstack([i, squares_i[1,:]])
+                hash_.table[h] = solution
+#                 print(h)
+                
             squares = np.hstack([ squares, squares_i ])
+                
+#             i = np.unravel_index(squares[0,:], x.shape)
+#             u = np.argwhere(x)
+#             m = np.min(u, 0)
+#             M = np.max(u, 0)
+#             x[m[0]:M[0],m[1]:M[1]]            
             return squares
                 
         else:
@@ -249,9 +286,25 @@ def place(x, n, partialLength = 0, bestLength = np.inf):
             squares = np.hstack([ squares, squares_nm1 ])
             return squares
 
+def hash_(x):
+#     return (None, None, None)
+    u = np.argwhere(x)
+    m = np.min(u, 0)
+    M = np.max(u, 0)
+    u0 = u - m
+    dims = M - m + 1
+    tdims = tuple(dims)
+    h = None
+    if min(dims) > 1 and np.prod(dims) < 20:
+        h = hash((tdims, frozenset(np.ravel_multi_index((u0[:,0], u0[:,1]), tdims))))
+          
+    return (h, m, tdims)
+
+hash_.table = {}
+hash_.hits = 0
 
 def populate(x, squares):
-    r = np.zeros(x.shape, dtype=int32)
+    r = np.zeros(x.shape, dtype=int16)
     for k in range(0, squares.shape[1]):
         i = np.unravel_index(squares[0, k], x.shape)
         n = squares[1, k];
@@ -315,10 +368,10 @@ def cluster(x):
 # print(s0 - s1)
 # print(len(combinations(x, n)))
 
-#x = generate(50, 50, 25, 20)
-# x = np.loadtxt('puzzle.txt')
-#x = x > 0
-#np.savetxt('puzzle.txt', x, fmt='%i')
+x = generate(20, 20, 15, 13)
+x = np.loadtxt('puzzle.txt')
+x = x > 0
+np.savetxt('puzzle.txt', x, fmt='%i')
 
 fig = plt.figure(1)
 ax = fig.add_subplot(121)
@@ -338,11 +391,15 @@ print(squares)
 
 xi = populate(x, squares)
 
-assert np.all(xi[x] != 0)
+print('Cache has %i entries, got %i hits' % (len(hash_.table), hash_.hits))
+
+if np.any(xi[x] == 0):
+    assert(False)
 
 print("Found solution with %i squares" % (squares.shape[1]))
 
 ax = fig.add_subplot(122)
 ax.imshow(xi, interpolation='none')
+
 
 plt.show()
