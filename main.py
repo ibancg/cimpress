@@ -48,27 +48,6 @@ def findPossibleSquares(x, n):
 def fillSquare(x, i, j, n, value):
     x[i:i+n, j:j+n] = value
 
-    
-def combinations0(x, n, maxComb = np.inf):
-    U = findPossibleSquares(x, n)
-    w = np.argwhere(U)
-    i_ = np.ravel_multi_index((w[:,0], w[:,1]), x.shape)
-    r = set()
-    
-    if len(i_):
-        for index in i_:                
-            i = np.unravel_index(index, x.shape)
-            fillSquare(x, i[0], i[1], n, False);
-            subcombs = combinations0(x, n, maxComb)
-            for comb in subcombs:
-                c = set(comb)
-                c.add(index)
-                r.add(frozenset(c));
-            r.add(frozenset([index]));
-            fillSquare(x, i[0], i[1], n, True);
-
-    return r
-
 # Bron-Kerbosch algorithm
 def bronk(graph,r,p,x):
     result = []
@@ -86,7 +65,7 @@ def bronk(graph,r,p,x):
             x.add(vertex)
     return result
 
-def combinations(x, n, maxComb = np.inf):
+def combinations(x, n, maxComb = np.inf):    
     U = findPossibleSquares(x, n)
     w = np.argwhere(U)
     i_ = np.ravel_multi_index((w[:,0], w[:,1]), x.shape)
@@ -107,13 +86,18 @@ def combinations(x, n, maxComb = np.inf):
                 for subset in itertools.combinations(s, L):
                     r.add(frozenset(i_[np.array(subset)]))
          
+#     if len(r) > combinations.count:
+#         print(len(r))
+#         combinations.count = len(r)
     return r
+
+# combinations.count = 0
 
 
 bestLength = np.inf
 
 def place(x, n, partialLength = 0, bestLength = np.inf):
-#     global bestLength
+        
     if (n == 1):
         i = np.ravel_multi_index(np.where(x), x.shape)
         if (partialLength + len(i) >= bestLength):
@@ -124,9 +108,34 @@ def place(x, n, partialLength = 0, bestLength = np.inf):
     
     else:
 
+        squares = np.zeros((2, 0), dtype=int32)
+        
+        # copy
+        x = np.array(x, dtype = bool)
+        
+        # find 'isolated' 1x1 squared
+        # finding them in early stages will help to find a better partition and a better best-scenario bound
+        xnm1False = np.hstack( [ np.ones((x.shape[0], 1), dtype=bool), x[:,:x.shape[1]-1] == False] )
+        xnp1False = np.hstack( [ x[:,1:] == False, np.ones((x.shape[0], 1), dtype=bool) ] )
+        ynm1False = np.vstack( [ np.ones((1, x.shape[1]), dtype=bool), x[:x.shape[0]-1,:] == False] )
+        ynp1False = np.vstack( [ x[1:,:] == False, np.ones((1, x.shape[1]), dtype=bool) ] )
+        c = x & ((xnm1False & xnp1False) | (ynm1False & ynp1False))
+        i = np.ravel_multi_index(np.where(c), x.shape)
+        if (partialLength + len(i) >= bestLength):
+            return None
+        l = np.ones(len(i), dtype=int32)
+        squares = np.vstack([i, l])
+        partialLength += len(i)
+        x &= (c == False)
+
         # computes the best scenario according only to the number of tiles on,
         # not the geometry     
-        nTilesOn = np.sum(x)
+        nTilesOn_ = np.sum(x)
+        nTilesOn = nTilesOn_
+        
+        if (nTilesOn == 0):
+            return squares
+        
         ni = n
         bestScenario = 0
         while (ni > 0):
@@ -142,19 +151,43 @@ def place(x, n, partialLength = 0, bestLength = np.inf):
             return None
         
         r = combinations(x, n)
-        il = None
         
         if (len(r)):
+            
             # the biggest sets before
             sr = sorted(r, key=lambda x: len(x), reverse=True)
             sr.append(set())
-#             print(len(sr))
-            sr = sr[:5]
+            sr = sr[:3]
+    
+            squares_i = None;
     
             for indices in sr:
-                
+
                 length = len(indices);
+
+                l = n*np.ones(length, dtype=int32)
+                squares_n = np.vstack([np.array(list(indices), dtype=int32), l])
+
+                # computes the best scenario according only to the number of tiles on,
+                # not the geometry
+                nTilesOn = nTilesOn_
+                nTilesOn -= length * (n**2)
                 
+                if (nTilesOn == 0):
+                    squares_i = squares_n
+                    break
+
+                ni = n - 1
+                bestScenario = length
+                while (ni > 0):
+                    nSquares = floor(nTilesOn / (ni**2))
+                    nTilesOn -= nSquares * (ni**2)
+                    bestScenario += nSquares
+                    ni -= 1
+                if (partialLength + bestScenario >= bestLength):
+                    print('!')
+                    continue
+                                
                 if partialLength + length > bestLength:
                     print('XXX')
                     
@@ -166,55 +199,65 @@ def place(x, n, partialLength = 0, bestLength = np.inf):
                             
                 if partitioning:
                     clusters = cluster(x);
-                    il_nm1 = np.zeros((2, 0), dtype=int32)
+                    squares_nm1 = np.zeros((2, 0), dtype=int32)
                     subLength = 0
                     for c in clusters:
-                        x_ =  np.zeros(x.shape, dtype=bool)
-                        x_[np.unravel_index(c, x.shape)] = True
-                        il_nm1_i = place(x_, n - 1, partialLength + length + subLength, bestLength)
-                        if il_nm1_i == None:
-                            il_nm1 = None
+                        xi =  np.zeros(x.shape, dtype=bool)
+                        xi[np.unravel_index(c, x.shape)] = True
+                        squares_nm1_i = place(xi, n - 1, partialLength + length + subLength, bestLength)
+                        if squares_nm1_i == None:
+                            squares_nm1 = None
                             break;
-                        subLength += il_nm1_i.shape[1]
-                        il_nm1 = np.hstack([il_nm1, il_nm1_i])
+                        squares_nm1 = np.hstack([squares_nm1, squares_nm1_i])
+                        subLength = squares_nm1.shape[1]                
                 else:
-                    il_nm1 = place(x, n - 1, partialLength + length, bestLength)                    
+                    squares_nm1 = place(x, n - 1, partialLength + length, bestLength)                    
                     
                 for index in indices:
                     i = np.unravel_index(index, x.shape)
                     fillSquare(x, i[0], i[1], n, True);
 
-                if (il_nm1 == None):
+                if (squares_nm1 == None):
                     continue
                 
-                subLength = il_nm1.shape[1]                
+                subLength = squares_nm1.shape[1]                
                 totalLength = partialLength + length + subLength
                 
                 if (totalLength < bestLength):
-                    l = n*np.ones(length, dtype=int32)
-                    il_n = np.vstack([np.array(list(indices), dtype=int32), l])
-                    il = np.hstack([ il_n, il_nm1])
+                    squares_i = np.hstack([ squares_n, squares_nm1])
                     bestLength = totalLength
                     print("Found length %i for n=%i" % (totalLength, n))
-                    
-#                     x_ = np.zeros(x.shape, dtype=int32)
-#                     for k in range(0, il.shape[1]):
-#                         i_ = np.unravel_index(il[0, k], x.shape)
-#                         n_ = il[1, k];
-#                         x_[i_[0]:i_[0]+n_, i_[1]:i_[1]+n_] = k + 1
-#                      
+
+#                     xi = populate(x, squares_i)
 #                     fig = plt.figure(1)
 #                     ax = fig.add_subplot(122)
-#                     ax.imshow(x_, interpolation='none')
+#                     ax.imshow(xi, interpolation='none')
 #                     fig.canvas.draw()
 
 
-                                
-            return il
+            if (squares_i == None):
+                return None
+                                          
+            squares = np.hstack([ squares, squares_i ])
+            return squares
                 
         else:
-            return place(x, n - 1, partialLength, bestLength)
+            # no squares of size n can be placed, we try with smaller ones            
+            squares_nm1 = place(x, n - 1, partialLength, bestLength)
+            if (squares_nm1 == None):
+                return None
+            squares = np.hstack([ squares, squares_nm1 ])
+            return squares
 
+
+def populate(x, squares):
+    r = np.zeros(x.shape, dtype=int32)
+    for k in range(0, squares.shape[1]):
+        i = np.unravel_index(squares[0, k], x.shape)
+        n = squares[1, k];
+        r[i[0]:i[0]+n, i[1]:i[1]+n] = k + 1
+    return r
+   
 def cluster(x):
     
     result = []
@@ -253,10 +296,10 @@ def cluster(x):
     return result
     
 # dealing with a graph as list of lists 
-graph = np.array([[1,1,0,0,1,1],[1,1,1,0,1,0],[0,1,0,1,0,0],[0,0,1,0,0,0],[0,0,0,0,0,1],[0,0,0,0,1,0]])
-c = cluster(graph)
-print(graph)
-print(c)
+# graph = np.array([[1,1,0,0,1,1],[1,1,1,0,1,0],[0,1,0,1,0,0],[0,0,1,0,0,0],[0,0,0,0,0,1],[0,0,0,0,1,0]])
+# c = cluster(graph)
+# print(graph)
+# print(c)
 # r = bronk(graph, set(), set(range(0,graph.shape[0])), set())
 # print(r)
 
@@ -272,10 +315,10 @@ print(c)
 # print(s0 - s1)
 # print(len(combinations(x, n)))
 
-x = generate(20, 20, 15, 9)
-x = np.loadtxt('puzzle.txt')
-x = x > 0
-np.savetxt('puzzle.txt', x, fmt='%i')
+#x = generate(50, 50, 25, 20)
+# x = np.loadtxt('puzzle.txt')
+#x = x > 0
+#np.savetxt('puzzle.txt', x, fmt='%i')
 
 fig = plt.figure(1)
 ax = fig.add_subplot(121)
@@ -284,26 +327,22 @@ ax = fig.add_subplot(122)
 ax.imshow(x, interpolation='none')
 plt.show(block=False)
 
-cluster(x)
-
-il = place(x, min(x.shape));
-print(il)
+# cluster(x)
+    
+squares = place(x, min(x.shape));
+print(squares)
 
 # print(place(U, 2));
 # U = generate(10, 10, 7, 5)
 # U = (U != 0)
 
-x_ = np.zeros(x.shape, dtype=int32)
-for k in range(0, il.shape[1]):
-    i = np.unravel_index(il[0, k], x.shape)
-    n = il[1, k];
-    x_[i[0]:i[0]+n, i[1]:i[1]+n] = k + 1
+xi = populate(x, squares)
 
-assert np.all(x_[x] != 0)
+assert np.all(xi[x] != 0)
 
-print("Found solution with %i squares" % (il.shape[1]))
+print("Found solution with %i squares" % (squares.shape[1]))
 
 ax = fig.add_subplot(122)
-ax.imshow(x_, interpolation='none')
+ax.imshow(xi, interpolation='none')
 
 plt.show()
