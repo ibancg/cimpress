@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from random import randint
 import itertools
-from math import floor
+from math import floor, sqrt
 from numpy import int16
 import time
 
@@ -104,11 +104,31 @@ def combinations(x, n, maxComb = np.inf):
 # combinations.count = 0
 
 
-bestLength = np.inf
+def decomposeSquares(n, ni = 0):
+    if ni == 0:
+        ni = int(floor(sqrt(n)))
+                
+    bestScenario = 0
+    r = []
+    while (ni > 0):
+        nSquares = floor(n / (ni**2))
+        n -= nSquares * (ni**2)
+        bestScenario += nSquares
+        ni -= 1
+        r.append(nSquares)
+        
+    return r
+    
 
-def place(x, n, maxComb = [], partialLength = 0, bestLength = np.inf):
+def place(x, n, maxComb = [], 
+          partialLength = 0, bestLength = np.inf,
+          tryPartitions = True, maxDepth = 1000):
         
     global shortcuts;
+    
+    if maxDepth == 0:
+        squares = np.zeros((3, 0), dtype=int16)
+        return squares
     
     if (n == 1):
         i = np.transpose(np.argwhere(x))
@@ -153,15 +173,17 @@ def place(x, n, maxComb = [], partialLength = 0, bestLength = np.inf):
             shortcuts += 1
             return None
         l = np.ones(i.shape[1], dtype=int16)
-        if (len(l) > 0) :
+        if (i.shape[1] > 0) :
             squares = np.vstack([i, l])
             partialLength += i.shape[1]
             x &= (c == False)    
-            nRemainingTiles_ -= len(l)
+            nRemainingTiles_ -= i.shape[1]
+            tryPartitions = True
                  
         # computes the best scenario according only to the number of tiles on,
         # not the geometry
         nRemainingTiles = nRemainingTiles_
+        decomposeSquares(nRemainingTiles_, 4)
         
         if (nRemainingTiles == 0):
             return shift + squares
@@ -178,37 +200,113 @@ def place(x, n, maxComb = [], partialLength = 0, bestLength = np.inf):
         # not continue
         if (partialLength + bestScenario >= bestLength):
             shortcuts += 1
-            return None
-        
+            return None        
+
+        if tryPartitions:
+            clusters = cluster(x);             
+            if (len(clusters) > 1):
+                squares_nm1 = np.zeros((3, 0), dtype=int16)                 
+                # the smallest sets before
+                clusters = sorted(clusters, key=lambda x: len(x))                    
+                subLength = 0
+                for c in clusters:
+                    xi = np.zeros(x.shape, dtype=bool)
+                    xi[np.unravel_index(c, x.shape)] = True
+                    squares_nm1_i = place(xi, n, maxComb, partialLength + subLength, bestLength, False, maxDepth)
+                    if squares_nm1_i == None:
+                        squares_nm1 = None
+                        break;
+                    squares_nm1 = np.hstack([squares_nm1, squares_nm1_i])
+                    subLength = squares_nm1.shape[1]                
+                 
+                if squares_nm1 is None:
+                    return None
+                     
+                return shift + np.hstack([ squares, squares_nm1 ]);
+
         [h, m, dims] = hash_(x)
-        if (h is not None):
-            if (h in hash_.table.keys()):
-                solution = hash_.table[h]
-                [ix, iy] = np.unravel_index(solution[0,:], dims)
-                ix = ix + m[0]
-                iy = iy + m[1]
-                squares_i = np.vstack([ ix, iy, solution[1,: ]] )
-                hash_.hits += 1
-                return shift + np.hstack([ squares, squares_i ]);
+        if (h in hash_.table.keys()):
+            solution = hash_.table[h]
+            [ix, iy] = np.unravel_index(solution[0,:], dims)
+            ix = ix + m[0]
+            iy = iy + m[1]
+            squares_i = np.vstack([ ix, iy, solution[1,: ]] )
+            hash_.hits += 1
+            return shift + np.hstack([ squares, squares_i ]);
 
         maxComb_ = 1
         for k in range(0, len(maxComb)):
             if (nRemainingTiles_ < maxComb[k]):
                 maxComb_ += 1
         
-        r = combinations(x, n, maxComb_)
+        maxComb__ = 20
+        r = combinations(x, n, maxComb__)
+        scored_r = list()
         
         if (len(r) > 0):
 
-            if (len(r) < maxComb_):
+            if (len(r) < maxComb__):
                 r.add(frozenset())
             
-            # the biggest sets before
+                        # the biggest sets before
             sr = sorted(r, key=lambda x: len(x), reverse=True)
-    
-            squares_i = None;
-    
+
+            if maxDepth == 1:
+                indices = sr[0]
+                length = len(indices)
+                l = n*np.ones(length, dtype=int16)
+                i = np.vstack(np.unravel_index(np.array(list(indices), dtype=int16), x.shape))
+                squares_n = np.vstack([i, l])
+                return shift + squares_n
+                  
+            squaresl = []
+            scores = []
+            
             for indices in sr:
+    
+                length = len(indices);
+    
+                l = n*np.ones(length, dtype=int16)
+                i = np.vstack(np.unravel_index(np.array(list(indices), dtype=int16), x.shape))
+                squares_n = np.vstack([i, l])
+    
+                for index in np.transpose(squares_n):
+                    fillSquare(x, index[0], index[1], n, False);
+                                
+                squares_nm1 = place(x, n - 1, maxComb, partialLength + length, bestLength, True, 1)
+                if (squares_nm1 is None):
+                    squaresl.append(None)
+                    scores.append(1.0)
+                else:
+                    sq = np.hstack( [ n*np.ones((length), dtype=int16), squares_nm1[2,:] ])
+                    squaresl.append(sq)
+#                     sq = sq[sq > 1]
+                    if len(sq) > 0:
+                        score = -np.float(np.sum(sq**2)) / len(sq)
+                    else:
+                        score = -1000000
+                    scores.append(score)
+                        
+#                 squares_nm1 = squares_nm1[:,squares_nm1[2,:] >= n - extraDepth]
+#                 score = (np.sum(squares_nm1[2,:]**2) + len(indices)*(n**2))/(squares_nm1.shape[1] + len(indices))
+                for index in np.transpose(squares_n):
+                    fillSquare(x, index[0], index[1], n, True);
+        
+            if (n > 7):
+                print()
+             
+            scores = np.array(scores)
+            scores_i = np.argsort(scores)
+            scores_i = scores_i[scores[scores_i] < 0]
+            scores_i = scores_i[:maxComb_]             
+            squares_i = None;
+     
+            for score_i in scores_i:
+                indices = sr[score_i]
+
+#             squares_i = None;
+#             sr = sr[:maxComb_]
+#             for indices in sr:
 
                 length = len(indices);
 
@@ -236,33 +334,10 @@ def place(x, n, maxComb = [], partialLength = 0, bestLength = np.inf):
                     shortcuts += 1
                     continue
                                 
-                if partialLength + length > bestLength:
-                    print('XXX')
-                    
-                partitioning = True
-                            
                 for index in np.transpose(squares_n):
                     fillSquare(x, index[0], index[1], n, False);
                             
-                if partitioning:
-                    clusters = cluster(x);
-                    squares_nm1 = np.zeros((3, 0), dtype=int16)
-                    subLength = 0
-                    
-                    # the smallest sets before
-                    clusters = sorted(clusters, key=lambda x: len(x))                    
-                    
-                    for c in clusters:
-                        xi = np.zeros(x.shape, dtype=bool)
-                        xi[np.unravel_index(c, x.shape)] = True
-                        squares_nm1_i = place(xi, n - 1, maxComb, partialLength + length + subLength, bestLength)
-                        if squares_nm1_i == None:
-                            squares_nm1 = None
-                            break;
-                        squares_nm1 = np.hstack([squares_nm1, squares_nm1_i])
-                        subLength = squares_nm1.shape[1]                
-                else:
-                    squares_nm1 = place(x, n - 1, maxComb, partialLength + length, bestLength)                    
+                squares_nm1 = place(x, n - 1, maxComb, partialLength + length, bestLength, True, maxDepth - 1)                    
                     
                 for index in np.transpose(squares_n):
                     fillSquare(x, index[0], index[1], n, True);
@@ -300,7 +375,7 @@ def place(x, n, maxComb = [], partialLength = 0, bestLength = np.inf):
                 
         else:
             # no squares of size n can be placed, we try with smaller ones            
-            squares_nm1 = place(x, n - 1, maxComb, partialLength, bestLength)
+            squares_nm1 = place(x, n - 1, maxComb, partialLength, bestLength, tryPartitions, maxDepth)
             if (squares_nm1 == None):
                 return None
             squares = np.hstack([ squares, squares_nm1 ])
@@ -355,7 +430,7 @@ def cluster(x):
             ny[ny < 0] = 0
             ny[ny >= x.shape[1]] = x.shape[1] - 1
             # unique
-            i = np.array(list(set(np.ravel_multi_index(np.vstack([nx, ny]), x.shape))))
+            i = np.unique(np.ravel_multi_index(np.vstack([nx, ny]), x.shape))
             i_ = np.unravel_index(i, x.shape)
             i = i[x[i_]]
             if (len(i) == l):
@@ -387,11 +462,11 @@ def cluster(x):
 # print(s0 - s1)
 # print(len(combinations(x, n)))
 
-x = generate(100, 100, 50, 40)
+# x = generate(100, 100, 50, 40)
 x = np.loadtxt('puzzle.txt')
 print(np.sum(x))
 x = x > 0
-np.savetxt('puzzle.txt', x, fmt='%i')
+# np.savetxt('puzzle.txt', x, fmt='%i')
 
 fig = plt.figure(1)
 ax = fig.add_subplot(121)
@@ -429,7 +504,7 @@ t0 = time.time()
 for k in range(0,len(maxCombThresholds)):
     print('iteration %i' % (k))
     t = time.time()
-    squares_i = place(x, min(x.shape), maxCombThresholds[k], 0, bestLength)
+    squares_i = place(x, min(x.shape), maxCombThresholds[k], 0, bestLength, True)
     elapsed = time.time() - t
     elapsed0 = time.time() - t0
     if (squares_i is not None) and squares_i.shape[1] < bestLength:
@@ -442,11 +517,15 @@ for k in range(0,len(maxCombThresholds)):
         fig.canvas.draw()
 
         print('Cache has %i entries, got %i hits' % (len(hash_.table), hash_.hits))
+        print("Found solution with %i squares in %0.2fs, total elapsed %0.2fs " % (squares.shape[1], elapsed, elapsed0))
+        print("Found %i shortcuts" % (shortcuts))
         xi = populate(x, squares)
         if np.any(xi[x] == 0):
             assert(False)
-        print("Found solution with %i squares in %0.2fs, total elapsed %0.2fs " % (squares.shape[1], elapsed, elapsed0))
-        print("Found %i shortcuts" % (shortcuts))
+
+elapsed0 = time.time() - t0
+print("Found solution with %i squares, total elapsed %0.2fs " % (squares.shape[1], elapsed0))
+print("Found %i shortcuts" % (shortcuts))
 
 print(squares)
 plt.show()
