@@ -71,7 +71,7 @@ def bronk(graph, r, p, x, limit = 500):
                 x.add(vertex)
     return result
 
-def combinations(x, n, maxComb = np.inf):
+def combinations(x, n, maxComb = sys.maxint):
     r = set()
     
 #     print('combinations n=%i ...' % (n))
@@ -99,10 +99,11 @@ def combinations(x, n, maxComb = np.inf):
                         r.add(frozenset(i_[np.array(subset)]))
                         if (len(r) >= maxComb):
 #                             print('...ok')
-                            return r
+                            return (r, False)
          
 #     print('...ok')
-    return r
+    full = len(r) < maxComb
+    return (r, full)
 
 
 def decomposeSquares(n, ni = 0):
@@ -120,6 +121,22 @@ def decomposeSquares(n, ni = 0):
         
     return r
     
+def registerSolution(x, solution):
+#     registerSolution.count += 1
+#     print(str(registerSolution.count) + ' ' + str(x.shape) + ' ' + str(solution.shape[1]))
+#     [h, m, dims] = hash_(x)
+#     if (h is not None):
+#         if np.any(solution[1,:] - m[1] < 0):
+#             print(solution[0,:] - m[0])
+#         print(solution[1,:] - m[1])
+#         print(dims)
+#         i = np.ravel_multi_index((solution[0,:] - m[0], solution[1,:] - m[1]), dims)
+#         sol = np.vstack([i, solution[2,:]])
+#         hash_.table[h] = sol
+    return
+
+registerSolution.count = 0
+ 
 def place(x, n, maxComb = [], 
           partialLength = 0,
           bestLength = np.inf,
@@ -127,13 +144,14 @@ def place(x, n, maxComb = [],
           findIsolatedSingleTiles = True,
           maxDepth = 1000):
         
-    optimalSolution = True
     shift = np.array([[0],[0],[0]], dtype=int16)
+    optimalSolution = True
     
     if place.stop:
         return (None, None)
     
     if maxDepth == 0:
+        optimalSolution = False
         squares = np.zeros((3, 0), dtype=int16)
     elif (n == 1):
         i = np.transpose(np.argwhere(x))
@@ -141,7 +159,7 @@ def place(x, n, maxComb = [],
             return (None, None)
         
         l = np.ones(i.shape[1], dtype=int16)
-        squares = np.vstack([i, l])    
+        squares = np.vstack([i, l]) 
     else:
 
         squares = np.zeros((3, 0), dtype=int16)
@@ -152,6 +170,7 @@ def place(x, n, maxComb = [],
         if (nRemainingTiles_ == 0):
             return (squares, optimalSolution)
 
+        # we reduce n
         n = min(n, int(floor(sqrt(nRemainingTiles_))))
 
         shrink = True        
@@ -215,8 +234,6 @@ def place(x, n, maxComb = [],
                     break;
                 squares_nm1 = np.hstack([squares_nm1, squares_nm1_i])
                 subLength = squares_nm1.shape[1]
-                if (optimalSolution is None) or (optimalSolution_i is None):
-                    print() 
                 optimalSolution &= optimalSolution_i
                 
             if squares_nm1 is None:
@@ -244,8 +261,10 @@ def place(x, n, maxComb = [],
                     if (nRemainingTiles_ < maxComb[k]):
                         maxComb_ += 1
                  
-            maxComb__ = 20
-            r = combinations(x, n, maxComb__)
+            maxComb__ = 200
+            (r, full) = combinations(x, n, maxComb__)
+            if not full:
+                optimalSolution = False
             
             if (len(r) > 0):
      
@@ -260,10 +279,12 @@ def place(x, n, maxComb = [],
                     length = len(indices)
                     l = n*np.ones(length, dtype=int16)
                     i = np.vstack(np.unravel_index(np.array(list(indices), dtype=int16), x.shape))
-                    squares_n = np.vstack([i, l])
-                    return (shift + squares_n, optimalSolution)
+                    squares = np.vstack([i, l])
+                    if (optimalSolution):
+                        registerSolution(x, squares)
+                    return (shift + squares, optimalSolution)
                        
-                squaresl = []
+#                 squaresl = []
                 scores = []
                  
                 for indices in sr:
@@ -371,20 +392,24 @@ def place(x, n, maxComb = [],
                     return (None, None)
                 squares = np.hstack([ squares, squares_nm1 ])            
 
+    if (optimalSolution):
+        registerSolution(x, squares)
     return (shift + squares, optimalSolution)
 
 def hash_(x):
-    return (None, None, None)
-#     u = np.argwhere(x)
-#     m = np.min(u, 0)
-#     M = np.max(u, 0)
-#     u0 = u - m
-#     dims = M - m + 1
-#     tdims = tuple(dims)
-#     h = None
-#     if min(dims) > 1 and np.prod(dims) < 1400:
-#         h = hash((tdims, frozenset(np.ravel_multi_index((u0[:,0], u0[:,1]), tdims))))
-#     return (h, m, tdims)
+    u = np.argwhere(x)
+    if (len(u) == 0):
+        print(len(u))
+    m = np.min(u, 0)
+    M = np.max(u, 0)
+    u0 = u - m
+    dims = M - m + 1
+    tdims = tuple(dims)
+    h = None
+    if min(dims) > 1 and np.prod(dims) < 1400:
+        h = hash((tdims, frozenset(np.ravel_multi_index((u0[:,0], u0[:,1]), tdims))))
+    return (h, m, tdims)
+#     return (None, None, None)
 
 hash_.table = {}
 hash_.hits = 0
@@ -394,6 +419,7 @@ def populate(x, squares):
     for k in range(0, squares.shape[1]):
         i = squares[0:2, k]
         n = squares[2, k];
+        assert(np.all(r[i[0]:i[0]+n, i[1]:i[1]+n] == 0))
         r[i[0]:i[0]+n, i[1]:i[1]+n] = k + 1
     return r
    
@@ -461,9 +487,9 @@ def partition(x):
 # print(len(combinations(x, n)))
 
 # x = generate(100, 100, 55, 30)
-# x = np.loadtxt('puzzle.txt')
-# print(np.sum(x))
-# x = x > 0
+x = np.loadtxt('puzzle.txt')
+print(np.sum(x))
+x = x > 0
 # np.savetxt('puzzle.txt', x, fmt='%i')
 
 fig = plt.figure(1)
