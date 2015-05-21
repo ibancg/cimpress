@@ -7,14 +7,17 @@ from numpy import int16
 import time
 import threading
 import sys
+import glob
+import os
 
 # configuration
 plots = False
 allowPromptFindIsolatedSingleTiles = True
-allowRandomNoiseInScores = True
+sigmaNoiseInScores = 1.0
 allowPartitions = True
 allowShrink = True
-cachedSolutions = False
+cachedSolutions = True
+timeLimitGrowFactor = 0.0
 
 def generate(m, n, nSquares, maxSize):
     U = np.zeros((m, n), dtype=np.int)
@@ -84,7 +87,7 @@ def combinations(x, n, maxComb = sys.maxsize):
     
         for s in ri:
             if len(s) > 0:
-    #             r.add(frozenset(i_[np.array(s)]))
+#                 r.add(frozenset(i_[np.array(list(s))]))
                 for L in reversed(range(1, len(s)+1)):
                     for subset in itertools.combinations(s, L):
                         r.add(frozenset(i_[np.array(subset)]))
@@ -174,9 +177,9 @@ def place(x_, n, maxComb = [],
         if allowPromptFindIsolatedSingleTiles and findIsolatedSingleTiles:
             # find 'isolated' 1x1 squared
             # finding them in early stages will help us to find a better partition and a better best-scenario bound
-            xnm1False = np.hstack( [ np.ones((x.shape[0], 1), dtype=bool), x[:,:x.shape[1]-1] == False] )
+            xnm1False = np.hstack( [ np.ones((x.shape[0], 1), dtype=bool), x[:,:-1] == False] )
             xnp1False = np.hstack( [ x[:,1:] == False, np.ones((x.shape[0], 1), dtype=bool) ] )
-            ynm1False = np.vstack( [ np.ones((1, x.shape[1]), dtype=bool), x[:x.shape[0]-1,:] == False] )
+            ynm1False = np.vstack( [ np.ones((1, x.shape[1]), dtype=bool), x[:-1,:] == False] )
             ynp1False = np.vstack( [ x[1:,:] == False, np.ones((1, x.shape[1]), dtype=bool) ] )
             c = x & ((xnm1False & xnp1False) | (ynm1False & ynp1False))
             i = np.transpose(np.argwhere(c))
@@ -304,10 +307,10 @@ def place(x_, n, maxComb = [],
 #                         fillSquare(x, index[0], index[1], n, True);
              
                 scores = np.array(scores)
-                if allowRandomNoiseInScores:
-                    scores += 1e-5*np.random.normal(0.0, 1.0, len(scores))
+                if sigmaNoiseInScores > 0:
+                    scores += np.random.normal(0.0, sigmaNoiseInScores, len(scores))
                 scores_i = np.argsort(scores)
-                scores_i = scores_i[scores[scores_i] < 0]
+#                 scores_i = scores_i[scores[scores_i] < 0]
                 squares_i = None
                 optimalSolution_i = True  
                 if maxComb_ < len(scores_i):
@@ -397,9 +400,6 @@ def hash_(x):
     else:
         return (None, None, None)
 
-hash_.table = {}
-hash_.hits = 0
-
 def populate(x, squares):
     r = np.zeros(x.shape, dtype=int16)
     for k in range(0, squares.shape[1]):
@@ -430,9 +430,9 @@ def partition(x):
         
         while (xiSize > xiSize_nm1):
             # neighbors
-            xn = np.hstack( [ np.zeros((xi.shape[0], 1), dtype=bool), xi[:,:xi.shape[1]-1]] )
+            xn = np.hstack( [ np.zeros((xi.shape[0], 1), dtype=bool), xi[:,:-1]] )
             xn |= np.hstack( [ xi[:,1:], np.zeros((xi.shape[0], 1), dtype=bool) ] )
-            xn |= np.vstack( [ np.zeros((1, xi.shape[1]), dtype=bool), xi[:xi.shape[0]-1,:]] )
+            xn |= np.vstack( [ np.zeros((1, xi.shape[1]), dtype=bool), xi[:-1,:]] )
             xn |= np.vstack( [ xi[1:, :], np.zeros((1, xi.shape[1]), dtype=bool) ] )
             xn &= x
             xi |= xn
@@ -445,6 +445,9 @@ def partition(x):
     return result
     
 def solve(x, bestLength = sys.maxsize):
+
+    hash_.table = {}
+    hash_.hits = 0
 
     if plots:
         fig = plt.figure(1)
@@ -478,7 +481,8 @@ def solve(x, bestLength = sys.maxsize):
                          ]
       
     
-    timeLimit = max(10, 0.4*(np.sqrt(np.prod(np.array(x.shape))) - 15))
+#     timeLimit = max(10.0, 0.4*(np.sqrt(np.prod(np.array(x.shape))) - 15))
+    timeLimit = 10.0
     print('time limit for this puzzle %.2fs' % (timeLimit))
     t0 = time.time()
     place.stop = False
@@ -492,19 +496,18 @@ def solve(x, bestLength = sys.maxsize):
     
     checktime()
     
-    
     for k in range(0,len(maxCombThresholds)):
         if place.stop:
             break
         print('iteration %i' % (k))
-        for n in range(0,3):
+        for n in range(0, 4 if sigmaNoiseInScores > 0 else 1):
             if place.stop:
                 break
             t = time.time()
             [squares_i, optimalSolution] = place(x, min(x.shape), maxCombThresholds[k], 0, bestLength, True, True)
-            elapsed = time.time() - t
             elapsed0 = time.time() - t0
             if (squares_i is not None) and squares_i.shape[1] < bestLength:
+                timeLimit = max(timeLimit, elapsed0 * (1 + timeLimitGrowFactor))
                 bestLength = squares_i.shape[1]
                 squares = squares_i
                 if plots:
@@ -514,7 +517,7 @@ def solve(x, bestLength = sys.maxsize):
                     fig.canvas.draw()
         
                 print('Cache has %i entries, got %i hits' % (len(hash_.table), hash_.hits))
-                print("Found solution with %i squares in %0.2fs, total elapsed %0.2fs " % (squares.shape[1], elapsed, elapsed0))
+                print("Found solution with %i squares, total elapsed %0.2fs " % (squares.shape[1], elapsed0))
                 xi = populate(x, squares)
                 if np.any(xi[x] == 0):
                     assert(False)
@@ -556,7 +559,7 @@ def solve(x, bestLength = sys.maxsize):
 # print(s0 - s1)
 # print(len(combinations(x, n)))
 
-# 
+  
 # x = np.array([
 #               [0,0,1,1,1,1,1,1,1,0,0,1],
 #               [1,0,1,1,1,1,1,1,1,1,1,1],
@@ -571,52 +574,50 @@ def solve(x, bestLength = sys.maxsize):
 #               [0,0,0,0,1,1,1,1,1,1,0,0],
 #               [0,0,0,0,1,1,1,1,1,1,1,1],
 #               ])
-#   
+#      
 # x = (x == 1)
-#  
-# solve(x)
-# 
-# 
-puzzles = glob.glob("puzzles/*.npy")
-cacheFileName = 'cache.txt'
-if os.path.isfile(cacheFileName):
-    with open(cacheFileName, 'rb') as f:
-        print('Reading cache from file ...')
-        hash_.table = load(f)
-        print('... done')
-          
-    
-for puzzle in puzzles:
-    print(puzzle)
-    solution = puzzle[:-4] + str('.sol')
-      
-    bestSize = sys.maxsize
-    if os.path.isfile(solution):
-        bestSol = np.loadtxt(solution)
-        bestSize = bestSol.shape[1]
-        print('best solution has %i squares' % (bestSize))
-           
-    print(solution)
-    # x = generate(30, 30, 25, 15)
-    x = np.load(puzzle)
-    # # print(np.sum(x))
-    # x = x > 0
-    # np.savetxt('puzzle.txt', x, fmt='%i')
-    sol = solve(x, bestSize)
-    if (sol is not None):
-        np.savetxt(solution, sol, fmt='%i')
-          
-    print('Saving cache to file ...')
-    with open(cacheFileName, 'wb') as f:
-        dump(hash_.table, f)    
-    print('... done')
-  
-#  
- 
-# x = generate(30, 30, 25, 15)
-# # x = np.loadtxt('puzzle.txt')
-# # print(np.sum(x))
-# x = x > 0
-# np.savetxt('puzzle.txt', x, fmt='%i')
+#     
 # solve(x)
 
+# cacheFileName = 'cache.txt'
+# if os.path.isfile(cacheFileName):
+#     with open(cacheFileName, 'rb') as f:
+#         print('Reading cache from file ...')
+#         hash_.table = load(f)
+#         print('... done')
+#            
+#      
+# 
+# puzzles = glob.glob("puzzles/*.npy")
+# for puzzle in puzzles:
+#     print(puzzle)
+#     solution = puzzle[:-4] + str('.sol')
+#          
+#     bestSize = sys.maxsize
+#     if os.path.isfile(solution):
+#         bestSol = np.loadtxt(solution)
+#         bestSize = bestSol.shape[1]
+#         print('best solution has %i squares' % (bestSize))
+#               
+#     print(solution)
+#     # x = generate(30, 30, 25, 15)
+#     x = np.load(puzzle)
+#     # # print(np.sum(x))
+#     # x = x > 0
+#     # np.savetxt('puzzle.txt', x, fmt='%i')
+#     sol = solve(x, bestSize)
+#     if (sol is not None):
+#         np.savetxt(solution, sol, fmt='%i')
+
+#            
+#    
+# x = generate(30, 30, 40, 12)
+x = np.loadtxt('puzzle.txt')
+# print(np.sum(x))
+x = x > 0
+np.savetxt('puzzle.txt', x, fmt='%i')
+solve(x)
+#     print('Saving cache to file ...')
+#     with open(cacheFileName, 'wb') as f:
+#         dump(hash_.table, f)    
+#     print('... done')
