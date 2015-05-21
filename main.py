@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import numpy as np
 import matplotlib.pyplot as plt
 from random import randint
@@ -7,8 +9,6 @@ from numpy import int16
 import time
 import threading
 import sys
-import glob
-import os
 
 # configuration
 plots = False
@@ -463,43 +463,43 @@ def solve(x, bestLength = sys.maxsize):
     squares = None
     
     maxCombThresholds = [
-                         [ ],
-                         [ 100 ],
-                         [ 200, 100 ],
-                         [ 200, 100, 50 ],
-                         [ 300, 200, 100, 50 ],
-                         [ 400, 300, 200, 100, 50 ],
-                         [ 500, 400, 300, 200, 100, 50 ],
-                         [ 600, 500, 400, 300, 200, 100, 50 ],
-                         [ 700, 600, 500, 400, 300, 200, 100, 50 ],
-                         [ 800, 700, 600, 500, 400, 300, 200, 100, 50 ],
-                         [ 900, 800, 700, 600, 500, 400, 300, 200, 100, 50 ],
-                         [ 1000, 1000, 1000, 1000, 700, 600, 500, 400, 300, 200 ],
-                         [ 1000, 1000, 1000, 1000, 1000, 700, 600, 500, 400, 300, 200 ],
+                        [ ],
+                        [ 100 ],
+                        [ 200, 100 ],
+                        [ 200, 100, 50 ],
+                        [ 300, 200, 100, 50 ],
+                        [ 400, 300, 200, 100, 50 ],
+                        [ 500, 400, 300, 200, 100, 50 ],
+                        [ 600, 500, 400, 300, 200, 100, 50 ],
+                        [ 700, 600, 500, 400, 300, 200, 100, 50 ],
+                        [ 800, 700, 600, 500, 400, 300, 200, 100, 50 ],
+                        [ 900, 800, 700, 600, 500, 400, 300, 200, 100, 50 ],
+                        [ 1000, 1000, 1000, 1000, 700, 600, 500, 400, 300, 200 ],
+                        [ 1000, 1000, 1000, 1000, 1000, 700, 600, 500, 400, 300, 200 ],
                          [ 1000000, 1000000, 1000000, 1000000, 1000000, 1000000, 1000000, 1000000, 1000000, 1000000, 1000000 ],
                          [ np.NaN ],
                          ]
       
     
 #     timeLimit = max(10.0, 0.4*(np.sqrt(np.prod(np.array(x.shape))) - 15))
-    timeLimit = 10.0
-    print('time limit for this puzzle %.2fs' % (timeLimit))
+    timeLimit = 9.0
+#     print('time limit for this puzzle %.2fs' % (timeLimit))
     t0 = time.time()
     place.stop = False
     def checktime():
         elapsed0 = time.time() - t0
         if (elapsed0 > timeLimit):
             place.stop = True
-            print('reached time limit, quiting ...')
+#             print('reached time limit, quiting ...')
         else:
-            threading.Timer(1.0, checktime).start()
+            threading.Timer(0.5, checktime).start()
     
     checktime()
     
     for k in range(0,len(maxCombThresholds)):
         if place.stop:
             break
-        print('iteration %i' % (k))
+#         print('iteration %i' % (k))
         for n in range(0, 4 if sigmaNoiseInScores > 0 else 1):
             if place.stop:
                 break
@@ -516,17 +516,17 @@ def solve(x, bestLength = sys.maxsize):
                     ax.imshow(xi, interpolation='none')
                     fig.canvas.draw()
         
-                print('Cache has %i entries, got %i hits' % (len(hash_.table), hash_.hits))
-                print("Found solution with %i squares, total elapsed %0.2fs " % (squares.shape[1], elapsed0))
+#                 print('Cache has %i entries, got %i hits' % (len(hash_.table), hash_.hits))
+#                 print("Found solution with %i squares, total elapsed %0.2fs " % (squares.shape[1], elapsed0))
                 xi = populate(x, squares)
                 if np.any(xi[x] == 0):
                     assert(False)
     
     elapsed0 = time.time() - t0
-    if squares is None:
-        print("Solution not found")
-    else:
-        print("Found solution with %i squares, total elapsed %0.2fs " % (squares.shape[1], elapsed0))
+#     if squares is None:
+#         print("Solution not found")
+#     else:
+#         print("Found solution with %i squares, total elapsed %0.2fs " % (squares.shape[1], elapsed0))
     
     return squares
     
@@ -611,13 +611,20 @@ def solve(x, bestLength = sys.maxsize):
 
 #            
 #    
-# x = generate(30, 30, 40, 12)
-x = np.loadtxt('puzzle.txt')
-# print(np.sum(x))
-x = x > 0
-np.savetxt('puzzle.txt', x, fmt='%i')
-solve(x)
+# x = generate(100, 100, 60, 30)
+# x = np.loadtxt('puzzle.txt')
+# # print(np.sum(x))
+# x = x > 0
+# np.savetxt('puzzle.txt', x, fmt='%i')
+# solve(x)
 #     print('Saving cache to file ...')
 #     with open(cacheFileName, 'wb') as f:
 #         dump(hash_.table, f)    
 #     print('... done')
+
+x = np.load('/tmp/puzzle.npy')
+y = solve(x)
+if y is None:
+    y = np.zeros((0, 0))
+s = ' '.join('%i'%F for F in np.hstack([y.shape[0], y.shape[1], np.reshape(y, y.shape[0]*y.shape[1])]) )
+print(s)

@@ -1,0 +1,4006 @@
+(0, '')
+Puzzle #0
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 27 width x 24 height and ID=d60c72b458ad4280b2e304f7505c4036-14322408959874512
+Generating solution
+132
+138
+141
+118
+Submitting solution
+Your solution succeeded with 118 squares, for a score of 118, with a time penalty of 0.
+Puzzle #1
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 34 width x 36 height and ID=e67d884d5c374a74b2198b24c38df0a2-14322409068311759
+Generating solution
+127
+127
+126
+125
+Submitting solution
+Your solution succeeded with 125 squares, for a score of 125, with a time penalty of 0.
+Puzzle #2
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 39 width x 31 height and ID=51beb457f5df4d16b2193b69e60b16a5-14322409174562048
+Generating solution
+94
+104
+102
+99
+Submitting solution
+Your solution succeeded with 94 squares, for a score of 94, with a time penalty of 0.
+Puzzle #3
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 25 width x 20 height and ID=35e50e57850a4608a0fd7e423c295aa0-14322409280187162
+Generating solution
+79
+70
+68
+76
+Submitting solution
+Your solution succeeded with 68 squares, for a score of 68, with a time penalty of 0.
+Puzzle #4
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 35 width x 26 height and ID=04131f94fe5f46b1ad459506b61a6822-14322409387062752
+Generating solution
+132
+138
+129
+128
+Submitting solution
+Your solution succeeded with 128 squares, for a score of 131, with a time penalty of 3.
+Puzzle #5
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 38 width x 20 height and ID=843f4c7921584e84baf677300f6cc802-14322409502843410
+Generating solution
+128
+126
+128
+129
+Submitting solution
+Your solution succeeded with 126 squares, for a score of 126, with a time penalty of 0.
+Puzzle #6
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 33 width x 28 height and ID=b98dca231ffc4d13af1eef3506d6fa22-14322409607687228
+Generating solution
+137
+139
+139
+132
+Submitting solution
+Your solution succeeded with 132 squares, for a score of 132, with a time penalty of 0.
+Puzzle #7
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 23 width x 24 height and ID=a78cd74655e943f8bd6c4900f821ff7c-14322409714093248
+Generating solution
+113
+110
+99
+106
+Submitting solution
+Your solution succeeded with 99 squares, for a score of 99, with a time penalty of 0.
+Puzzle #8
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 28 width x 24 height and ID=3f805c6073774fbd88199f41efecdc12-14322409819405751
+Generating solution
+117
+111
+111
+105
+Submitting solution
+Your solution succeeded with 105 squares, for a score of 105, with a time penalty of 0.
+Puzzle #9
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 34 width x 20 height and ID=a352da115a8e46af8989b58fca394125-14322409925343414
+Generating solution
+151
+154
+151
+156
+Submitting solution
+Your solution succeeded with 151 squares, for a score of 151, with a time penalty of 0.
+Puzzle #10
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 24 width x 30 height and ID=486316501db347da982d1e74068c4c57-14322410032530941
+Generating solution
+115
+113
+101
+111
+Submitting solution
+Your solution succeeded with 101 squares, for a score of 101, with a time penalty of 0.
+Puzzle #11
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 28 width x 37 height and ID=4ecebac881dd4ae2a59a048ffa2b885c-14322410138155944
+Generating solution
+156
+139
+148
+143
+Submitting solution
+Your solution succeeded with 139 squares, for a score of 139, with a time penalty of 0.
+Puzzle #12
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 30 width x 23 height and ID=5aa046b8d6794a4983a96ca32f1b0d3a-14322410243781443
+Generating solution
+90
+87
+100
+87
+Submitting solution
+Your solution succeeded with 87 squares, for a score of 87, with a time penalty of 0.
+Puzzle #13
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 22 width x 24 height and ID=b8d5c0d782da42e3a2751df6c950ded2-14322410352218854
+Generating solution
+69
+74
+71
+72
+Submitting solution
+Your solution succeeded with 69 squares, for a score of 69, with a time penalty of 0.
+Puzzle #14
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 20 width x 22 height and ID=acbc60da0ef44b3faefff8f9316b7094-14322410457531978
+Generating solution
+91
+94
+94
+92
+Submitting solution
+Your solution succeeded with 91 squares, for a score of 91, with a time penalty of 0.
+Puzzle #15
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 36 width x 26 height and ID=f3ebb118b72748f791663bbe14d4245e-14322410563000855
+Generating solution
+140
+126
+133
+137
+Submitting solution
+Your solution succeeded with 126 squares, for a score of 126, with a time penalty of 0.
+Puzzle #16
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 23 width x 26 height and ID=6e543c26a4614b94a7149e689a5671d4-14322410671437853
+Generating solution
+93
+101
+100
+101
+Submitting solution
+Your solution succeeded with 93 squares, for a score of 93, with a time penalty of 0.
+Puzzle #17
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 26 width x 37 height and ID=93edb290aa9a4852a8236c1d6d3e3ebb-14322410777062605
+Generating solution
+190
+179
+182
+187
+Submitting solution
+Your solution succeeded with 179 squares, for a score of 179, with a time penalty of 0.
+Puzzle #18
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 20 width x 25 height and ID=35c31191fc544e13bc6318d0dde8485c-14322410882531354
+Generating solution
+74
+78
+73
+75
+Submitting solution
+Your solution succeeded with 73 squares, for a score of 73, with a time penalty of 0.
+Puzzle #19
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 20 width x 34 height and ID=bdc085a1631d42d894a650d6f05e29d0-14322410988000132
+Generating solution
+76
+77
+77
+79
+Submitting solution
+Your solution succeeded with 76 squares, for a score of 76, with a time penalty of 0.
+Puzzle #20
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 28 width x 25 height and ID=1c5822f0a8e849ebb246e20903d4a59a-14322411093469464
+Generating solution
+143
+132
+141
+140
+Submitting solution
+Your solution succeeded with 132 squares, for a score of 132, with a time penalty of 0.
+Puzzle #21
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 24 width x 32 height and ID=0df27ff97fe3420eb4cbd904cdc6bcb7-14322411202218986
+Generating solution
+118
+117
+122
+115
+Submitting solution
+Your solution succeeded with 115 squares, for a score of 115, with a time penalty of 0.
+Puzzle #22
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 27 width x 22 height and ID=9d53840786b34057ac5eba75b2ff3bcd-14322411309719506
+Generating solution
+68
+60
+63
+59
+Submitting solution
+Your solution succeeded with 59 squares, for a score of 59, with a time penalty of 0.
+Puzzle #23
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 33 width x 30 height and ID=1f7c83cd885b4f9e870cc3e229f0649c-14322411415812893
+Generating solution
+107
+126
+116
+111
+Submitting solution
+Your solution succeeded with 107 squares, for a score of 107, with a time penalty of 0.
+Puzzle #24
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 33 width x 23 height and ID=270d3dda002247c8b9e8fe75f845e52b-14322411521594192
+Generating solution
+158
+161
+146
+164
+Submitting solution
+Your solution succeeded with 146 squares, for a score of 146, with a time penalty of 0.
+Puzzle #25
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 32 width x 29 height and ID=ceb47c9eaec94b71ae2f518f230d21f2-14322411627531842
+Generating solution
+125
+121
+124
+121
+Submitting solution
+Your solution succeeded with 121 squares, for a score of 121, with a time penalty of 0.
+Puzzle #26
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 30 width x 32 height and ID=f3d59c3e3ff94dde8657358d7421c170-14322411734406885
+Generating solution
+139
+140
+143
+151
+Submitting solution
+Your solution succeeded with 139 squares, for a score of 139, with a time penalty of 0.
+Puzzle #27
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 35 width x 36 height and ID=2eecbf5fe40d4c608d8823355533e04d-14322411840344283
+Generating solution
+187
+192
+197
+195
+Submitting solution
+Your solution succeeded with 187 squares, for a score of 187, with a time penalty of 0.
+Puzzle #28
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 35 width x 34 height and ID=dad14b187e924ba5bcbdbfd9f57b0f1f-14322411945657332
+Generating solution
+150
+137
+146
+148
+Submitting solution
+Your solution succeeded with 137 squares, for a score of 137, with a time penalty of 0.
+Puzzle #29
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 35 width x 27 height and ID=a37bb5797bb44df5a52a483158bc0225-14322412051125684
+Generating solution
+112
+109
+111
+115
+Submitting solution
+Your solution succeeded with 109 squares, for a score of 109, with a time penalty of 0.
+Puzzle #30
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 37 width x 31 height and ID=84f4ad27cac649fab894e78f74985886-14322412156438347
+Generating solution
+157
+149
+143
+152
+Submitting solution
+Your solution succeeded with 143 squares, for a score of 143, with a time penalty of 0.
+Puzzle #31
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 26 width x 20 height and ID=a9a47db29b514b5eaa3fed1fa7e461a1-14322412261750852
+Generating solution
+108
+114
+116
+107
+Submitting solution
+Your solution succeeded with 107 squares, for a score of 107, with a time penalty of 0.
+Puzzle #32
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 21 width x 32 height and ID=39804c0b197641b886bfa4a597783255-14322412367532158
+Generating solution
+86
+93
+81
+91
+Submitting solution
+Your solution succeeded with 81 squares, for a score of 81, with a time penalty of 0.
+Puzzle #33
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 23 width x 21 height and ID=42b11cd4f5b645dbaf655fc78d306223-14322412473782390
+Generating solution
+104
+108
+105
+105
+Submitting solution
+Your solution succeeded with 104 squares, for a score of 104, with a time penalty of 0.
+Puzzle #34
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 21 width x 32 height and ID=782511781ba54e21a64bcb6dc9e5f155-14322412579719783
+Generating solution
+136
+120
+130
+133
+Submitting solution
+Your solution succeeded with 120 squares, for a score of 120, with a time penalty of 0.
+Puzzle #35
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 38 width x 24 height and ID=3d8a7fa49f834fe38f7edbf3e68138fd-14322412686282222
+Generating solution
+125
+122
+128
+121
+Submitting solution
+Your solution succeeded with 121 squares, for a score of 121, with a time penalty of 0.
+Puzzle #36
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 39 width x 23 height and ID=efd53b385cb44525be1b27e7f8ef8e79-14322412791282277
+Generating solution
+99
+97
+101
+101
+Submitting solution
+Your solution succeeded with 97 squares, for a score of 97, with a time penalty of 0.
+Puzzle #37
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 37 width x 26 height and ID=770c407f371547f0bcb07d89a4591305-14322412895658707
+Generating solution
+161
+162
+151
+159
+Submitting solution
+Your solution succeeded with 151 squares, for a score of 151, with a time penalty of 0.
+Puzzle #38
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 25 width x 26 height and ID=0ef0fd88c44f4af38c66c8d7264671a4-14322413001126523
+Generating solution
+127
+112
+138
+139
+Submitting solution
+Your solution succeeded with 112 squares, for a score of 112, with a time penalty of 0.
+Puzzle #39
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 28 width x 28 height and ID=91d05d81843e43e798565cc199c47e2a-14322413107688769
+Generating solution
+147
+142
+154
+149
+Submitting solution
+Your solution succeeded with 142 squares, for a score of 142, with a time penalty of 0.
+Puzzle #40
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 25 width x 28 height and ID=40ec9bbda6b745b6aa8d3a08a7f93241-14322413213314078
+Generating solution
+120
+144
+128
+145
+Submitting solution
+Your solution succeeded with 120 squares, for a score of 120, with a time penalty of 0.
+Puzzle #41
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 36 width x 38 height and ID=71f55a98012d4e9897b1757daf6b0f8f-14322413320032667
+Generating solution
+134
+117
+124
+122
+Submitting solution
+Your solution succeeded with 117 squares, for a score of 132, with a time penalty of 15.
+Puzzle #42
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 21 width x 22 height and ID=506b4dfa4c7d42f3b40f4f1332a04a2a-14322413480657864
+Generating solution
+112
+110
+103
+105
+Submitting solution
+Your solution succeeded with 103 squares, for a score of 103, with a time penalty of 0.
+Puzzle #43
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 36 width x 36 height and ID=6509245aebe340688d7e785871771b53-14322413590189047
+Generating solution
+130
+114
+119
+122
+Submitting solution
+Your solution succeeded with 114 squares, for a score of 114, with a time penalty of 0.
+Puzzle #44
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 26 width x 36 height and ID=f1009b392baf445fb42b7fa7770b5069-14322413695970331
+Generating solution
+86
+87
+95
+96
+Submitting solution
+Your solution succeeded with 86 squares, for a score of 86, with a time penalty of 0.
+Puzzle #45
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 23 width x 23 height and ID=5a1470be04da46218c8c8f83ace9d206-14322413800814542
+Generating solution
+99
+106
+105
+106
+Submitting solution
+Your solution succeeded with 99 squares, for a score of 99, with a time penalty of 0.
+Puzzle #46
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 35 width x 37 height and ID=2b5ef00ef194439893e0e089083df568-14322413906439422
+Generating solution
+190
+190
+192
+196
+Submitting solution
+Your solution succeeded with 190 squares, for a score of 190, with a time penalty of 0.
+Puzzle #47
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 37 width x 37 height and ID=b0a1912f7f89495faba09126849ea45c-14322414012845964
+Generating solution
+117
+116
+103
+108
+Submitting solution
+Your solution succeeded with 103 squares, for a score of 103, with a time penalty of 0.
+Puzzle #48
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 25 width x 23 height and ID=8a1cfccc25904e8ba8c7eb6ce440017d-14322414118626713
+Generating solution
+105
+103
+104
+105
+Submitting solution
+Your solution succeeded with 103 squares, for a score of 103, with a time penalty of 0.
+Puzzle #49
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 32 width x 21 height and ID=97196fd3dc5e4a32806e944bf0036d41-14322414225814387
+Generating solution
+95
+97
+100
+100
+Submitting solution
+Your solution succeeded with 95 squares, for a score of 95, with a time penalty of 0.
+Puzzle #50
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 23 width x 26 height and ID=efab75a510d846a389323eb651b125a3-14322414334720635
+Generating solution
+111
+106
+108
+106
+Submitting solution
+Your solution succeeded with 106 squares, for a score of 106, with a time penalty of 0.
+Puzzle #51
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 31 width x 33 height and ID=b43befa1f68f4e2d998808ea72f38c72-14322414440189365
+Generating solution
+143
+156
+155
+160
+Submitting solution
+Your solution succeeded with 143 squares, for a score of 143, with a time penalty of 0.
+Puzzle #52
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 35 width x 24 height and ID=fc2af42b9dd34dad9470d81d2bc1ff11-14322414546439736
+Generating solution
+142
+141
+129
+136
+Submitting solution
+Your solution succeeded with 129 squares, for a score of 129, with a time penalty of 0.
+Puzzle #53
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 31 width x 33 height and ID=ff6cfee78a21424cb0b63f57cc698e96-14322414653471084
+Generating solution
+115
+124
+117
+115
+Submitting solution
+Your solution succeeded with 115 squares, for a score of 115, with a time penalty of 0.
+Puzzle #54
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 29 width x 26 height and ID=86d95230fdcf45b389af63581e36018f-14322414758627160
+Generating solution
+121
+126
+124
+129
+Submitting solution
+Your solution succeeded with 121 squares, for a score of 121, with a time penalty of 0.
+Puzzle #55
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 33 width x 37 height and ID=6f6ad0683f124dc6aa2b405e3fd41e12-14322414864252094
+Generating solution
+86
+90
+86
+87
+Submitting solution
+Your solution succeeded with 86 squares, for a score of 86, with a time penalty of 0.
+Puzzle #56
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 35 width x 21 height and ID=0cdf38dc7f3f4f57b032d263ed4c7242-14322414969252842
+Generating solution
+153
+137
+140
+148
+Submitting solution
+Your solution succeeded with 137 squares, for a score of 137, with a time penalty of 0.
+Puzzle #57
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 31 width x 39 height and ID=b47d4a7e2f014d298b7ac24a5f2e9f96-14322415076595961
+Generating solution
+162
+149
+153
+145
+Submitting solution
+Your solution succeeded with 145 squares, for a score of 145, with a time penalty of 0.
+Puzzle #58
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 35 width x 38 height and ID=2fc739ab78e349af9ccb85b468fdd284-14322415182690057
+Generating solution
+82
+93
+93
+85
+Submitting solution
+Your solution succeeded with 82 squares, for a score of 82, with a time penalty of 0.
+Puzzle #59
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 36 width x 37 height and ID=75c224b461644947afc4cceaa17cdf2f-14322415289096287
+Generating solution
+125
+112
+115
+113
+Submitting solution
+Your solution succeeded with 112 squares, for a score of 112, with a time penalty of 0.
+Puzzle #60
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 38 width x 38 height and ID=3e7d2265bb0b4f15a1e2669b933e38a3-14322415394564987
+Generating solution
+154
+157
+158
+164
+Submitting solution
+Your solution succeeded with 154 squares, for a score of 154, with a time penalty of 0.
+Puzzle #61
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 23 width x 24 height and ID=ba7217cbe0e14b818ab9f66ebb0a436b-14322415500034120
+Generating solution
+68
+60
+60
+62
+Submitting solution
+Your solution succeeded with 60 squares, for a score of 60, with a time penalty of 0.
+Puzzle #62
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 38 width x 20 height and ID=64e0b2abed704be28801d3828db34932-14322415605346327
+Generating solution
+100
+92
+94
+89
+Submitting solution
+Your solution succeeded with 89 squares, for a score of 89, with a time penalty of 0.
+Puzzle #63
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 38 width x 34 height and ID=26ba03c572214b6cbce2231d4f115c0d-14322415711752525
+Generating solution
+96
+94
+92
+93
+Submitting solution
+Your solution succeeded with 92 squares, for a score of 92, with a time penalty of 0.
+Puzzle #64
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 35 width x 26 height and ID=35f55fd322f047b2af233cd1ad1f5aa4-14322415819097520
+Generating solution
+147
+145
+143
+125
+Submitting solution
+Your solution succeeded with 125 squares, for a score of 125, with a time penalty of 0.
+Puzzle #65
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 33 width x 34 height and ID=6f86a7f9db1c47c38ccab93eceffb369-14322415924565179
+Generating solution
+82
+76
+68
+73
+Submitting solution
+Your solution succeeded with 68 squares, for a score of 68, with a time penalty of 0.
+Puzzle #66
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 29 width x 37 height and ID=324c919333b9454aa3a4323edb61b63d-14322416029409035
+Generating solution
+170
+173
+172
+170
+Submitting solution
+Your solution succeeded with 170 squares, for a score of 170, with a time penalty of 0.
+Puzzle #67
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 28 width x 22 height and ID=b3256cb9bf1d493c8a351a2a484dd3fa-14322416134877839
+Generating solution
+71
+82
+74
+73
+Submitting solution
+Your solution succeeded with 71 squares, for a score of 71, with a time penalty of 0.
+Puzzle #68
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 36 width x 26 height and ID=88794f9d089c412ca3b6c7122b86f5b8-14322416241284637
+Generating solution
+105
+113
+120
+112
+Submitting solution
+Your solution succeeded with 105 squares, for a score of 105, with a time penalty of 0.
+Puzzle #69
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 26 width x 33 height and ID=89facca86387486fa8fb8751937545c5-14322416346753221
+Generating solution
+81
+88
+83
+93
+Submitting solution
+Your solution succeeded with 81 squares, for a score of 81, with a time penalty of 0.
+Puzzle #70
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 24 width x 26 height and ID=fb673d79fc2e4234b85aa322ebe22a85-14322416451128550
+Generating solution
+65
+61
+60
+58
+Submitting solution
+Your solution succeeded with 58 squares, for a score of 58, with a time penalty of 0.
+Puzzle #71
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 35 width x 30 height and ID=cd07a1878da14dbf9b9d6ca684b46204-14322416556596874
+Generating solution
+88
+103
+83
+103
+Submitting solution
+Your solution succeeded with 83 squares, for a score of 83, with a time penalty of 0.
+Puzzle #72
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 20 width x 29 height and ID=893f2c1a0b464bdfbc68433c32ce025d-14322416662065884
+Generating solution
+85
+75
+82
+81
+Submitting solution
+Your solution succeeded with 75 squares, for a score of 75, with a time penalty of 0.
+Puzzle #73
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 24 width x 28 height and ID=6b70b855cc36421099ef61c00170efa9-14322416769722459
+Generating solution
+78
+73
+71
+77
+Submitting solution
+Your solution succeeded with 71 squares, for a score of 71, with a time penalty of 0.
+Puzzle #74
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 30 width x 30 height and ID=945b5147358e4c13b0edf72f0244e745-14322416875034762
+Generating solution
+131
+139
+131
+132
+Submitting solution
+Your solution succeeded with 131 squares, for a score of 131, with a time penalty of 0.
+Puzzle #75
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 26 width x 39 height and ID=cd91d0c335bd488bb82a1bc6e534e4a3-14322416980659451
+Generating solution
+158
+148
+160
+166
+Submitting solution
+Your solution succeeded with 148 squares, for a score of 148, with a time penalty of 0.
+Puzzle #76
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 35 width x 30 height and ID=7787be461359457d882c53b32c2e1541-14322417086598235
+Generating solution
+174
+179
+180
+174
+Submitting solution
+Your solution succeeded with 174 squares, for a score of 174, with a time penalty of 0.
+Puzzle #77
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 34 width x 29 height and ID=efc18752466341188c3b8bbefe94fcb3-14322417193629029
+Generating solution
+124
+118
+112
+115
+Submitting solution
+Your solution succeeded with 112 squares, for a score of 112, with a time penalty of 0.
+Puzzle #78
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 39 width x 31 height and ID=a8fba12afbb54c7b88e30365b2da1c41-14322417299097217
+Generating solution
+146
+147
+152
+145
+Submitting solution
+Your solution succeeded with 145 squares, for a score of 145, with a time penalty of 0.
+Puzzle #79
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 27 width x 34 height and ID=0fcc29442f3748eca64fd9cdfd30ff7b-14322417406753558
+Generating solution
+161
+155
+161
+160
+Submitting solution
+Your solution succeeded with 155 squares, for a score of 155, with a time penalty of 0.
+Puzzle #80
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 38 width x 25 height and ID=c27df4b121b143fdbff54faa13b13c42-14322417512065985
+Generating solution
+129
+128
+128
+131
+Submitting solution
+Your solution succeeded with 128 squares, for a score of 128, with a time penalty of 0.
+Puzzle #81
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 23 width x 26 height and ID=02423aa7d6064f9ab94eb7ed49422c19-14322417616441061
+Generating solution
+55
+63
+60
+63
+Submitting solution
+Your solution succeeded with 55 squares, for a score of 55, with a time penalty of 0.
+Puzzle #82
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 37 width x 29 height and ID=806b65d013c4463e8a286204f281c23a-14322417722066178
+Generating solution
+167
+176
+167
+160
+Submitting solution
+Your solution succeeded with 160 squares, for a score of 160, with a time penalty of 0.
+Puzzle #83
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 20 width x 22 height and ID=d580eab90ee246d7a30fd3b2b3ba9e89-14322417829097780
+Generating solution
+80
+75
+84
+84
+Submitting solution
+Your solution succeeded with 75 squares, for a score of 75, with a time penalty of 0.
+Puzzle #84
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 27 width x 28 height and ID=81051296a034462da8d72394e1d37595-14322417934253844
+Generating solution
+140
+134
+126
+133
+Submitting solution
+Your solution succeeded with 126 squares, for a score of 126, with a time penalty of 0.
+Puzzle #85
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 23 width x 25 height and ID=5f2e7defacf4486a83adb3a692546755-14322418043628722
+Generating solution
+105
+108
+115
+111
+Submitting solution
+Your solution succeeded with 105 squares, for a score of 105, with a time penalty of 0.
+Puzzle #86
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 20 width x 35 height and ID=44c3ecaea46742e7ac13fa574f86324e-14322418149253811
+Generating solution
+111
+123
+115
+121
+Submitting solution
+Your solution succeeded with 111 squares, for a score of 111, with a time penalty of 0.
+Puzzle #87
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 20 width x 29 height and ID=fb357c1d78364a8fa64fa6e9c93a9fe5-14322418254724019
+Generating solution
+129
+131
+133
+128
+Submitting solution
+Your solution succeeded with 128 squares, for a score of 128, with a time penalty of 0.
+Puzzle #88
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 37 width x 29 height and ID=9746eb638b7844fc98f2475bae87dac8-14322418363160470
+Generating solution
+146
+154
+141
+158
+Submitting solution
+Your solution succeeded with 141 squares, for a score of 141, with a time penalty of 0.
+Puzzle #89
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 33 width x 36 height and ID=808640b0636a42cbbef6920f00ef779b-14322418468629232
+Generating solution
+169
+171
+176
+171
+Submitting solution
+Your solution succeeded with 169 squares, for a score of 169, with a time penalty of 0.
+Puzzle #90
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 25 width x 34 height and ID=2de2863beb1748379bea3311b287af80-14322418574254420
+Generating solution
+147
+147
+146
+149
+Submitting solution
+Your solution succeeded with 146 squares, for a score of 146, with a time penalty of 0.
+Puzzle #91
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 28 width x 32 height and ID=98dff3c1802f4547b25768d356fa9eec-14322418679410356
+Generating solution
+82
+80
+82
+75
+Submitting solution
+Your solution succeeded with 75 squares, for a score of 75, with a time penalty of 0.
+Puzzle #92
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 24 width x 26 height and ID=5e2cf9b8c6f44457ac668cd3256dd80e-14322418784879140
+Generating solution
+110
+113
+100
+111
+Submitting solution
+Your solution succeeded with 100 squares, for a score of 100, with a time penalty of 0.
+Puzzle #93
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 36 width x 29 height and ID=1975d412fc5e44009afef52f2df8a3e6-14322418893160452
+Generating solution
+90
+87
+93
+86
+Submitting solution
+Your solution succeeded with 86 squares, for a score of 86, with a time penalty of 0.
+Puzzle #94
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 23 width x 36 height and ID=94ca3d7612034c698584ee36171d4239-14322418997848090
+Generating solution
+122
+112
+115
+117
+Submitting solution
+Your solution succeeded with 112 squares, for a score of 112, with a time penalty of 0.
+Puzzle #95
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 20 width x 39 height and ID=ce86ae2646d84a45b54edafcb2c39473-14322419103629335
+Generating solution
+161
+162
+169
+167
+Submitting solution
+Your solution succeeded with 161 squares, for a score of 161, with a time penalty of 0.
+Puzzle #96
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 25 width x 30 height and ID=b9637ce5a16947ad871e58f4c7a328f2-14322419209723306
+Generating solution
+165
+160
+168
+156
+Submitting solution
+Your solution succeeded with 156 squares, for a score of 156, with a time penalty of 0.
+Puzzle #97
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 35 width x 39 height and ID=eaf35f1aad3d420d96f0623c35d3bff2-14322419315504505
+Generating solution
+184
+173
+182
+182
+Submitting solution
+Your solution succeeded with 173 squares, for a score of 173, with a time penalty of 0.
+Puzzle #98
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 20 width x 22 height and ID=776c24e49dfe4f238023a62f36740eb2-14322419421754570
+Generating solution
+108
+120
+108
+124
+Submitting solution
+Your solution succeeded with 108 squares, for a score of 108, with a time penalty of 0.
+Puzzle #99
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 34 width x 28 height and ID=20907ecadc994c59a3fc982917563a97-14322419529723598
+Generating solution
+78
+80
+73
+80
+Submitting solution
+Your solution succeeded with 73 squares, for a score of 73, with a time penalty of 0.
+Puzzle #100
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 34 width x 30 height and ID=d1a025004b584075b32cb91287d387a0-14322419635817384
+Generating solution
+96
+98
+92
+99
+Submitting solution
+Your solution succeeded with 92 squares, for a score of 92, with a time penalty of 0.
+Puzzle #101
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 36 width x 27 height and ID=531112cd3df64910bda5aa345c71df86-14322419741598541
+Generating solution
+99
+87
+94
+97
+Submitting solution
+Your solution succeeded with 87 squares, for a score of 87, with a time penalty of 0.
+Puzzle #102
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 28 width x 25 height and ID=324e8a09d7c146c585ac7ce96834f0e5-14322419846911457
+Generating solution
+116
+119
+114
+110
+Submitting solution
+Your solution succeeded with 110 squares, for a score of 110, with a time penalty of 0.
+Puzzle #103
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 33 width x 20 height and ID=df46894ad664415084b14bc24f6990e4-14322419954254780
+Generating solution
+139
+143
+140
+144
+Submitting solution
+Your solution succeeded with 139 squares, for a score of 139, with a time penalty of 0.
+Puzzle #104
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 24 width x 36 height and ID=d491f5afca1144f6b559b46af3256bb6-14322420061130046
+Generating solution
+102
+101
+102
+101
+Submitting solution
+Your solution succeeded with 101 squares, for a score of 101, with a time penalty of 0.
+Puzzle #105
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 31 width x 21 height and ID=32014239bff74af7aa7dfa2aae63b7d9-14322420166598573
+Generating solution
+128
+129
+125
+126
+Submitting solution
+Your solution succeeded with 125 squares, for a score of 125, with a time penalty of 0.
+Puzzle #106
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 32 width x 35 height and ID=9ea53a3ffc7d4ab6bf82b2485592c5a7-14322420275974091
+Generating solution
+185
+173
+164
+178
+Submitting solution
+Your solution succeeded with 164 squares, for a score of 164, with a time penalty of 0.
+Puzzle #107
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 36 width x 20 height and ID=dbee3df7d7484ffba748e6dbea40b57e-14322420383629915
+Generating solution
+78
+75
+76
+77
+Submitting solution
+Your solution succeeded with 75 squares, for a score of 75, with a time penalty of 0.
+Puzzle #108
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 20 width x 39 height and ID=c9bc85f439c543bebd638701858a5037-14322420488161369
+Generating solution
+89
+90
+76
+88
+Submitting solution
+Your solution succeeded with 76 squares, for a score of 76, with a time penalty of 0.
+Puzzle #109
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 24 width x 31 height and ID=33f1af95f91c40378c565ad3524bcd4b-14322420593786346
+Generating solution
+107
+104
+98
+102
+Submitting solution
+Your solution succeeded with 98 squares, for a score of 98, with a time penalty of 0.
+Puzzle #110
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 35 width x 33 height and ID=b82ccf49840749e9ac29e48b39dc3861-14322420698630502
+Generating solution
+96
+86
+94
+99
+Submitting solution
+Your solution succeeded with 86 squares, for a score of 86, with a time penalty of 0.
+Puzzle #111
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 32 width x 23 height and ID=facdd5ea196e4a5cb9a322a961db1ec6-14322420804255581
+Generating solution
+72
+86
+74
+75
+Submitting solution
+Your solution succeeded with 72 squares, for a score of 72, with a time penalty of 0.
+Puzzle #112
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 21 width x 36 height and ID=a9d6b9e2a06340d38d3f6d7769916ff5-14322420910349164
+Generating solution
+151
+148
+143
+157
+Submitting solution
+Your solution succeeded with 143 squares, for a score of 143, with a time penalty of 0.
+Puzzle #113
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 22 width x 24 height and ID=ef91f7db43144101923dfbb16cd69245-14322421019724151
+Generating solution
+81
+85
+84
+79
+Submitting solution
+Your solution succeeded with 79 squares, for a score of 79, with a time penalty of 0.
+Puzzle #114
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 29 width x 37 height and ID=5528be3a26f04964b3d017a0cdea4a25-14322421125349118
+Generating solution
+88
+84
+78
+81
+Submitting solution
+Your solution succeeded with 78 squares, for a score of 78, with a time penalty of 0.
+Puzzle #115
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 37 width x 24 height and ID=5a7d05dced544272aedb041ae007c5e8-14322421230974680
+Generating solution
+66
+65
+63
+64
+Submitting solution
+Your solution succeeded with 63 squares, for a score of 63, with a time penalty of 0.
+Puzzle #116
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 25 width x 21 height and ID=26ef43b3972541c5bed1f77461b72c03-14322421336912122
+Generating solution
+103
+106
+105
+103
+Submitting solution
+Your solution succeeded with 103 squares, for a score of 103, with a time penalty of 0.
+Puzzle #117
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 22 width x 23 height and ID=0d101f3ea074464c9ba10fecbab12d85-14322421443161753
+Generating solution
+71
+65
+71
+69
+Submitting solution
+Your solution succeeded with 65 squares, for a score of 65, with a time penalty of 0.
+Puzzle #118
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 36 width x 30 height and ID=0ec613a2eb934e6782cbc072e199d1e9-14322421548630564
+Generating solution
+87
+84
+91
+91
+Submitting solution
+Your solution succeeded with 84 squares, for a score of 84, with a time penalty of 0.
+Puzzle #119
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 20 width x 30 height and ID=38977afd18e54ab094371c00d3fccae3-14322421654411926
+Generating solution
+118
+115
+115
+116
+Submitting solution
+Your solution succeeded with 115 squares, for a score of 115, with a time penalty of 0.
+Puzzle #120
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 39 width x 21 height and ID=3e64e39b4ae84d4d80bfd5c2f1af1a88-14322421761755760
+Generating solution
+96
+100
+94
+92
+Submitting solution
+Your solution succeeded with 92 squares, for a score of 92, with a time penalty of 0.
+Puzzle #121
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 21 width x 36 height and ID=6136c28aab0043fe973be22be61f7bf3-14322421867381024
+Generating solution
+112
+106
+116
+113
+Submitting solution
+Your solution succeeded with 106 squares, for a score of 106, with a time penalty of 0.
+Puzzle #122
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 34 width x 21 height and ID=ef3f4c04471040449f2ed2e477c188cb-14322421972693319
+Generating solution
+68
+68
+61
+59
+Submitting solution
+Your solution succeeded with 59 squares, for a score of 59, with a time penalty of 0.
+Puzzle #123
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 24 width x 32 height and ID=748e0509692c465ea5a900ad64954a33-14322422077537023
+Generating solution
+154
+137
+153
+144
+Submitting solution
+Your solution succeeded with 137 squares, for a score of 137, with a time penalty of 0.
+Puzzle #124
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 31 width x 30 height and ID=13f80bbe3782495f89bd7e1790a7f2db-14322422182537216
+Generating solution
+135
+146
+143
+145
+Submitting solution
+Your solution succeeded with 135 squares, for a score of 135, with a time penalty of 0.
+Puzzle #125
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 38 width x 36 height and ID=d471f59cede2461ea034c00b7e5fd29a-14322422289724728
+Generating solution
+147
+154
+141
+147
+Submitting solution
+Your solution succeeded with 141 squares, for a score of 141, with a time penalty of 0.
+Puzzle #126
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 32 width x 30 height and ID=cbad4fbe709b4fa9b5d2d04c7329a029-14322422396287969
+Generating solution
+176
+183
+189
+182
+Submitting solution
+Your solution succeeded with 176 squares, for a score of 176, with a time penalty of 0.
+Puzzle #127
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 25 width x 20 height and ID=1d6d3cdece4043798bfe6d373fcf4848-14322422502224852
+Generating solution
+105
+108
+111
+106
+Submitting solution
+Your solution succeeded with 105 squares, for a score of 105, with a time penalty of 0.
+Puzzle #128
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 34 width x 20 height and ID=13611cc588894b3f977c89c4715606d7-14322422607537406
+Generating solution
+137
+136
+136
+141
+Submitting solution
+Your solution succeeded with 136 squares, for a score of 136, with a time penalty of 0.
+Puzzle #129
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 37 width x 35 height and ID=24b384beb18d4d27917fc62d647a5036-14322422713006802
+Generating solution
+190
+191
+194
+183
+Submitting solution
+Your solution succeeded with 183 squares, for a score of 183, with a time penalty of 0.
+Puzzle #130
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 35 width x 35 height and ID=c4ca7cf131e14ff18781e52e42d82c3e-14322422818631230
+Generating solution
+170
+182
+177
+182
+Submitting solution
+Your solution succeeded with 170 squares, for a score of 170, with a time penalty of 0.
+Puzzle #131
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 34 width x 39 height and ID=c1eff61444074f489806e3f878b31d2d-14322422924256579
+Generating solution
+213
+219
+223
+213
+Submitting solution
+Your solution succeeded with 213 squares, for a score of 213, with a time penalty of 0.
+Puzzle #132
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 31 width x 20 height and ID=717a1c6d5b584e6ea36e01fe909f36f8-14322423028944156
+Generating solution
+89
+90
+89
+93
+Submitting solution
+Your solution succeeded with 89 squares, for a score of 89, with a time penalty of 0.
+Puzzle #133
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 39 width x 36 height and ID=a7f2693be47c4419b63f4c3043c11de0-14322423134568843
+Generating solution
+138
+123
+128
+121
+Submitting solution
+Your solution succeeded with 121 squares, for a score of 121, with a time penalty of 0.
+Puzzle #134
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 28 width x 24 height and ID=af07ea596aa5436cb1dd8f90a86826fe-14322423239725203
+Generating solution
+65
+68
+68
+68
+Submitting solution
+Your solution succeeded with 65 squares, for a score of 65, with a time penalty of 0.
+Puzzle #135
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 30 width x 22 height and ID=8c02fac1d84e499d9fce44cd127e5373-14322423346600180
+Generating solution
+85
+85
+85
+88
+Submitting solution
+Your solution succeeded with 85 squares, for a score of 85, with a time penalty of 0.
+Puzzle #136
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 22 width x 27 height and ID=acdc820043ee4982a6ec690d75ea9aff-14322423451600246
+Generating solution
+84
+84
+79
+82
+Submitting solution
+Your solution succeeded with 79 squares, for a score of 79, with a time penalty of 0.
+Puzzle #137
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 24 width x 28 height and ID=6ea7c574fc3b406699d33bed158b6cf5-14322423557694322
+Generating solution
+55
+60
+62
+60
+Submitting solution
+Your solution succeeded with 55 squares, for a score of 55, with a time penalty of 0.
+Puzzle #138
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 39 width x 35 height and ID=4499c5aa875e4869b815b9db80ef47d3-14322423662537861
+Generating solution
+198
+201
+205
+209
+Submitting solution
+Your solution succeeded with 198 squares, for a score of 198, with a time penalty of 0.
+Puzzle #139
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 32 width x 34 height and ID=645aef614e5a4941a9741d3046f4ca16-14322423768631663
+Generating solution
+129
+128
+126
+125
+Submitting solution
+Your solution succeeded with 125 squares, for a score of 125, with a time penalty of 0.
+Puzzle #140
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 34 width x 28 height and ID=f593398117874462858dbe1285443971-14322423874569269
+Generating solution
+159
+155
+150
+162
+Submitting solution
+Your solution succeeded with 150 squares, for a score of 150, with a time penalty of 0.
+Puzzle #141
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 22 width x 29 height and ID=e0c4991d24a242c2a73ae10f89831633-14322423980976088
+Generating solution
+65
+65
+69
+66
+Submitting solution
+Your solution succeeded with 65 squares, for a score of 65, with a time penalty of 0.
+Puzzle #142
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 23 width x 29 height and ID=40d36e45939f4ed383f5e0b2f8902201-14322424086757058
+Generating solution
+93
+95
+96
+99
+Submitting solution
+Your solution succeeded with 93 squares, for a score of 93, with a time penalty of 0.
+Puzzle #143
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 20 width x 36 height and ID=eb325fd70be84124afd2625c048b3cc1-14322424196288271
+Generating solution
+149
+155
+146
+145
+Submitting solution
+Your solution succeeded with 145 squares, for a score of 145, with a time penalty of 0.
+Puzzle #144
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 33 width x 37 height and ID=882aa8c12bc94ac29a02b13924cef2ec-14322424302538283
+Generating solution
+117
+132
+127
+120
+Submitting solution
+Your solution succeeded with 117 squares, for a score of 117, with a time penalty of 0.
+Puzzle #145
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 38 width x 26 height and ID=b677ab6ac35c45bdb8e074918005fd42-14322424407850723
+Generating solution
+104
+115
+109
+115
+Submitting solution
+Your solution succeeded with 104 squares, for a score of 104, with a time penalty of 0.
+Puzzle #146
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 20 width x 35 height and ID=c6b83fbe2df04f8f9dc6c6df4b1f07a6-14322424515351070
+Generating solution
+59
+51
+55
+50
+Submitting solution
+Your solution succeeded with 50 squares, for a score of 50, with a time penalty of 0.
+Puzzle #147
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 37 width x 21 height and ID=5fc2ac2913b948538228583db57b6281-14322424620663513
+Generating solution
+116
+113
+109
+111
+Submitting solution
+Your solution succeeded with 109 squares, for a score of 109, with a time penalty of 0.
+Puzzle #148
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 23 width x 34 height and ID=079f2a5eb5774eada93cf6a08e35b13e-14322424726445100
+Generating solution
+152
+151
+150
+144
+Submitting solution
+Your solution succeeded with 144 squares, for a score of 144, with a time penalty of 0.
+Puzzle #149
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 34 width x 38 height and ID=dc53b473e36b402a9defdd5db9ab9b5c-14322424833007343
+Generating solution
+145
+146
+142
+143
+Submitting solution
+Your solution succeeded with 142 squares, for a score of 142, with a time penalty of 0.
+Puzzle #150
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 33 width x 33 height and ID=55ef9a519c514393b9bb93996d2c6a0d-14322424938476233
+Generating solution
+109
+107
+105
+108
+Submitting solution
+Your solution succeeded with 105 squares, for a score of 105, with a time penalty of 0.
+Puzzle #151
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 20 width x 25 height and ID=74e1bf7c137343c8bdfffa9ea80b3637-14322425043632364
+Generating solution
+88
+90
+86
+90
+Submitting solution
+Your solution succeeded with 86 squares, for a score of 86, with a time penalty of 0.
+Puzzle #152
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 22 width x 23 height and ID=42d14fce3da64a7bbd02eaebf4f58cd7-14322425149413625
+Generating solution
+80
+77
+76
+78
+Submitting solution
+Your solution succeeded with 76 squares, for a score of 76, with a time penalty of 0.
+Puzzle #153
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 21 width x 39 height and ID=5d4eeac8a50f48d08be731f84c4de7f1-14322425253632665
+Generating solution
+108
+113
+113
+113
+Submitting solution
+Your solution succeeded with 108 squares, for a score of 108, with a time penalty of 0.
+Puzzle #154
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 36 width x 21 height and ID=535bb1c2ded343889f2e1c4624c951c1-14322425361133064
+Generating solution
+83
+81
+81
+88
+Submitting solution
+Your solution succeeded with 81 squares, for a score of 81, with a time penalty of 0.
+Puzzle #155
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 21 width x 23 height and ID=99f7744f215f4d60b041733f0d6ec1ab-14322425466132584
+Generating solution
+66
+66
+63
+67
+Submitting solution
+Your solution succeeded with 63 squares, for a score of 63, with a time penalty of 0.
+Puzzle #156
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 31 width x 34 height and ID=4376f282a5054432b860daf87d114453-14322425571133248
+Generating solution
+169
+160
+173
+165
+Submitting solution
+Your solution succeeded with 160 squares, for a score of 160, with a time penalty of 0.
+Puzzle #157
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 25 width x 28 height and ID=a2849fa9ecf04045b5b4ccfff4a2fa51-14322425676914591
+Generating solution
+138
+140
+136
+127
+Submitting solution
+Your solution succeeded with 127 squares, for a score of 127, with a time penalty of 0.
+Puzzle #158
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 22 width x 34 height and ID=fad0196c8cea43e58ffea8ab7381f603-14322425782070459
+Generating solution
+101
+103
+102
+108
+Submitting solution
+Your solution succeeded with 101 squares, for a score of 101, with a time penalty of 0.
+Puzzle #159
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 38 width x 25 height and ID=966fd0e007ac4821b74bccf10224dba4-14322425887851500
+Generating solution
+148
+151
+142
+138
+Submitting solution
+Your solution succeeded with 138 squares, for a score of 138, with a time penalty of 0.
+Puzzle #160
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 28 width x 27 height and ID=cffdf2d5d96744f99da99c55e42f21aa-14322425993476700
+Generating solution
+157
+163
+144
+160
+Submitting solution
+Your solution succeeded with 144 squares, for a score of 144, with a time penalty of 0.
+Puzzle #161
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 29 width x 37 height and ID=a611966f7fd443a992bcbad594c2dd4d-14322426099257831
+Generating solution
+130
+129
+132
+123
+Submitting solution
+Your solution succeeded with 123 squares, for a score of 123, with a time penalty of 0.
+Puzzle #162
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 29 width x 34 height and ID=9ffba5cbf06c4238ab7cdd0d30251bd1-14322426203946078
+Generating solution
+153
+154
+151
+154
+Submitting solution
+Your solution succeeded with 151 squares, for a score of 151, with a time penalty of 0.
+Puzzle #163
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 32 width x 27 height and ID=7712cb4e36984d209add37cd76fc7890-14322426309414532
+Generating solution
+160
+161
+155
+159
+Submitting solution
+Your solution succeeded with 155 squares, for a score of 155, with a time penalty of 0.
+Puzzle #164
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 21 width x 23 height and ID=8f9d1aa274c340a89a2c6550432ef978-14322426414883064
+Generating solution
+106
+115
+109
+109
+Submitting solution
+Your solution succeeded with 106 squares, for a score of 106, with a time penalty of 0.
+Puzzle #165
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 37 width x 28 height and ID=3cb1cffd3ff74f048acd5aa3d01c27f2-14322426520195827
+Generating solution
+139
+138
+132
+138
+Submitting solution
+Your solution succeeded with 132 squares, for a score of 132, with a time penalty of 0.
+Puzzle #166
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 33 width x 30 height and ID=4cb5fc38bce942d984eaeb2f317ca1fb-14322426625508343
+Generating solution
+93
+97
+107
+106
+Submitting solution
+Your solution succeeded with 93 squares, for a score of 93, with a time penalty of 0.
+Puzzle #167
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 27 width x 29 height and ID=c804940fa372496f8dd86c630f398ce1-14322426731758632
+Generating solution
+102
+95
+97
+97
+Submitting solution
+Your solution succeeded with 95 squares, for a score of 95, with a time penalty of 0.
+Puzzle #168
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 30 width x 32 height and ID=dcefad5e8e76447babf656d400534591-14322426837227041
+Generating solution
+150
+154
+152
+148
+Submitting solution
+Your solution succeeded with 148 squares, for a score of 148, with a time penalty of 0.
+Puzzle #169
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 26 width x 37 height and ID=c50976ed634a4097a1ee7845ac3d738c-14322426943320803
+Generating solution
+150
+153
+139
+152
+Submitting solution
+Your solution succeeded with 139 squares, for a score of 139, with a time penalty of 0.
+Puzzle #170
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 39 width x 26 height and ID=f59920f4efc442be92c1d51bbb1eae48-14322427049102763
+Generating solution
+158
+152
+150
+155
+Submitting solution
+Your solution succeeded with 150 squares, for a score of 150, with a time penalty of 0.
+Puzzle #171
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 35 width x 34 height and ID=8ee86723bac646739ecd6ce08cdea11f-14322427154884057
+Generating solution
+144
+136
+136
+130
+Submitting solution
+Your solution succeeded with 130 squares, for a score of 130, with a time penalty of 0.
+Puzzle #172
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 38 width x 32 height and ID=9619af4957864adeb698f45d67225370-14322427260039749
+Generating solution
+146
+144
+142
+152
+Submitting solution
+Your solution succeeded with 142 squares, for a score of 142, with a time penalty of 0.
+Puzzle #173
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 33 width x 20 height and ID=c8dda6090c7e4ff9855dc1b9d179f614-14322427365196098
+Generating solution
+138
+141
+142
+138
+Submitting solution
+Your solution succeeded with 138 squares, for a score of 138, with a time penalty of 0.
+Puzzle #174
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 20 width x 34 height and ID=6e6f8cb9f46f47b98be5dd17c34e3696-14322427470977901
+Generating solution
+115
+116
+102
+118
+Submitting solution
+Your solution succeeded with 102 squares, for a score of 102, with a time penalty of 0.
+Puzzle #175
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 36 width x 30 height and ID=70983a44f35a4242ada992a25a53af1e-14322427576446093
+Generating solution
+157
+161
+166
+163
+Submitting solution
+Your solution succeeded with 157 squares, for a score of 157, with a time penalty of 0.
+Puzzle #176
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 23 width x 21 height and ID=a64e599302d6458fb95954b3352f6f1d-14322427682384051
+Generating solution
+85
+88
+90
+90
+Submitting solution
+Your solution succeeded with 85 squares, for a score of 85, with a time penalty of 0.
+Puzzle #177
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 20 width x 37 height and ID=cadbedaba98749b6b287f1e7ff4939e1-14322427789415275
+Generating solution
+110
+105
+98
+95
+Submitting solution
+Your solution succeeded with 95 squares, for a score of 95, with a time penalty of 0.
+Puzzle #178
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 39 width x 35 height and ID=ee64310c5a794deab0ed79661270ab6e-14322427894883942
+Generating solution
+214
+192
+202
+201
+Submitting solution
+Your solution succeeded with 192 squares, for a score of 192, with a time penalty of 0.
+Puzzle #179
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 37 width x 36 height and ID=9a6d1ff05c3148619e25fd4ef2783353-14322428001448140
+Generating solution
+121
+120
+107
+112
+Submitting solution
+Your solution succeeded with 107 squares, for a score of 107, with a time penalty of 0.
+Puzzle #180
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 25 width x 29 height and ID=8841980e7c1f4694afe7649d8dc0c924-14322428106602752
+Generating solution
+153
+153
+159
+159
+Submitting solution
+Your solution succeeded with 153 squares, for a score of 153, with a time penalty of 0.
+Puzzle #181
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 34 width x 30 height and ID=a7d4c9e93cb1426691d529ea47eb0648-14322428213165275
+Generating solution
+91
+92
+86
+95
+Submitting solution
+Your solution succeeded with 86 squares, for a score of 86, with a time penalty of 0.
+Puzzle #182
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 31 width x 32 height and ID=48aa8366592846d3874f1262a7c74d93-14322428320509472
+Generating solution
+171
+171
+169
+162
+Submitting solution
+Your solution succeeded with 162 squares, for a score of 162, with a time penalty of 0.
+Puzzle #183
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 20 width x 35 height and ID=e0a7c9ba059b45ddb468931d814f64a2-14322428427227826
+Generating solution
+70
+75
+74
+67
+Submitting solution
+Your solution succeeded with 67 squares, for a score of 67, with a time penalty of 0.
+Puzzle #184
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 23 width x 36 height and ID=62f482e5f4c74e4792b9e8e8b5e5a902-14322428532696770
+Generating solution
+133
+138
+139
+136
+Submitting solution
+Your solution succeeded with 133 squares, for a score of 133, with a time penalty of 0.
+Puzzle #185
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 21 width x 33 height and ID=320e8078b754476c8fe3e8ba242c9db7-14322428645509504
+Generating solution
+83
+89
+93
+87
+Submitting solution
+Your solution succeeded with 83 squares, for a score of 83, with a time penalty of 0.
+Puzzle #186
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 30 width x 34 height and ID=539c72e296cd45809429d3c57369504e-14322428750665575
+Generating solution
+68
+69
+67
+71
+Submitting solution
+Your solution succeeded with 67 squares, for a score of 67, with a time penalty of 0.
+Puzzle #187
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 32 width x 38 height and ID=6ada216838d24025a8ec1c41d9e4427c-14322428856759546
+Generating solution
+92
+94
+83
+88
+Submitting solution
+Your solution succeeded with 83 squares, for a score of 83, with a time penalty of 0.
+Puzzle #188
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 28 width x 24 height and ID=ed239ea87d00413c8a7537f54dcbe312-14322428964728061
+Generating solution
+82
+89
+79
+74
+Submitting solution
+Your solution succeeded with 74 squares, for a score of 74, with a time penalty of 0.
+Puzzle #189
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 26 width x 30 height and ID=1ac18ffa93e54fcf9e04a72e388dd0cd-14322429070353136
+Generating solution
+98
+93
+100
+93
+Submitting solution
+Your solution succeeded with 93 squares, for a score of 93, with a time penalty of 0.
+Puzzle #190
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 38 width x 35 height and ID=261240c8a7f443249e088ec1667ca574-14322429175979333
+Generating solution
+137
+136
+131
+142
+Submitting solution
+Your solution succeeded with 131 squares, for a score of 131, with a time penalty of 0.
+Puzzle #191
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 37 width x 29 height and ID=20c3f44a7b18426aa2d49abcf46bea9e-14322429284728767
+Generating solution
+97
+95
+91
+100
+Submitting solution
+Your solution succeeded with 91 squares, for a score of 91, with a time penalty of 0.
+Puzzle #192
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 33 width x 25 height and ID=de09be55039647c7a685e3ed17b5f5be-14322429392540885
+Generating solution
+167
+160
+168
+161
+Submitting solution
+Your solution succeeded with 160 squares, for a score of 160, with a time penalty of 0.
+Puzzle #193
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 35 width x 26 height and ID=7a6e859787a245698bdfcd537ec0b10a-14322429498478352
+Generating solution
+76
+81
+72
+70
+Submitting solution
+Your solution succeeded with 70 squares, for a score of 70, with a time penalty of 0.
+Puzzle #194
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 28 width x 27 height and ID=70d212e6b84646b69e78a7cd80c69a79-14322429605041142
+Generating solution
+135
+140
+145
+135
+Submitting solution
+Your solution succeeded with 135 squares, for a score of 135, with a time penalty of 0.
+Puzzle #195
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 34 width x 23 height and ID=d4a5da7f47b6454589b1b7dafc365128-14322429711290930
+Generating solution
+143
+147
+150
+144
+Submitting solution
+Your solution succeeded with 143 squares, for a score of 143, with a time penalty of 0.
+Puzzle #196
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 26 width x 29 height and ID=afe924b5892649e089f8fa246ddeec3a-14322429817072585
+Generating solution
+149
+149
+152
+151
+Submitting solution
+Your solution succeeded with 149 squares, for a score of 149, with a time penalty of 0.
+Puzzle #197
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 30 width x 31 height and ID=ca4c6c155d0f44c0b2bee95b09f0a2c2-14322429923791068
+Generating solution
+171
+171
+174
+167
+Submitting solution
+Your solution succeeded with 167 squares, for a score of 167, with a time penalty of 0.
+Puzzle #198
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 29 width x 30 height and ID=2eef7271656b434fa242c0dc93f50083-14322430029885280
+Generating solution
+96
+99
+97
+101
+Submitting solution
+Your solution succeeded with 96 squares, for a score of 96, with a time penalty of 0.
+Puzzle #199
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 28 width x 22 height and ID=16fdaeae67674de6a13bdd42abd590d8-14322430136291185
+Generating solution
+126
+122
+129
+127
+Submitting solution
+Your solution succeeded with 122 squares, for a score of 122, with a time penalty of 0.
+Puzzle #200
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 21 width x 25 height and ID=b49f7cafc33f4ea7b0a76af067d1742f-14322430242229056
+Generating solution
+66
+61
+61
+59
+Submitting solution
+Your solution succeeded with 59 squares, for a score of 59, with a time penalty of 0.
+Puzzle #201
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 23 width x 36 height and ID=388a45e069124b91a7d9a126f5928cca-14322430347229469
+Generating solution
+112
+113
+99
+108
+Submitting solution
+Your solution succeeded with 99 squares, for a score of 99, with a time penalty of 0.
+Puzzle #202
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 37 width x 27 height and ID=b2bb6b8f32d6400bb225e7e7db996015-14322430453947663
+Generating solution
+97
+107
+96
+96
+Submitting solution
+Your solution succeeded with 96 squares, for a score of 96, with a time penalty of 0.
+Puzzle #203
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 21 width x 32 height and ID=3d0ce52d49994ebf9f3f06d9ff5a196c-14322430559728893
+Generating solution
+131
+139
+127
+141
+Submitting solution
+Your solution succeeded with 127 squares, for a score of 127, with a time penalty of 0.
+Puzzle #204
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 36 width x 26 height and ID=e498ba6ed1394bbcacb5150a5a8b44e2-14322430665978976
+Generating solution
+78
+78
+68
+75
+Submitting solution
+Your solution succeeded with 68 squares, for a score of 68, with a time penalty of 0.
+Puzzle #205
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 23 width x 26 height and ID=ba27fe6d218e44c3abd786e57a5a9238-14322430772385442
+Generating solution
+71
+77
+76
+75
+Submitting solution
+Your solution succeeded with 71 squares, for a score of 71, with a time penalty of 0.
+Puzzle #206
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 33 width x 34 height and ID=e9ca649bf8b04fdda199283448bf9edd-14322430878791931
+Generating solution
+117
+116
+111
+112
+Submitting solution
+Your solution succeeded with 111 squares, for a score of 111, with a time penalty of 0.
+Puzzle #207
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 35 width x 36 height and ID=47c54ce60bbd4991a20865bb50a379f9-14322430984104433
+Generating solution
+109
+110
+113
+106
+Submitting solution
+Your solution succeeded with 106 squares, for a score of 106, with a time penalty of 0.
+Puzzle #208
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 30 width x 33 height and ID=7a67d6b1c17c4b509fc6677260df7f41-14322431090042033
+Generating solution
+130
+130
+128
+129
+Submitting solution
+Your solution succeeded with 128 squares, for a score of 128, with a time penalty of 0.
+Puzzle #209
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 33 width x 20 height and ID=02c58d46422b4a3496ba01317530e863-14322431195041983
+Generating solution
+123
+126
+122
+119
+Submitting solution
+Your solution succeeded with 119 squares, for a score of 119, with a time penalty of 0.
+Puzzle #210
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 29 width x 32 height and ID=95a8832bb2d54e4c9ec6a7e991fc13b4-14322431303791901
+Generating solution
+120
+135
+122
+131
+Submitting solution
+Your solution succeeded with 120 squares, for a score of 120, with a time penalty of 0.
+Puzzle #211
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 34 width x 31 height and ID=a365bbd51f4e44d4890539d6db1c6225-14322431410823354
+Generating solution
+133
+144
+135
+138
+Submitting solution
+Your solution succeeded with 133 squares, for a score of 133, with a time penalty of 0.
+Puzzle #212
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 39 width x 29 height and ID=adb20b8f2f1b448b8865a32b16951ac6-14322431516917065
+Generating solution
+84
+82
+81
+83
+Submitting solution
+Your solution succeeded with 81 squares, for a score of 81, with a time penalty of 0.
+Puzzle #213
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 36 width x 33 height and ID=40cc18c2695743efafc66c7ce6ca8f14-14322431623479524
+Generating solution
+170
+173
+161
+162
+Submitting solution
+Your solution succeeded with 161 squares, for a score of 161, with a time penalty of 0.
+Puzzle #214
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 39 width x 31 height and ID=c28382fa83ed458db2464fe29f8e8c5e-14322431728792479
+Generating solution
+155
+161
+154
+153
+Submitting solution
+Your solution succeeded with 153 squares, for a score of 153, with a time penalty of 0.
+Puzzle #215
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 28 width x 24 height and ID=ecd2e27102d141448c6e479561cd1485-14322431835511044
+Generating solution
+115
+117
+117
+112
+Submitting solution
+Your solution succeeded with 112 squares, for a score of 112, with a time penalty of 0.
+Puzzle #216
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 23 width x 26 height and ID=ccd5f1fee93544ab80e8f00094cb822d-14322431941604913
+Generating solution
+82
+78
+89
+80
+Submitting solution
+Your solution succeeded with 78 squares, for a score of 78, with a time penalty of 0.
+Puzzle #217
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 39 width x 37 height and ID=bdd31f8d992d41d09e0757fbbbf46ad4-14322432047542673
+Generating solution
+183
+191
+196
+181
+Submitting solution
+Your solution succeeded with 181 squares, for a score of 181, with a time penalty of 0.
+Puzzle #218
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 26 width x 35 height and ID=fe670885210445b48404bb4d8a8fbae9-14322432154886384
+Generating solution
+93
+91
+94
+90
+Submitting solution
+Your solution succeeded with 90 squares, for a score of 90, with a time penalty of 0.
+Puzzle #219
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 24 width x 35 height and ID=ea1b2a11a0cf4d6e810521005dd152fe-14322432260510699
+Generating solution
+135
+122
+128
+137
+Submitting solution
+Your solution succeeded with 122 squares, for a score of 122, with a time penalty of 0.
+Puzzle #220
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 28 width x 25 height and ID=4b817a644cd34e9a965f0ffc2e13b684-14322432365511338
+Generating solution
+121
+121
+109
+116
+Submitting solution
+Your solution succeeded with 109 squares, for a score of 109, with a time penalty of 0.
+Puzzle #221
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 31 width x 25 height and ID=ca818908743e4e41a6a7a9ce0df29e46-14322432470042457
+Generating solution
+146
+135
+139
+141
+Submitting solution
+Your solution succeeded with 135 squares, for a score of 135, with a time penalty of 0.
+Puzzle #222
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 26 width x 25 height and ID=a0eb653d8df241f08987a49fe7a1acf1-14322432576605018
+Generating solution
+76
+71
+74
+69
+Submitting solution
+Your solution succeeded with 69 squares, for a score of 69, with a time penalty of 0.
+Puzzle #223
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 24 width x 38 height and ID=1c76869b2c2f46939fb5da4331bea793-14322432681917950
+Generating solution
+135
+132
+134
+124
+Submitting solution
+Your solution succeeded with 124 squares, for a score of 124, with a time penalty of 0.
+Puzzle #224
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 39 width x 29 height and ID=28e948fc345344669f6dbe02b0fd0f25-14322432787543058
+Generating solution
+106
+91
+99
+103
+Submitting solution
+Your solution succeeded with 91 squares, for a score of 91, with a time penalty of 0.
+Puzzle #225
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 26 width x 23 height and ID=5aa1bac662d14d169b3e8e5fcc1ca7ab-14322432893011552
+Generating solution
+100
+97
+99
+101
+Submitting solution
+Your solution succeeded with 97 squares, for a score of 97, with a time penalty of 0.
+Puzzle #226
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 24 width x 36 height and ID=05a9e9ac407a4090b6b0722bdb1706ce-14322432999730206
+Generating solution
+84
+89
+85
+91
+Submitting solution
+Your solution succeeded with 84 squares, for a score of 84, with a time penalty of 0.
+Puzzle #227
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 38 width x 34 height and ID=d6e96b78f0b043e78e4ee527be3518a8-14322433105198961
+Generating solution
+117
+115
+122
+109
+Submitting solution
+Your solution succeeded with 109 squares, for a score of 109, with a time penalty of 0.
+Puzzle #228
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 39 width x 36 height and ID=fddefeae1eed4f03af57d90f251948d2-14322433210668099
+Generating solution
+114
+107
+98
+97
+Submitting solution
+Your solution succeeded with 97 squares, for a score of 97, with a time penalty of 0.
+Puzzle #229
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 27 width x 27 height and ID=032faff69fcc4ccea084af099689ed6d-14322433317855286
+Generating solution
+152
+147
+147
+148
+Submitting solution
+Your solution succeeded with 147 squares, for a score of 147, with a time penalty of 0.
+Puzzle #230
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 31 width x 25 height and ID=46557e58f77b4178b2c2bde8e2be5755-14322433425668048
+Generating solution
+157
+145
+151
+154
+Submitting solution
+Your solution succeeded with 145 squares, for a score of 145, with a time penalty of 0.
+Puzzle #231
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 21 width x 33 height and ID=77edae8c67004093bcebae39d96b6f58-14322433532855546
+Generating solution
+98
+99
+98
+90
+Submitting solution
+Your solution succeeded with 90 squares, for a score of 90, with a time penalty of 0.
+Puzzle #232
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 33 width x 24 height and ID=834b6a2fe6ad4bd2b38c6b54bb047d11-14322433639105963
+Generating solution
+70
+73
+74
+70
+Submitting solution
+Your solution succeeded with 70 squares, for a score of 70, with a time penalty of 0.
+Puzzle #233
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 35 width x 33 height and ID=81e89b036b1d46aba8cdd18368a87b83-14322433745199519
+Generating solution
+147
+145
+144
+153
+Submitting solution
+Your solution succeeded with 144 squares, for a score of 144, with a time penalty of 0.
+Puzzle #234
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 25 width x 22 height and ID=808bc8c3eab34faeba63093aafaa939b-14322433851293945
+Generating solution
+113
+118
+120
+116
+Submitting solution
+Your solution succeeded with 113 squares, for a score of 113, with a time penalty of 0.
+Puzzle #235
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 39 width x 36 height and ID=d2625fa4a0c04517bae873cc31daf147-14322433959886918
+Generating solution
+189
+175
+176
+181
+Submitting solution
+Your solution succeeded with 175 squares, for a score of 175, with a time penalty of 0.
+Puzzle #236
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 33 width x 32 height and ID=497c6064e6e345c18f2911b91975393b-14322434066605852
+Generating solution
+130
+141
+130
+144
+Submitting solution
+Your solution succeeded with 130 squares, for a score of 130, with a time penalty of 0.
+Puzzle #237
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 32 width x 33 height and ID=98ae67d3067745d891cfa32ff32cf10b-14322434172543676
+Generating solution
+142
+143
+136
+134
+Submitting solution
+Your solution succeeded with 134 squares, for a score of 134, with a time penalty of 0.
+Puzzle #238
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 29 width x 23 height and ID=99d77b28e66d4110bebb5997ed0ae24b-14322434278793483
+Generating solution
+78
+79
+84
+84
+Submitting solution
+Your solution succeeded with 78 squares, for a score of 78, with a time penalty of 0.
+Puzzle #239
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 20 width x 24 height and ID=20e7f414a4554420ab0646d6599a4674-14322434384730878
+Generating solution
+46
+47
+49
+46
+Submitting solution
+Your solution succeeded with 46 squares, for a score of 46, with a time penalty of 0.
+Puzzle #240
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 27 width x 38 height and ID=23512f93619a4e1193fcffc440bb23b4-14322434489887306
+Generating solution
+165
+171
+172
+159
+Submitting solution
+Your solution succeeded with 159 squares, for a score of 159, with a time penalty of 0.
+Puzzle #241
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 22 width x 21 height and ID=481593d459ad43afaa79ff04463a2a9e-14322434595356342
+Generating solution
+103
+101
+97
+105
+Submitting solution
+Your solution succeeded with 97 squares, for a score of 97, with a time penalty of 0.
+Puzzle #242
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 37 width x 27 height and ID=688dd195e362424584b828bb31767c22-14322434701450330
+Generating solution
+159
+153
+156
+146
+Submitting solution
+Your solution succeeded with 146 squares, for a score of 146, with a time penalty of 0.
+Puzzle #243
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 37 width x 30 height and ID=1bbdbe374b5d46369588fb6a0c9522cd-14322434808168881
+Generating solution
+132
+134
+133
+134
+Submitting solution
+Your solution succeeded with 132 squares, for a score of 132, with a time penalty of 0.
+Puzzle #244
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 37 width x 30 height and ID=026a3b56903f4f838c8ae6b387f01469-14322434914731116
+Generating solution
+125
+125
+118
+127
+Submitting solution
+Your solution succeeded with 118 squares, for a score of 118, with a time penalty of 0.
+Puzzle #245
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 37 width x 28 height and ID=3812432af2cb45a09aa91e042e2f3a98-14322435020201081
+Generating solution
+149
+146
+142
+148
+Submitting solution
+Your solution succeeded with 142 squares, for a score of 142, with a time penalty of 0.
+Puzzle #246
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 27 width x 35 height and ID=951627f1f2d54bae930a884c0af2f26d-14322435129106350
+Generating solution
+99
+94
+94
+98
+Submitting solution
+Your solution succeeded with 94 squares, for a score of 94, with a time penalty of 0.
+Puzzle #247
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 31 width x 38 height and ID=f9daa936e2e74887b61aab2dffbbd7f9-14322435234106326
+Generating solution
+80
+81
+71
+77
+Submitting solution
+Your solution succeeded with 71 squares, for a score of 71, with a time penalty of 0.
+Puzzle #248
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 38 width x 37 height and ID=66200e5c2bb743b19dc0eef532665834-14322435340356981
+Generating solution
+113
+107
+111
+106
+Submitting solution
+Your solution succeeded with 106 squares, for a score of 106, with a time penalty of 0.
+Puzzle #249
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 29 width x 23 height and ID=0324acf7cbd242569e3a2b5aa9b11951-14322435445668878
+Generating solution
+130
+126
+117
+125
+Submitting solution
+Your solution succeeded with 117 squares, for a score of 117, with a time penalty of 0.
+Puzzle #250
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 20 width x 22 height and ID=3e780f7d45ab4a23ae45f658345f599c-14322435551919031
+Generating solution
+72
+74
+76
+72
+Submitting solution
+Your solution succeeded with 72 squares, for a score of 72, with a time penalty of 0.
+Puzzle #251
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 22 width x 36 height and ID=eb79a243cac2447c8189a3258fb2d91a-14322435660356666
+Generating solution
+122
+125
+120
+119
+Submitting solution
+Your solution succeeded with 119 squares, for a score of 119, with a time penalty of 0.
+Puzzle #252
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 20 width x 34 height and ID=efae1deea57f45f7963f092891dd0330-14322435766919115
+Generating solution
+125
+123
+124
+125
+Submitting solution
+Your solution succeeded with 123 squares, for a score of 123, with a time penalty of 0.
+Puzzle #253
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 30 width x 32 height and ID=ea18259564654f15a8100810eb7057ab-14322435872231597
+Generating solution
+89
+86
+86
+85
+Submitting solution
+Your solution succeeded with 85 squares, for a score of 85, with a time penalty of 0.
+Puzzle #254
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 32 width x 21 height and ID=5dc6d391fa1a4f189cfd9c285e340c30-14322435979106959
+Generating solution
+97
+100
+97
+97
+Submitting solution
+Your solution succeeded with 97 squares, for a score of 97, with a time penalty of 0.
+Puzzle #255
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 20 width x 36 height and ID=4a3007d5f5194d8586f61eb2a6eb11d0-14322436085044775
+Generating solution
+128
+120
+123
+126
+Submitting solution
+Your solution succeeded with 120 squares, for a score of 120, with a time penalty of 0.
+Puzzle #256
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 38 width x 32 height and ID=a0aa319982c54a96b6be3ec3bb28d668-14322436191763132
+Generating solution
+165
+167
+158
+165
+Submitting solution
+Your solution succeeded with 158 squares, for a score of 158, with a time penalty of 0.
+Puzzle #257
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 25 width x 39 height and ID=ff08b4894a6e4a42a0acc64e812d1b67-14322436296919391
+Generating solution
+73
+69
+61
+64
+Submitting solution
+Your solution succeeded with 61 squares, for a score of 61, with a time penalty of 0.
+Puzzle #258
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 21 width x 34 height and ID=68dbe5e8f93644de8d55872c0fdad095-14322436402700739
+Generating solution
+96
+89
+104
+95
+Submitting solution
+Your solution succeeded with 89 squares, for a score of 89, with a time penalty of 0.
+Puzzle #259
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 29 width x 27 height and ID=070eaf70544c4514a33d74105e65703a-14322436508169429
+Generating solution
+116
+118
+114
+107
+Submitting solution
+Your solution succeeded with 107 squares, for a score of 107, with a time penalty of 0.
+Puzzle #260
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 24 width x 30 height and ID=a578abe5959549768af216b9adaba99c-14322436614576045
+Generating solution
+120
+112
+118
+114
+Submitting solution
+Your solution succeeded with 112 squares, for a score of 112, with a time penalty of 0.
+Puzzle #261
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 30 width x 36 height and ID=8c0c445512ba46ab801de7b2c398bb0c-14322436719888633
+Generating solution
+167
+161
+166
+151
+Submitting solution
+Your solution succeeded with 151 squares, for a score of 151, with a time penalty of 0.
+Puzzle #262
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 34 width x 25 height and ID=8725f2859aba42a29f789f57fa5147f5-14322436826138818
+Generating solution
+92
+82
+86
+94
+Submitting solution
+Your solution succeeded with 82 squares, for a score of 82, with a time penalty of 0.
+Puzzle #263
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 25 width x 35 height and ID=ba54b5853e0e41f1914f1f9d06989d77-14322436932232292
+Generating solution
+167
+172
+153
+174
+Submitting solution
+Your solution succeeded with 153 squares, for a score of 153, with a time penalty of 0.
+Puzzle #264
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 29 width x 33 height and ID=9245decd24fa4b6cb454c56b43c4336d-14322437038169683
+Generating solution
+146
+143
+136
+143
+Submitting solution
+Your solution succeeded with 136 squares, for a score of 151, with a time penalty of 15.
+Puzzle #265
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 32 width x 28 height and ID=ba91899baf284c56a3c0b9d96f91a5f1-14322437194889096
+Generating solution
+159
+158
+156
+156
+Submitting solution
+Your solution succeeded with 156 squares, for a score of 156, with a time penalty of 0.
+Puzzle #266
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 35 width x 25 height and ID=f87d042248694c70a5de5f7540087c16-14322437301451900
+Generating solution
+138
+135
+138
+138
+Submitting solution
+Your solution succeeded with 135 squares, for a score of 135, with a time penalty of 0.
+Puzzle #267
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 33 width x 39 height and ID=dd82b2fcde1c45b5a8cc80a75e114393-14322437407076752
+Generating solution
+148
+166
+163
+152
+Submitting solution
+Your solution succeeded with 148 squares, for a score of 148, with a time penalty of 0.
+Puzzle #268
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 38 width x 38 height and ID=d06b176c84084c83adfcc5c9851da812-14322437512389020
+Generating solution
+196
+207
+217
+206
+Submitting solution
+Your solution succeeded with 196 squares, for a score of 196, with a time penalty of 0.
+Puzzle #269
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 23 width x 30 height and ID=4c7ce0dd20744cc2823a59811faabb71-14322437618482616
+Generating solution
+137
+126
+139
+130
+Submitting solution
+Your solution succeeded with 126 squares, for a score of 126, with a time penalty of 0.
+Puzzle #270
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 28 width x 33 height and ID=a26efd79a6e24fce849fb2673a8ff554-14322437724732718
+Generating solution
+169
+159
+164
+157
+Submitting solution
+Your solution succeeded with 157 squares, for a score of 169, with a time penalty of 12.
+Puzzle #271
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 39 width x 20 height and ID=94a2888bab3b46ba96ae25fb3296db5d-14322437875357873
+Generating solution
+152
+147
+138
+132
+Submitting solution
+Your solution succeeded with 132 squares, for a score of 132, with a time penalty of 0.
+Puzzle #272
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 26 width x 32 height and ID=16fbb96deb1242ceb60d42114f6ea5b9-14322437980357816
+Generating solution
+108
+109
+113
+109
+Submitting solution
+Your solution succeeded with 108 squares, for a score of 108, with a time penalty of 0.
+Puzzle #273
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 39 width x 23 height and ID=2c396f4e91444e71b5f6428f34516429-14322438086451835
+Generating solution
+103
+107
+103
+92
+Submitting solution
+Your solution succeeded with 92 squares, for a score of 92, with a time penalty of 0.
+Puzzle #274
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 22 width x 29 height and ID=ee11e80573de4038bfc5214e061515fb-14322438191920297
+Generating solution
+125
+124
+119
+120
+Submitting solution
+Your solution succeeded with 119 squares, for a score of 119, with a time penalty of 0.
+Puzzle #275
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 21 width x 23 height and ID=d60b32f50e544d11a734f767ffb98c28-14322438296764199
+Generating solution
+71
+71
+71
+67
+Submitting solution
+Your solution succeeded with 67 squares, for a score of 67, with a time penalty of 0.
+Puzzle #276
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 32 width x 24 height and ID=b93118c9550e4b5c9c89b1fc4a3a2aab-14322438402389190
+Generating solution
+120
+131
+130
+136
+Submitting solution
+Your solution succeeded with 120 squares, for a score of 120, with a time penalty of 0.
+Puzzle #277
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 35 width x 22 height and ID=bd30cdd937ce4203ac15ea6c3704a269-14322438507857998
+Generating solution
+89
+86
+91
+96
+Submitting solution
+Your solution succeeded with 86 squares, for a score of 86, with a time penalty of 0.
+Puzzle #278
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 27 width x 24 height and ID=e0f54dc590bf476eb9e88682c666bec5-14322438614577145
+Generating solution
+134
+133
+131
+135
+Submitting solution
+Your solution succeeded with 131 squares, for a score of 131, with a time penalty of 0.
+Puzzle #279
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 39 width x 37 height and ID=e5883735531c42caac6293a9c34c2e3e-14322438719889723
+Generating solution
+181
+182
+176
+184
+Submitting solution
+Your solution succeeded with 176 squares, for a score of 176, with a time penalty of 0.
+Puzzle #280
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 37 width x 35 height and ID=acc6a4893772467486ec5d68af041c32-14322438826920895
+Generating solution
+151
+153
+134
+141
+Submitting solution
+Your solution succeeded with 134 squares, for a score of 134, with a time penalty of 0.
+Puzzle #281
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 26 width x 28 height and ID=ff29f9409e494e4f99c7575855780b7e-14322438931608368
+Generating solution
+119
+128
+127
+136
+Submitting solution
+Your solution succeeded with 119 squares, for a score of 119, with a time penalty of 0.
+Puzzle #282
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 36 width x 33 height and ID=b667b7d87d764ff1868d2a4ad5e64ca4-14322439038170238
+Generating solution
+81
+82
+91
+88
+Submitting solution
+Your solution succeeded with 81 squares, for a score of 81, with a time penalty of 0.
+Puzzle #283
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 28 width x 35 height and ID=4f0cc96e50f0483a92a92a18f57fab4c-14322439145514887
+Generating solution
+171
+164
+173
+170
+Submitting solution
+Your solution succeeded with 164 squares, for a score of 164, with a time penalty of 0.
+Puzzle #284
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 32 width x 27 height and ID=a21bde6aee164c36a045c81d9230a989-14322439251139597
+Generating solution
+70
+74
+73
+67
+Submitting solution
+Your solution succeeded with 67 squares, for a score of 67, with a time penalty of 0.
+Puzzle #285
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 32 width x 27 height and ID=fecd0cf2adc04f8ba3693527bc34dbc7-14322439357702744
+Generating solution
+144
+145
+154
+143
+Submitting solution
+Your solution succeeded with 143 squares, for a score of 143, with a time penalty of 0.
+Puzzle #286
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 31 width x 39 height and ID=faf6b7f332ba4a559255cfceac8e5bcb-14322439463327356
+Generating solution
+92
+90
+94
+91
+Submitting solution
+Your solution succeeded with 90 squares, for a score of 90, with a time penalty of 0.
+Puzzle #287
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 31 width x 27 height and ID=dfb41200dcd2421888806222c6103a7a-14322439571764808
+Generating solution
+110
+111
+110
+109
+Submitting solution
+Your solution succeeded with 109 squares, for a score of 109, with a time penalty of 0.
+Puzzle #288
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 38 width x 37 height and ID=a6d2b1a97eed4c33b01b0e47dd69b89b-14322439677546197
+Generating solution
+98
+110
+96
+108
+Submitting solution
+Your solution succeeded with 96 squares, for a score of 96, with a time penalty of 0.
+Puzzle #289
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 38 width x 27 height and ID=9f5a2b5834b0492cbfb5e085a6209963-14322439786921101
+Generating solution
+114
+120
+123
+117
+Submitting solution
+Your solution succeeded with 114 squares, for a score of 114, with a time penalty of 0.
+Puzzle #290
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 36 width x 21 height and ID=311e0f4a78fa46e7af985ede0953f9be-14322439896453182
+Generating solution
+135
+138
+138
+136
+Submitting solution
+Your solution succeeded with 135 squares, for a score of 135, with a time penalty of 0.
+Puzzle #291
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 36 width x 34 height and ID=8f515094e90d4d0a911b59787e0b8aa9-14322440001921598
+Generating solution
+130
+121
+113
+127
+Submitting solution
+Your solution succeeded with 113 squares, for a score of 113, with a time penalty of 0.
+Puzzle #292
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 34 width x 28 height and ID=e81b14e31c474709b4882b9fbf6e0d68-14322440107546351
+Generating solution
+72
+75
+70
+62
+Submitting solution
+Your solution succeeded with 62 squares, for a score of 62, with a time penalty of 0.
+Puzzle #293
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 34 width x 38 height and ID=8c6ec90b470a4928b33f18ead3f6ce0d-14322440212702817
+Generating solution
+144
+139
+141
+138
+Submitting solution
+Your solution succeeded with 138 squares, for a score of 138, with a time penalty of 0.
+Puzzle #294
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 35 width x 38 height and ID=6f97f042dbc948289461cbbc46550dda-14322440320359173
+Generating solution
+189
+175
+185
+188
+Submitting solution
+Your solution succeeded with 175 squares, for a score of 175, with a time penalty of 0.
+
+(0, '')
+Puzzle #0
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 33 width x 26 height and ID=2661cad4bcce4791bcb7063f23968335-14322442298953645
+Generating solution
+171
+162
+166
+159
+Submitting solution
+Your solution succeeded with 159 squares, for a score of 159, with a time penalty of 0.
+Puzzle #1
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 39 width x 28 height and ID=85f28f2efe1d481fbbefb222c471eb93-14322442404266460
+Generating solution
+123
+121
+120
+117
+Submitting solution
+Your solution succeeded with 117 squares, for a score of 117, with a time penalty of 0.
+Puzzle #2
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 22 width x 20 height and ID=917d14985f31488fac7ffd2fe45afbd4-14322442509735187
+Generating solution
+104
+109
+104
+107
+Submitting solution
+Your solution succeeded with 104 squares, for a score of 104, with a time penalty of 0.
+Puzzle #3
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 35 width x 36 height and ID=68725349ab0844ddbee1ad2ac87d2dc8-14322442617235038
+Generating solution
+113
+125
+115
+121
+Submitting solution
+Your solution succeeded with 113 squares, for a score of 113, with a time penalty of 0.
+Puzzle #4
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 33 width x 22 height and ID=548d1f9c4a4a4b16b73b32b3b3070ff0-14322442723641617
+Generating solution
+106
+112
+105
+112
+Submitting solution
+Your solution succeeded with 105 squares, for a score of 105, with a time penalty of 0.
+Puzzle #5
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 33 width x 31 height and ID=e4239b5dc2a243cabf68c93c65a7d2fb-14322442828485189
+Generating solution
+91
+103
+110
+96
+Submitting solution
+Your solution succeeded with 91 squares, for a score of 91, with a time penalty of 0.
+Puzzle #6
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 34 width x 21 height and ID=af195610cd384232a7ab7d679a987602-14322442934110288
+Generating solution
+140
+144
+144
+138
+Submitting solution
+Your solution succeeded with 138 squares, for a score of 138, with a time penalty of 0.
+Puzzle #7
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 34 width x 22 height and ID=f1f819d96dbc498da518a1c4dff3b212-14322443043172787
+Generating solution
+147
+145
+140
+142
+Submitting solution
+Your solution succeeded with 140 squares, for a score of 140, with a time penalty of 0.
+Puzzle #8
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 29 width x 27 height and ID=d758ca8174fa4318aaea78bc5e9a0fd1-14322443148798110
+Generating solution
+131
+135
+133
+128
+Submitting solution
+Your solution succeeded with 128 squares, for a score of 128, with a time penalty of 0.
+Puzzle #9
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 39 width x 35 height and ID=17b5d0f2dc8347a78a29ef713d92dd91-14322443253641913
+Generating solution
+185
+188
+184
+189
+Submitting solution
+Your solution succeeded with 184 squares, for a score of 184, with a time penalty of 0.
+Puzzle #10
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 38 width x 24 height and ID=0152af2ccc064965b00439b340081f28-14322443359891946
+Generating solution
+138
+144
+143
+138
+Submitting solution
+Your solution succeeded with 138 squares, for a score of 138, with a time penalty of 0.
+Puzzle #11
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 20 width x 27 height and ID=cc63375b4b69483a8754c9cf24c2b29b-14322443465360571
+Generating solution
+119
+123
+123
+116
+Submitting solution
+Your solution succeeded with 116 squares, for a score of 116, with a time penalty of 0.
+Puzzle #12
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 37 width x 36 height and ID=a9cc08a716104f289cd305cfcba77154-14322443571767184
+Generating solution
+182
+177
+176
+177
+Submitting solution
+Your solution succeeded with 176 squares, for a score of 176, with a time penalty of 0.
+Puzzle #13
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 24 width x 31 height and ID=5c172b3e883a4b7592066fa78f5af6d9-14322443677704453
+Generating solution
+108
+125
+122
+110
+Submitting solution
+Your solution succeeded with 108 squares, for a score of 108, with a time penalty of 0.
+Puzzle #14
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 39 width x 20 height and ID=510e9093cddd4d1fabe50c9048d44947-14322443783642423
+Generating solution
+165
+171
+163
+164
+Submitting solution
+Your solution succeeded with 163 squares, for a score of 163, with a time penalty of 0.
+Puzzle #15
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 22 width x 24 height and ID=d8a92024f1ae4abcad1a97c46abfd713-14322443889268625
+Generating solution
+101
+100
+109
+108
+Submitting solution
+Your solution succeeded with 100 squares, for a score of 100, with a time penalty of 0.
+Puzzle #16
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 31 width x 26 height and ID=d0e9bd5d93d74da3864b39de2371d773-14322443994423541
+Generating solution
+93
+94
+96
+92
+Submitting solution
+Your solution succeeded with 92 squares, for a score of 92, with a time penalty of 0.
+Puzzle #17
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 30 width x 28 height and ID=6844c544d2fa41e5aaa80791f2a31e2b-14322444100360797
+Generating solution
+117
+114
+122
+120
+Submitting solution
+Your solution succeeded with 114 squares, for a score of 114, with a time penalty of 0.
+Puzzle #18
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 36 width x 27 height and ID=cabd98fdf9e841239b202e034b78c682-14322444205674062
+Generating solution
+109
+107
+117
+109
+Submitting solution
+Your solution succeeded with 107 squares, for a score of 107, with a time penalty of 0.
+Puzzle #19
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 34 width x 37 height and ID=b7dae329d73f47abbb24941587eae74e-14322444313173727
+Generating solution
+155
+163
+143
+156
+Submitting solution
+Your solution succeeded with 143 squares, for a score of 143, with a time penalty of 0.
+Puzzle #20
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 39 width x 31 height and ID=5ab1fa2d8c464b34baa367c881a6560d-14322444418642216
+Generating solution
+160
+165
+153
+165
+Submitting solution
+Your solution succeeded with 153 squares, for a score of 153, with a time penalty of 0.
+Puzzle #21
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 31 width x 32 height and ID=d8efa29be21a40ab8e60a2c56893595a-14322444524111083
+Generating solution
+79
+81
+73
+78
+Submitting solution
+Your solution succeeded with 73 squares, for a score of 73, with a time penalty of 0.
+Puzzle #22
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 25 width x 22 height and ID=7e290d1beebd4889811d32f423d0aeac-14322444629892450
+Generating solution
+134
+137
+139
+139
+Submitting solution
+Your solution succeeded with 134 squares, for a score of 134, with a time penalty of 0.
+Puzzle #23
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 21 width x 25 height and ID=0055ea43837b4c44bf642b8b50f40acf-14322444736767724
+Generating solution
+99
+99
+99
+101
+Submitting solution
+Your solution succeeded with 99 squares, for a score of 99, with a time penalty of 0.
+Puzzle #24
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 28 width x 23 height and ID=8c4b30da8ef44e3285af4c08f1a84ba9-14322444842705024
+Generating solution
+78
+83
+76
+81
+Submitting solution
+Your solution succeeded with 76 squares, for a score of 76, with a time penalty of 0.
+Puzzle #25
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 23 width x 30 height and ID=50b056bfe28344bb941700f1a2a7108a-14322444949736484
+Generating solution
+69
+65
+60
+62
+Submitting solution
+Your solution succeeded with 60 squares, for a score of 60, with a time penalty of 0.
+Puzzle #26
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 35 width x 27 height and ID=7fae9276428f4af18b3671ec0d6c4a5e-14322445057549234
+Generating solution
+148
+152
+152
+150
+Submitting solution
+Your solution succeeded with 148 squares, for a score of 148, with a time penalty of 0.
+Puzzle #27
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 29 width x 37 height and ID=f8b81ed353f64aa89aa3b4b0133662da-14322445165048784
+Generating solution
+67
+68
+69
+53
+Submitting solution
+Your solution succeeded with 53 squares, for a score of 53, with a time penalty of 0.
+Puzzle #28
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 27 width x 29 height and ID=2e44608d10bd43bcbc0f8163dbd6536b-14322445271298936
+Generating solution
+127
+129
+129
+125
+Submitting solution
+Your solution succeeded with 125 squares, for a score of 125, with a time penalty of 0.
+Puzzle #29
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 32 width x 28 height and ID=65fe425682984882b62db42c469e8eb6-14322445377080228
+Generating solution
+138
+139
+132
+139
+Submitting solution
+Your solution succeeded with 132 squares, for a score of 132, with a time penalty of 0.
+Puzzle #30
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 24 width x 25 height and ID=1aa86982d68043a787aa7575af92a410-14322445482705522
+Generating solution
+96
+102
+94
+93
+Submitting solution
+Your solution succeeded with 93 squares, for a score of 93, with a time penalty of 0.
+Puzzle #31
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 20 width x 31 height and ID=23d88929f24e45c08c552f68c182b78e-14322445588330386
+Generating solution
+107
+104
+106
+110
+Submitting solution
+Your solution succeeded with 104 squares, for a score of 104, with a time penalty of 0.
+Puzzle #32
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 27 width x 36 height and ID=ec02bea3414a4e4685f45a7e237cbeaf-14322445694736618
+Generating solution
+133
+135
+129
+131
+Submitting solution
+Your solution succeeded with 129 squares, for a score of 129, with a time penalty of 0.
+Puzzle #33
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 22 width x 28 height and ID=34a64d29618a4cd2b9626dec4916a02b-14322445800986689
+Generating solution
+104
+107
+109
+109
+Submitting solution
+Your solution succeeded with 104 squares, for a score of 104, with a time penalty of 0.
+Puzzle #34
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 34 width x 38 height and ID=fbcc54808aac4ce09d6af7bddf67aa44-14322445906455571
+Generating solution
+149
+156
+154
+164
+Submitting solution
+Your solution succeeded with 149 squares, for a score of 149, with a time penalty of 0.
+Puzzle #35
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 37 width x 22 height and ID=911842bae2ac42b992b2f987f33a53a5-14322446012080580
+Generating solution
+156
+159
+164
+163
+Submitting solution
+Your solution succeeded with 156 squares, for a score of 156, with a time penalty of 0.
+Puzzle #36
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 37 width x 29 height and ID=f8e345064442465891615b214774f841-14322446117549451
+Generating solution
+119
+122
+122
+124
+Submitting solution
+Your solution succeeded with 119 squares, for a score of 119, with a time penalty of 0.
+Puzzle #37
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 35 width x 26 height and ID=58cd61941da343119a66c801826d322c-14322446223799930
+Generating solution
+172
+171
+153
+168
+Submitting solution
+Your solution succeeded with 153 squares, for a score of 153, with a time penalty of 0.
+Puzzle #38
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 27 width x 32 height and ID=f8d814158f504a5f9ebcb8a85dbb96cf-14322446329268238
+Generating solution
+115
+108
+108
+110
+Submitting solution
+Your solution succeeded with 108 squares, for a score of 108, with a time penalty of 0.
+Puzzle #39
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 39 width x 25 height and ID=7b24bee6e9a24f86bcf0ba37b80acd1b-14322446435831057
+Generating solution
+105
+106
+104
+103
+Submitting solution
+Your solution succeeded with 103 squares, for a score of 103, with a time penalty of 0.
+Puzzle #40
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 35 width x 37 height and ID=8df8029c9bce4cc7be7e768a7539003f-14322446541299661
+Generating solution
+180
+198
+179
+185
+Submitting solution
+Your solution succeeded with 179 squares, for a score of 179, with a time penalty of 0.
+Puzzle #41
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 31 width x 22 height and ID=a955d80ee739477da6bd2b95dc8ec503-14322446646456035
+Generating solution
+90
+98
+95
+89
+Submitting solution
+Your solution succeeded with 89 squares, for a score of 89, with a time penalty of 0.
+Puzzle #42
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 26 width x 33 height and ID=dfb89a2fda9d45ccb03236e10048767d-14322446751455907
+Generating solution
+135
+137
+134
+140
+Submitting solution
+Your solution succeeded with 134 squares, for a score of 134, with a time penalty of 0.
+Puzzle #43
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 37 width x 29 height and ID=70bdb0812b1a43d4b4afab9853a06806-14322446858643870
+Generating solution
+112
+119
+118
+119
+Submitting solution
+Your solution succeeded with 112 squares, for a score of 112, with a time penalty of 0.
+Puzzle #44
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 24 width x 30 height and ID=6aaa34aa50614422b920800c47c11f04-14322446967237438
+Generating solution
+65
+61
+68
+74
+Submitting solution
+Your solution succeeded with 61 squares, for a score of 61, with a time penalty of 0.
+Puzzle #45
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 27 width x 38 height and ID=8c98197654b5484b8c4c3d7929e14d68-14322447072706317
+Generating solution
+83
+77
+79
+74
+Submitting solution
+Your solution succeeded with 74 squares, for a score of 74, with a time penalty of 0.
+Puzzle #46
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 34 width x 38 height and ID=8ca10fafbed1428198ad345c758f9794-14322447180206135
+Generating solution
+183
+191
+187
+189
+Submitting solution
+Your solution succeeded with 183 squares, for a score of 183, with a time penalty of 0.
+Puzzle #47
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 37 width x 36 height and ID=590266889fc047e4a0fa4daf37af2e86-14322447286768862
+Generating solution
+148
+145
+153
+152
+Submitting solution
+Your solution succeeded with 145 squares, for a score of 145, with a time penalty of 0.
+Puzzle #48
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 20 width x 31 height and ID=52f95743440046cca4195f8793919e66-14322447393018763
+Generating solution
+144
+142
+143
+145
+Submitting solution
+Your solution succeeded with 142 squares, for a score of 142, with a time penalty of 0.
+Puzzle #49
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 22 width x 26 height and ID=31493c003d7043b0a0d7495859737938-14322447498800361
+Generating solution
+97
+99
+99
+94
+Submitting solution
+Your solution succeeded with 94 squares, for a score of 94, with a time penalty of 0.
+
+(0, '')
+Puzzle #0
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 24 width x 35 height and ID=3518b206dd8e455aadfcf2f23e0b721e-14322448380207038
+Generating solution
+114
+110
+113
+108
+Submitting solution
+Your solution succeeded with 108 squares, for a score of 108, with a time penalty of 0.
+Puzzle #1
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 23 width x 34 height and ID=6054fd963bd8484e981554e8923c18a6-14322448484738134
+Generating solution
+155
+155
+156
+151
+Submitting solution
+Your solution succeeded with 151 squares, for a score of 151, with a time penalty of 0.
+Puzzle #2
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 34 width x 29 height and ID=ffa86403d49e4004ab11c2248088a07c-14322448592550600
+Generating solution
+136
+140
+134
+126
+Submitting solution
+Your solution succeeded with 126 squares, for a score of 126, with a time penalty of 0.
+Puzzle #3
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 20 width x 30 height and ID=ec7710fcd33f40c791640957c8e28d31-14322448697863564
+Generating solution
+126
+131
+136
+136
+Submitting solution
+Your solution succeeded with 126 squares, for a score of 126, with a time penalty of 0.
+Puzzle #4
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 36 width x 31 height and ID=84b16a6ed5f7478ebd7b5f4f6ead1945-14322448803800735
+Generating solution
+159
+157
+163
+153
+Submitting solution
+Your solution succeeded with 153 squares, for a score of 153, with a time penalty of 0.
+Puzzle #5
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 39 width x 29 height and ID=6a944c45c88e46bbaf68166d930c4494-14322448909738691
+Generating solution
+127
+128
+121
+133
+Submitting solution
+Your solution succeeded with 121 squares, for a score of 121, with a time penalty of 0.
+Puzzle #6
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 23 width x 33 height and ID=9d2dc0043643461b81ea365d24c56888-14322449016769588
+Generating solution
+98
+106
+96
+103
+Submitting solution
+Your solution succeeded with 96 squares, for a score of 96, with a time penalty of 0.
+Puzzle #7
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 29 width x 37 height and ID=1ccaf92cdb3b4ef7ac2cf7ffb37d0c28-14322449122863007
+Generating solution
+138
+131
+125
+124
+Submitting solution
+Your solution succeeded with 124 squares, for a score of 124, with a time penalty of 0.
+Puzzle #8
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 31 width x 26 height and ID=50bebaf49f884652abc7e9eb68d7304d-14322449227863435
+Generating solution
+97
+96
+94
+97
+Submitting solution
+Your solution succeeded with 94 squares, for a score of 94, with a time penalty of 0.
+Puzzle #9
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 24 width x 28 height and ID=8a6d6f718b1041f0b8d75b577c0f07e6-14322449334113657
+Generating solution
+96
+82
+88
+83
+Submitting solution
+Your solution succeeded with 82 squares, for a score of 82, with a time penalty of 0.
+Puzzle #10
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 31 width x 37 height and ID=12c78e40aee54676a1bad42c8fdbace4-14322449440519845
+Generating solution
+172
+196
+191
+180
+Submitting solution
+Your solution succeeded with 172 squares, for a score of 172, with a time penalty of 0.
+Puzzle #11
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 31 width x 34 height and ID=1b791a83e17d4f1c914ac1d743df1e2b-14322449546770150
+Generating solution
+171
+160
+171
+171
+Submitting solution
+Your solution succeeded with 160 squares, for a score of 160, with a time penalty of 0.
+Puzzle #12
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 24 width x 38 height and ID=4a598ec7e4794991a4cc9dc5ff423f44-14322449653332701
+Generating solution
+72
+80
+80
+79
+Submitting solution
+Your solution succeeded with 72 squares, for a score of 72, with a time penalty of 0.
+Puzzle #13
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 33 width x 25 height and ID=e10782cdf15044debf1d2d399257507e-14322449759895323
+Generating solution
+95
+90
+91
+90
+Submitting solution
+Your solution succeeded with 90 squares, for a score of 90, with a time penalty of 0.
+Puzzle #14
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 34 width x 28 height and ID=f889ca34177445a2a8de8ce5822d69e9-14322449865676663
+Generating solution
+127
+132
+126
+128
+Submitting solution
+Your solution succeeded with 126 squares, for a score of 126, with a time penalty of 0.
+Puzzle #15
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 20 width x 35 height and ID=366720bc28c84312ada6da38551bb5fc-14322449971614279
+Generating solution
+136
+142
+139
+131
+Submitting solution
+Your solution succeeded with 131 squares, for a score of 131, with a time penalty of 0.
+Puzzle #16
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 24 width x 38 height and ID=bfaea3c255d143dba221c38c9f385a15-14322450077395121
+Generating solution
+163
+162
+161
+155
+Submitting solution
+Your solution succeeded with 155 squares, for a score of 155, with a time penalty of 0.
+Puzzle #17
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 33 width x 23 height and ID=fe69e970e0b14f04bd5d020a3589ef28-14322450184895170
+Generating solution
+88
+83
+89
+84
+Submitting solution
+Your solution succeeded with 83 squares, for a score of 83, with a time penalty of 0.
+Puzzle #18
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 23 width x 28 height and ID=7adaf9b07f0e4855ae391ba66ee32feb-14322450291457748
+Generating solution
+70
+67
+73
+69
+Submitting solution
+Your solution succeeded with 67 squares, for a score of 67, with a time penalty of 0.
+Puzzle #19
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 28 width x 32 height and ID=3bb4d66230c04f7a8a20867ff1707b33-14322450397864065
+Generating solution
+84
+85
+85
+76
+Submitting solution
+Your solution succeeded with 76 squares, for a score of 76, with a time penalty of 0.
+Puzzle #20
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 36 width x 23 height and ID=5d01fd7d0ce64317b3fc79799285cbe9-14322450503645727
+Generating solution
+98
+91
+96
+82
+Submitting solution
+Your solution succeeded with 82 squares, for a score of 82, with a time penalty of 0.
+Puzzle #21
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 30 width x 31 height and ID=fcbd8e6c88054515a85ebbe71305ce41-14322450609895545
+Generating solution
+125
+117
+121
+125
+Submitting solution
+Your solution succeeded with 117 squares, for a score of 117, with a time penalty of 0.
+Puzzle #22
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 33 width x 21 height and ID=dd4044f155cb4c9c99c4dd7ea20e25ee-14322450715520947
+Generating solution
+90
+103
+98
+102
+Submitting solution
+Your solution succeeded with 90 squares, for a score of 90, with a time penalty of 0.
+Puzzle #23
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 39 width x 30 height and ID=d19c2bd729d74423a3283f449d542904-14322450821926998
+Generating solution
+158
+157
+162
+155
+Submitting solution
+Your solution succeeded with 155 squares, for a score of 155, with a time penalty of 0.
+Puzzle #24
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 26 width x 27 height and ID=53abd11ea0f144a69e8a01ed46a976d1-14322450927864662
+Generating solution
+58
+53
+58
+53
+Submitting solution
+Your solution succeeded with 53 squares, for a score of 53, with a time penalty of 0.
+Puzzle #25
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 31 width x 38 height and ID=d6e150db46f34980a99cee5b2446ed5d-14322451032708393
+Generating solution
+152
+177
+172
+176
+Submitting solution
+Your solution succeeded with 152 squares, for a score of 152, with a time penalty of 0.
+Puzzle #26
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 28 width x 39 height and ID=077eee30e06d42898ba2ea776ddf0d13-14322451138333290
+Generating solution
+72
+68
+77
+77
+Submitting solution
+Your solution succeeded with 68 squares, for a score of 68, with a time penalty of 0.
+Puzzle #27
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 20 width x 35 height and ID=e65e74a4fbd54787b2aa35638dab3dbf-14322451243802228
+Generating solution
+154
+154
+153
+153
+Submitting solution
+Your solution succeeded with 153 squares, for a score of 153, with a time penalty of 0.
+Puzzle #28
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 21 width x 31 height and ID=104c30762c8f4a36a2525835239c8afa-14322451352396539
+Generating solution
+105
+111
+111
+98
+Submitting solution
+Your solution succeeded with 98 squares, for a score of 98, with a time penalty of 0.
+Puzzle #29
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 21 width x 27 height and ID=b21edeb3de1d44739246de4d171178cb-14322451459427488
+Generating solution
+56
+56
+65
+63
+Submitting solution
+Your solution succeeded with 56 squares, for a score of 56, with a time penalty of 0.
+Puzzle #30
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 27 width x 38 height and ID=1ed666285846443994aae3cf4fa64629-14322451564114666
+Generating solution
+179
+179
+182
+172
+Submitting solution
+Your solution succeeded with 172 squares, for a score of 172, with a time penalty of 0.
+Puzzle #31
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 38 width x 33 height and ID=f3c4a6ef729e419393776d016f7c75bd-14322451669114854
+Generating solution
+152
+142
+130
+147
+Submitting solution
+Your solution succeeded with 130 squares, for a score of 130, with a time penalty of 0.
+Puzzle #32
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 23 width x 39 height and ID=168032511c7d465a94e15642d6029b0d-14322451774271070
+Generating solution
+118
+109
+120
+114
+Submitting solution
+Your solution succeeded with 109 squares, for a score of 109, with a time penalty of 0.
+Puzzle #33
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 24 width x 21 height and ID=92b060fdb87d42ccae950b6b92f11aaf-14322451881771066
+Generating solution
+55
+51
+57
+46
+Submitting solution
+Your solution succeeded with 46 squares, for a score of 46, with a time penalty of 0.
+Puzzle #34
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 30 width x 32 height and ID=882eaf21983849c1bb96296a85779191-14322451988021216
+Generating solution
+74
+67
+72
+74
+Submitting solution
+Your solution succeeded with 67 squares, for a score of 67, with a time penalty of 0.
+Puzzle #35
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 25 width x 38 height and ID=e32de419321645da95bd8ba51f53f72b-14322452094583658
+Generating solution
+148
+143
+164
+153
+Submitting solution
+Your solution succeeded with 143 squares, for a score of 143, with a time penalty of 0.
+Puzzle #36
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 30 width x 20 height and ID=b89e9f31a66741eab95a665d107647bb-14322452200052554
+Generating solution
+63
+65
+67
+69
+Submitting solution
+Your solution succeeded with 63 squares, for a score of 63, with a time penalty of 0.
+Puzzle #37
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 32 width x 27 height and ID=5d3eec99f26f49a9bcba2128ee10aa40-14322452304739753
+Generating solution
+102
+111
+103
+107
+Submitting solution
+Your solution succeeded with 102 squares, for a score of 102, with a time penalty of 0.
+Puzzle #38
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 39 width x 28 height and ID=30f12b4275684204af667907aa4fc785-14322452410208866
+Generating solution
+148
+150
+150
+150
+Submitting solution
+Your solution succeeded with 148 squares, for a score of 148, with a time penalty of 0.
+Puzzle #39
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 37 width x 22 height and ID=1e410afe626a45b290f60855ace3a2d5-14322452515678025
+Generating solution
+102
+94
+98
+90
+Submitting solution
+Your solution succeeded with 90 squares, for a score of 90, with a time penalty of 0.
+Puzzle #40
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 21 width x 23 height and ID=3d258520b5254183b6db56b0988fbcb6-14322452622084157
+Generating solution
+112
+113
+113
+117
+Submitting solution
+Your solution succeeded with 112 squares, for a score of 112, with a time penalty of 0.
+Puzzle #41
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 25 width x 22 height and ID=0aee216680c04e36927785df2c945743-14322452728646550
+Generating solution
+75
+83
+80
+76
+Submitting solution
+Your solution succeeded with 75 squares, for a score of 75, with a time penalty of 0.
+Puzzle #42
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 25 width x 21 height and ID=51c0ed2d44804b019dcd11c5657a3557-14322452834584059
+Generating solution
+107
+100
+108
+110
+Submitting solution
+Your solution succeeded with 100 squares, for a score of 100, with a time penalty of 0.
+Puzzle #43
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 34 width x 20 height and ID=b1e07815ad52422597b50ba5b7b4596f-14322452940990594
+Generating solution
+92
+88
+86
+90
+Submitting solution
+Your solution succeeded with 86 squares, for a score of 86, with a time penalty of 0.
+Puzzle #44
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 36 width x 27 height and ID=60b853308db84e04b271117b2d060243-14322453046615616
+Generating solution
+133
+133
+141
+145
+Submitting solution
+Your solution succeeded with 133 squares, for a score of 133, with a time penalty of 0.
+Puzzle #45
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 38 width x 34 height and ID=710daa1df94d44f9bf6a6ef95f231ace-14322453153022062
+Generating solution
+121
+123
+117
+124
+Submitting solution
+Your solution succeeded with 117 squares, for a score of 117, with a time penalty of 0.
+Puzzle #46
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 26 width x 31 height and ID=fa43fea0c4d640fab8b5762335a9001e-14322453258334360
+Generating solution
+106
+107
+101
+109
+Submitting solution
+Your solution succeeded with 101 squares, for a score of 101, with a time penalty of 0.
+Puzzle #47
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 28 width x 33 height and ID=e41af08a409d4388aa124cca16f69cae-14322453364271812
+Generating solution
+177
+182
+175
+174
+Submitting solution
+Your solution succeeded with 174 squares, for a score of 174, with a time penalty of 0.
+Puzzle #48
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 34 width x 39 height and ID=44310880144b4aef89c297f8df0d313b-14322453473021872
+Generating solution
+194
+180
+187
+182
+Submitting solution
+Your solution succeeded with 180 squares, for a score of 180, with a time penalty of 0.
+Puzzle #49
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 27 width x 39 height and ID=933673bbb3ca46c9a99640869f9e3d90-14322453578959403
+Generating solution
+177
+182
+175
+178
+Submitting solution
+Your solution succeeded with 175 squares, for a score of 175, with a time penalty of 0.
+Puzzle #50
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 32 width x 21 height and ID=cf5f58e97e174d2383aa76ccf82cac39-14322453685209590
+Generating solution
+82
+82
+78
+84
+Submitting solution
+Your solution succeeded with 78 squares, for a score of 78, with a time penalty of 0.
+Puzzle #51
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 35 width x 26 height and ID=d0539632240143ef9badf7025af9cb77-14322453790678375
+Generating solution
+179
+172
+176
+173
+Submitting solution
+Your solution succeeded with 172 squares, for a score of 172, with a time penalty of 0.
+Puzzle #52
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 32 width x 29 height and ID=d9456dee1210476394ee020015412d48-14322453895990881
+Generating solution
+75
+81
+74
+79
+Submitting solution
+Your solution succeeded with 74 squares, for a score of 74, with a time penalty of 0.
+Puzzle #53
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 35 width x 39 height and ID=229412b38aab4a34924ff6fab2d4c7ca-14322454002397325
+Generating solution
+116
+106
+114
+98
+Submitting solution
+Your solution succeeded with 98 squares, for a score of 98, with a time penalty of 0.
+Puzzle #54
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 25 width x 36 height and ID=a178af44e3ff4cdc806810628925f091-14322454110210054
+Generating solution
+143
+145
+147
+145
+Submitting solution
+Your solution succeeded with 143 squares, for a score of 143, with a time penalty of 0.
+
