@@ -8,22 +8,13 @@ import time
 import threading
 import sys
 
-x = np.array([
-              [0,0,1,1,1,1,1,1,1,0,0,1],
-              [1,0,1,1,1,1,1,1,1,1,1,1],
-              [1,1,1,1,1,1,1,1,1,1,1,1],
-              [1,1,1,1,1,1,1,1,1,1,1,1],
-              [1,1,1,1,1,1,1,1,1,1,1,1],
-              [1,1,1,1,1,1,1,1,1,1,1,1],
-              [1,1,1,1,1,1,1,1,1,1,1,1],
-              [1,1,1,1,1,1,1,1,1,1,1,1],
-              [0,0,0,0,1,1,1,1,1,1,1,0],
-              [0,0,0,0,1,1,1,1,1,1,1,0],
-              [0,0,0,0,1,1,1,1,1,1,0,0],
-              [0,0,0,0,1,1,1,1,1,1,1,1],
-              ])
-
-x = (x == 1)
+# configuration
+plots = False
+allowPromptFindIsolatedSingleTiles = True
+allowRandomNoiseInScores = True
+allowPartitions = True
+allowShrink = True
+cachedSolutions = False
 
 def generate(m, n, nSquares, maxSize):
     U = np.zeros((m, n), dtype=np.int)
@@ -71,7 +62,7 @@ def bronk(graph, r, p, x, limit = 500):
                 x.add(vertex)
     return result
 
-def combinations(x, n, maxComb = sys.maxint):
+def combinations(x, n, maxComb = sys.maxsize):
     r = set()
     
 #     print('combinations n=%i ...' % (n))
@@ -122,24 +113,19 @@ def decomposeSquares(n, ni = 0):
     return r
     
 def registerSolution(x, solution):
-#     registerSolution.count += 1
-#     print(str(registerSolution.count) + ' ' + str(x.shape) + ' ' + str(solution.shape[1]))
-#     [h, m, dims] = hash_(x)
-#     if (h is not None):
-#         if np.any(solution[1,:] - m[1] < 0):
-#             print(solution[0,:] - m[0])
-#         print(solution[1,:] - m[1])
-#         print(dims)
-#         i = np.ravel_multi_index((solution[0,:] - m[0], solution[1,:] - m[1]), dims)
-#         sol = np.vstack([i, solution[2,:]])
-#         hash_.table[h] = sol
+    [h, m, dims] = hash_(x)
+#     np.array(x, dtype=np.int8)
+    if (h is not None):
+        i = np.ravel_multi_index((solution[0,:] - m[0], solution[1,:] - m[1]), dims)
+        sol = np.vstack([i, solution[2,:]])
+        hash_.table[h] = sol
     return
 
 registerSolution.count = 0
  
-def place(x, n, maxComb = [], 
+def place(x_, n, maxComb = [], 
           partialLength = 0,
-          bestLength = np.inf,
+          bestLength = sys.maxsize,
           tryPartitions = True,
           findIsolatedSingleTiles = True,
           maxDepth = 1000):
@@ -154,7 +140,7 @@ def place(x, n, maxComb = [],
         optimalSolution = False
         squares = np.zeros((3, 0), dtype=int16)
     elif (n == 1):
-        i = np.transpose(np.argwhere(x))
+        i = np.transpose(np.argwhere(x_))
         if (partialLength + i.shape[1] >= bestLength):
             return (None, None)
         
@@ -164,7 +150,7 @@ def place(x, n, maxComb = [],
 
         squares = np.zeros((3, 0), dtype=int16)
         # shrink the puzzle
-        u = np.argwhere(x)    
+        u = np.argwhere(x_)    
         nRemainingTiles_ = u.shape[0]
 
         if (nRemainingTiles_ == 0):
@@ -173,8 +159,7 @@ def place(x, n, maxComb = [],
         # we reduce n
         n = min(n, int(floor(sqrt(nRemainingTiles_))))
 
-        shrink = True        
-        if shrink:   
+        if allowShrink:   
             m_ = np.min(u, 0)
             M_ = np.max(u, 0)
             dims_ = M_ - m_ + 1
@@ -184,9 +169,9 @@ def place(x, n, maxComb = [],
             x[u0[:,0], u0[:,1]] = True
             shift = np.array([[m_[0]],[m_[1]],[0]], dtype=int16);
         else:
-            x = np.array(x, dtype = bool)
-        
-        if findIsolatedSingleTiles:
+            x = np.array(x_, dtype = bool)
+                
+        if allowPromptFindIsolatedSingleTiles and findIsolatedSingleTiles:
             # find 'isolated' 1x1 squared
             # finding them in early stages will help us to find a better partition and a better best-scenario bound
             xnm1False = np.hstack( [ np.ones((x.shape[0], 1), dtype=bool), x[:,:x.shape[1]-1] == False] )
@@ -208,6 +193,16 @@ def place(x, n, maxComb = [],
         if (nRemainingTiles_ == 0):
             return (shift + squares, optimalSolution)
 
+        [h, m, dims] = hash_(x)
+        if h in hash_.table.keys():
+            solution = hash_.table[h]
+            [ix, iy] = np.unravel_index(solution[0,:], dims)
+            ix = ix + m[0]
+            iy = iy + m[1]
+            squares_i = np.vstack([ ix, iy, solution[1,: ]] )
+            hash_.hits += 1
+            return (shift + np.hstack([ squares, squares_i ]), True)
+
         # computes the best scenario according only to the number of tiles on,
         # not the geometry
         bestScenario = decomposeSquares(nRemainingTiles_, n)
@@ -217,6 +212,7 @@ def place(x, n, maxComb = [],
         if (partialLength + bestScenario >= bestLength):
             return (None, None)        
 
+        tryPartitions &= allowPartitions
         partitions = [] if not tryPartitions else partition(x)
         partitionExists = len(partitions) > 1;
           
@@ -225,9 +221,7 @@ def place(x, n, maxComb = [],
             # the smallest sets before
             partitions = sorted(partitions, key=lambda x: len(x))                    
             subLength = 0
-            for c in partitions:
-                xi = np.zeros(x.shape, dtype=bool)
-                xi[np.unravel_index(c, x.shape)] = True
+            for xi in partitions:
                 [squares_nm1_i, optimalSolution_i] = place(xi, n, maxComb, partialLength + subLength, bestLength, False, findIsolatedSingleTiles, maxDepth)
                 if squares_nm1_i == None:
                     squares_nm1 = None
@@ -243,20 +237,11 @@ def place(x, n, maxComb = [],
         else:
 
             tryPartitions = False
-#             [h, m, dims] = hash_(x)
-#             if (h in hash_.table.keys()):
-#                 solution = hash_.table[h]
-#                 [ix, iy] = np.unravel_index(solution[0,:], dims)
-#                 ix = ix + m[0]
-#                 iy = iy + m[1]
-#                 squares_i = np.vstack([ ix, iy, solution[1,: ]] )
-#                 hash_.hits += 1
-#                 return shift + np.hstack([ squares, squares_i ]);
     
             maxComb_ = 1
             for k in range(0, len(maxComb)):
                 if np.isnan(maxComb[k]):
-                    maxComb_ = sys.maxint
+                    maxComb_ = sys.maxsize
                 else:
                     if (nRemainingTiles_ < maxComb[k]):
                         maxComb_ += 1
@@ -281,7 +266,7 @@ def place(x, n, maxComb = [],
                     i = np.vstack(np.unravel_index(np.array(list(indices), dtype=int16), x.shape))
                     squares = np.vstack([i, l])
                     if (optimalSolution):
-                        registerSolution(x, squares)
+                        registerSolution(x, shift + squares)
                     return (shift + squares, optimalSolution)
                        
 #                 squaresl = []
@@ -319,7 +304,8 @@ def place(x, n, maxComb = [],
 #                         fillSquare(x, index[0], index[1], n, True);
              
                 scores = np.array(scores)
-                scores -= 1e-5*np.random.normal(0.0, 1.0, len(scores))
+                if allowRandomNoiseInScores:
+                    scores += 1e-5*np.random.normal(0.0, 1.0, len(scores))
                 scores_i = np.argsort(scores)
                 scores_i = scores_i[scores[scores_i] < 0]
                 squares_i = None
@@ -393,23 +379,23 @@ def place(x, n, maxComb = [],
                 squares = np.hstack([ squares, squares_nm1 ])            
 
     if (optimalSolution):
-        registerSolution(x, squares)
+        registerSolution(x_, shift + squares)
     return (shift + squares, optimalSolution)
 
 def hash_(x):
-    u = np.argwhere(x)
-    if (len(u) == 0):
-        print(len(u))
-    m = np.min(u, 0)
-    M = np.max(u, 0)
-    u0 = u - m
-    dims = M - m + 1
-    tdims = tuple(dims)
-    h = None
-    if min(dims) > 1 and np.prod(dims) < 1400:
-        h = hash((tdims, frozenset(np.ravel_multi_index((u0[:,0], u0[:,1]), tdims))))
-    return (h, m, tdims)
-#     return (None, None, None)
+    if cachedSolutions:
+        u = np.argwhere(x)
+        m = np.min(u, 0)
+        M = np.max(u, 0)
+        u0 = u - m
+        dims = M - m + 1
+        tdims = tuple(dims)
+        h = None
+        if min(dims) > 1 and np.prod(dims) < 1400:
+            h = hash((tdims, frozenset(np.ravel_multi_index((u0[:,0], u0[:,1]), tdims))))
+        return (h, m, tdims)
+    else:
+        return (None, None, None)
 
 hash_.table = {}
 hash_.hits = 0
@@ -426,47 +412,131 @@ def populate(x, squares):
 def partition(x):
     
     result = []
-
-    x = np.array(x, dtype=bool)
     
+    x = np.array(x, dtype = bool)
     while True:
-        [ix, iy] = np.where(x)
-        
-        if (len(ix) == 0):
+        i = np.argwhere(x)        
+        if (i.shape[0] == 0):
             break
      
         # we choose the closest tile to the center of the puzzle
-        d = np.abs(ix - x.shape[0]/2) + np.abs(iy - x.shape[1]/2)
+        d = np.sum(np.abs(i - np.array(x.shape)/2), 1)
         i0 = np.argmin(d)
-        ix = ix[i0]
-        iy = iy[i0]
-        l = 1
+        i = i[i0, :]
+        xi = np.zeros(x.shape, dtype=bool)
+        xi[tuple(i)] = True
+        xiSize_nm1 = 0
+        xiSize = 1
         
-        while True:
+        while (xiSize > xiSize_nm1):
             # neighbors
-            nx = np.hstack([ix, ix  - 1, ix + 1, ix, ix])
-            ny = np.hstack([iy, iy, iy, iy - 1, iy + 1])
-            nx[nx < 0] = 0
-            nx[nx >= x.shape[0]] = x.shape[0] - 1
-            ny[ny < 0] = 0
-            ny[ny >= x.shape[1]] = x.shape[1] - 1
-            # unique
-            i = np.unique(np.ravel_multi_index(np.vstack([nx, ny]), x.shape))
-            i_ = np.unravel_index(i, x.shape)
-            i = i[x[i_]]
-            if (len(i) == l):
-                break
-            [ix, iy] = np.unravel_index(i, x.shape)
-            l = len(ix)
+            xn = np.hstack( [ np.zeros((xi.shape[0], 1), dtype=bool), xi[:,:xi.shape[1]-1]] )
+            xn |= np.hstack( [ xi[:,1:], np.zeros((xi.shape[0], 1), dtype=bool) ] )
+            xn |= np.vstack( [ np.zeros((1, xi.shape[1]), dtype=bool), xi[:xi.shape[0]-1,:]] )
+            xn |= np.vstack( [ xi[1:, :], np.zeros((1, xi.shape[1]), dtype=bool) ] )
+            xn &= x
+            xi |= xn
+            xiSize_nm1 = xiSize
+            xiSize = np.argwhere(xi).shape[0]
     
-        result.append(i)
-        x[ix,iy] = False;
+        result.append(xi)
+        x ^= xi
+        
     return result
     
+def solve(x, bestLength = sys.maxsize):
+
+    if plots:
+        fig = plt.figure(1)
+        ax = fig.add_subplot(121)
+        ax.imshow(x, interpolation='none')
+        ax = fig.add_subplot(122)
+        ax.imshow(x, interpolation='none')
+        plt.show(block=False)
+    
+    # partition(x)
+        
+    squares_i = None
+    squares = None
+    
+    maxCombThresholds = [
+                         [ ],
+                         [ 100 ],
+                         [ 200, 100 ],
+                         [ 200, 100, 50 ],
+                         [ 300, 200, 100, 50 ],
+                         [ 400, 300, 200, 100, 50 ],
+                         [ 500, 400, 300, 200, 100, 50 ],
+                         [ 600, 500, 400, 300, 200, 100, 50 ],
+                         [ 700, 600, 500, 400, 300, 200, 100, 50 ],
+                         [ 800, 700, 600, 500, 400, 300, 200, 100, 50 ],
+                         [ 900, 800, 700, 600, 500, 400, 300, 200, 100, 50 ],
+                         [ 1000, 1000, 1000, 1000, 700, 600, 500, 400, 300, 200 ],
+                         [ 1000, 1000, 1000, 1000, 1000, 700, 600, 500, 400, 300, 200 ],
+                         [ 1000000, 1000000, 1000000, 1000000, 1000000, 1000000, 1000000, 1000000, 1000000, 1000000, 1000000 ],
+                         [ np.NaN ],
+                         ]
+      
+    
+    timeLimit = max(10, 0.4*(np.sqrt(np.prod(np.array(x.shape))) - 15))
+    print('time limit for this puzzle %.2fs' % (timeLimit))
+    t0 = time.time()
+    place.stop = False
+    def checktime():
+        elapsed0 = time.time() - t0
+        if (elapsed0 > timeLimit):
+            place.stop = True
+            print('reached time limit, quiting ...')
+        else:
+            threading.Timer(1.0, checktime).start()
+    
+    checktime()
+    
+    
+    for k in range(0,len(maxCombThresholds)):
+        if place.stop:
+            break
+        print('iteration %i' % (k))
+        for n in range(0,3):
+            if place.stop:
+                break
+            t = time.time()
+            [squares_i, optimalSolution] = place(x, min(x.shape), maxCombThresholds[k], 0, bestLength, True, True)
+            elapsed = time.time() - t
+            elapsed0 = time.time() - t0
+            if (squares_i is not None) and squares_i.shape[1] < bestLength:
+                bestLength = squares_i.shape[1]
+                squares = squares_i
+                if plots:
+                    xi = populate(x, squares)
+                    ax = fig.add_subplot(122)
+                    ax.imshow(xi, interpolation='none')
+                    fig.canvas.draw()
+        
+                print('Cache has %i entries, got %i hits' % (len(hash_.table), hash_.hits))
+                print("Found solution with %i squares in %0.2fs, total elapsed %0.2fs " % (squares.shape[1], elapsed, elapsed0))
+                xi = populate(x, squares)
+                if np.any(xi[x] == 0):
+                    assert(False)
+    
+    elapsed0 = time.time() - t0
+    if squares is None:
+        print("Solution not found")
+    else:
+        print("Found solution with %i squares, total elapsed %0.2fs " % (squares.shape[1], elapsed0))
+    
+    return squares
+    
+#plt.show()
+
 # dealing with a graph as list of lists 
 # graph = np.array([[1,1,0,0,1,1],[1,1,1,0,1,0],[0,1,0,1,0,0],[0,0,1,0,0,0],[0,0,0,0,0,1],[0,0,0,0,1,0]])
-# c = partition(graph)
+# c = partition( np.array(graph, dtype=bool) )
 # print(c)
+# print(len(c))
+
+# if True:
+#     exit(0)
 # if True:
 #     exit(0)
 # print(graph)
@@ -486,85 +556,67 @@ def partition(x):
 # print(s0 - s1)
 # print(len(combinations(x, n)))
 
-# x = generate(100, 100, 55, 30)
-x = np.loadtxt('puzzle.txt')
-print(np.sum(x))
-x = x > 0
-# np.savetxt('puzzle.txt', x, fmt='%i')
-
-fig = plt.figure(1)
-ax = fig.add_subplot(121)
-ax.imshow(x, interpolation='none')
-ax = fig.add_subplot(122)
-ax.imshow(x, interpolation='none')
-plt.show(block=False)
-
-# partition(x)
+# 
+# x = np.array([
+#               [0,0,1,1,1,1,1,1,1,0,0,1],
+#               [1,0,1,1,1,1,1,1,1,1,1,1],
+#               [1,1,1,1,1,1,1,1,1,1,1,1],
+#               [1,1,1,1,1,1,1,1,1,1,1,1],
+#               [1,1,1,1,1,1,1,1,1,1,1,1],
+#               [1,1,1,1,1,1,1,1,1,1,1,1],
+#               [1,1,1,1,1,1,1,1,1,1,1,1],
+#               [1,1,1,1,1,1,1,1,1,1,1,1],
+#               [0,0,0,0,1,1,1,1,1,1,1,0],
+#               [0,0,0,0,1,1,1,1,1,1,1,0],
+#               [0,0,0,0,1,1,1,1,1,1,0,0],
+#               [0,0,0,0,1,1,1,1,1,1,1,1],
+#               ])
+#   
+# x = (x == 1)
+#  
+# solve(x)
+# 
+# 
+puzzles = glob.glob("puzzles/*.npy")
+cacheFileName = 'cache.txt'
+if os.path.isfile(cacheFileName):
+    with open(cacheFileName, 'rb') as f:
+        print('Reading cache from file ...')
+        hash_.table = load(f)
+        print('... done')
+          
     
-bestLength = 10000
-squares_i = np.array((3,0), dtype=int16)
-squares = np.array((3,0), dtype=int16)
-
-maxCombThresholds = [
-                     [ ],
-                     [ 100 ],
-                     [ 200, 100 ],
-                     [ 200, 100, 50 ],
-                     [ 300, 200, 100, 50 ],
-                     [ 400, 300, 200, 100, 50 ],
-                     [ 500, 400, 300, 200, 100, 50 ],
-                     [ 600, 500, 400, 300, 200, 100, 50 ],
-                     [ 700, 600, 500, 400, 300, 200, 100, 50 ],
-                     [ 800, 700, 600, 500, 400, 300, 200, 100, 50 ],
-                     [ 900, 800, 700, 600, 500, 400, 300, 200, 100, 50 ],
-                     [ 1000, 1000, 1000, 1000, 700, 600, 500, 400, 300, 200 ],
-                     [ 1000, 1000, 1000, 1000, 1000, 700, 600, 500, 400, 300, 200 ],
-                     [ 1000000, 1000000, 1000000, 1000000, 1000000, 1000000, 1000000, 1000000, 1000000, 1000000, 1000000 ],
-                     [ np.NaN ],
-                     ]
+for puzzle in puzzles:
+    print(puzzle)
+    solution = puzzle[:-4] + str('.sol')
+      
+    bestSize = sys.maxsize
+    if os.path.isfile(solution):
+        bestSol = np.loadtxt(solution)
+        bestSize = bestSol.shape[1]
+        print('best solution has %i squares' % (bestSize))
+           
+    print(solution)
+    # x = generate(30, 30, 25, 15)
+    x = np.load(puzzle)
+    # # print(np.sum(x))
+    # x = x > 0
+    # np.savetxt('puzzle.txt', x, fmt='%i')
+    sol = solve(x, bestSize)
+    if (sol is not None):
+        np.savetxt(solution, sol, fmt='%i')
+          
+    print('Saving cache to file ...')
+    with open(cacheFileName, 'wb') as f:
+        dump(hash_.table, f)    
+    print('... done')
   
+#  
+ 
+# x = generate(30, 30, 25, 15)
+# # x = np.loadtxt('puzzle.txt')
+# # print(np.sum(x))
+# x = x > 0
+# np.savetxt('puzzle.txt', x, fmt='%i')
+# solve(x)
 
-t0 = time.time()
-place.stop = False
-def checktime():
-    elapsed0 = time.time() - t0
-    if (elapsed0 > 60.0):
-        place.stop = True
-        print('reached time limit, quiting ...')
-    else:
-        threading.Timer(5.0, checktime).start()
-
-checktime()
-
-
-for k in range(0,len(maxCombThresholds)):
-    if place.stop:
-        break
-    print('iteration %i' % (k))
-    for n in range(0,4):
-        if place.stop:
-            break
-        t = time.time()
-        [squares_i, optimalSolution] = place(x, min(x.shape), maxCombThresholds[k], 0, bestLength, True, True)
-        elapsed = time.time() - t
-        elapsed0 = time.time() - t0
-        if (squares_i is not None) and squares_i.shape[1] < bestLength:
-    #         print('found solution, bestLength = %i' % (bestLength))
-            bestLength = squares_i.shape[1]
-            squares = squares_i
-            xi = populate(x, squares)
-            ax = fig.add_subplot(122)
-            ax.imshow(xi, interpolation='none')
-            fig.canvas.draw()
-    
-            print('Cache has %i entries, got %i hits' % (len(hash_.table), hash_.hits))
-            print("Found solution with %i squares in %0.2fs, total elapsed %0.2fs " % (squares.shape[1], elapsed, elapsed0))
-            xi = populate(x, squares)
-            if np.any(xi[x] == 0):
-                assert(False)
-
-elapsed0 = time.time() - t0
-print("Found solution with %i squares, total elapsed %0.2fs " % (squares.shape[1], elapsed0))
-
-print(squares)
-plt.show()
