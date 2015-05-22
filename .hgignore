@@ -4,3 +4,5 @@ puzzles
 cache.txt
 __pycache__
 puzzle.txt
+*.pyc
+*.pyo

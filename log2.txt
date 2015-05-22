@@ -1,0 +1,3504 @@
+Puzzle #0
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 23 width x 35 height and ID=126418e9f56249a79f66288981bf47ce-14323181161519797
+Generating solution
+localhost: 73
+localhost: 64
+localhost: 62
+localhost: 62
+192.168.0.22: 63
+192.168.0.22: 65
+Submitting solution
+Your solution succeeded with 62 squares, for a score of 62, with a time penalty of 0.
+Puzzle #1
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 35 width x 36 height and ID=08840a5dd00548fab3ffc48fa42d3d15-14323181271988384
+Generating solution
+localhost: 173
+localhost: 170
+localhost: 172
+localhost: 168
+192.168.0.22: 179
+192.168.0.22: 176
+Submitting solution
+Your solution succeeded with 168 squares, for a score of 168, with a time penalty of 0.
+Puzzle #2
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 36 width x 39 height and ID=7de33d1cca294ee0a79633afe8cdc8ae-14323181382144931
+Generating solution
+localhost: 120
+localhost: 131
+localhost: 120
+localhost: 130
+192.168.0.22: 128
+192.168.0.22: 135
+Submitting solution
+Your solution succeeded with 120 squares, for a score of 120, with a time penalty of 0.
+Puzzle #3
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 28 width x 20 height and ID=9ebb3e39bc2f41c7ba227fc1ae18d152-14323181492613567
+Generating solution
+localhost: 118
+localhost: 122
+localhost: 113
+localhost: 115
+192.168.0.22: 122
+192.168.0.22: 119
+Submitting solution
+Your solution succeeded with 113 squares, for a score of 113, with a time penalty of 0.
+Puzzle #4
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 38 width x 29 height and ID=399290a90daa43cd8419a5228c135e09-14323181602145121
+Generating solution
+localhost: 170
+localhost: 158
+localhost: 168
+localhost: 171
+192.168.0.22: 171
+192.168.0.22: 173
+Submitting solution
+Your solution succeeded with 158 squares, for a score of 158, with a time penalty of 0.
+Puzzle #5
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 22 width x 34 height and ID=9454f23981564af7835cc0b1730e53af-14323181711051066
+Generating solution
+localhost: 102
+localhost: 105
+localhost: 99
+localhost: 97
+192.168.0.22: 95
+192.168.0.22: 102
+Submitting solution
+Your solution succeeded with 95 squares, for a score of 95, with a time penalty of 0.
+Puzzle #6
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 27 width x 20 height and ID=2308102d6ba942f29ea428afc2ee2c2e-14323181820113839
+Generating solution
+localhost: 81
+localhost: 82
+localhost: 82
+localhost: 78
+192.168.0.22: 80
+192.168.0.22: 80
+Submitting solution
+Your solution succeeded with 78 squares, for a score of 78, with a time penalty of 0.
+Puzzle #7
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 36 width x 26 height and ID=95a91b541fec4cd0ad2b7ad640b8424b-14323181929332682
+Generating solution
+localhost: 129
+localhost: 130
+localhost: 115
+localhost: 115
+192.168.0.22: 124
+192.168.0.22: 122
+Submitting solution
+Your solution succeeded with 115 squares, for a score of 115, with a time penalty of 0.
+Puzzle #8
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 29 width x 25 height and ID=54decc0af5024e7c9d9df24019326ae4-14323182039644894
+Generating solution
+localhost: 130
+localhost: 133
+localhost: 142
+localhost: 120
+192.168.0.22: 128
+192.168.0.22: 131
+Submitting solution
+Your solution succeeded with 120 squares, for a score of 120, with a time penalty of 0.
+Puzzle #9
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 27 width x 33 height and ID=2b8347ea98bb43caa47ecb301a7f1762-14323182149488864
+Generating solution
+localhost: 117
+localhost: 110
+localhost: 117
+localhost: 110
+192.168.0.22: 107
+192.168.0.22: 113
+Submitting solution
+Your solution succeeded with 107 squares, for a score of 107, with a time penalty of 0.
+Puzzle #10
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 36 width x 26 height and ID=14465a94a01c4807a4a918fb39c625ea-14323182258863734
+Generating solution
+localhost: 145
+localhost: 141
+localhost: 151
+localhost: 144
+192.168.0.22: 160
+192.168.0.22: 143
+Submitting solution
+Your solution succeeded with 141 squares, for a score of 141, with a time penalty of 0.
+Puzzle #11
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 32 width x 20 height and ID=a81ed924b8384d1e9d0fa457c3e13549-14323182368082744
+Generating solution
+localhost: 98
+localhost: 101
+localhost: 107
+localhost: 102
+192.168.0.22: 109
+192.168.0.22: 104
+Submitting solution
+Your solution succeeded with 98 squares, for a score of 98, with a time penalty of 0.
+Puzzle #12
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 33 width x 36 height and ID=cc154817fcdd42f5ab197c05681c105e-14323182476989142
+Generating solution
+localhost: 157
+localhost: 167
+localhost: 164
+localhost: 161
+192.168.0.22: 167
+192.168.0.22: 167
+Submitting solution
+Your solution succeeded with 157 squares, for a score of 157, with a time penalty of 0.
+Puzzle #13
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 32 width x 38 height and ID=02f95cf686a54346aae9fa9b0dfadc29-14323182586520260
+Generating solution
+localhost: 191
+localhost: 199
+localhost: 189
+localhost: 192
+192.168.0.22: 204
+192.168.0.22: 188
+Submitting solution
+Your solution succeeded with 188 squares, for a score of 188, with a time penalty of 0.
+Puzzle #14
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 25 width x 25 height and ID=70bfa4a524ea4608a8a77bb5015e787b-14323182696676875
+Generating solution
+localhost: 127
+localhost: 124
+localhost: 117
+localhost: 126
+192.168.0.22: 121
+192.168.0.22: 120
+Submitting solution
+Your solution succeeded with 117 squares, for a score of 117, with a time penalty of 0.
+Puzzle #15
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 26 width x 33 height and ID=29bc8b1d98ba4849a1774239e57c5190-14323182806676457
+Generating solution
+localhost: 72
+localhost: 69
+localhost: 71
+localhost: 70
+192.168.0.22: 71
+192.168.0.22: 71
+Submitting solution
+Your solution succeeded with 69 squares, for a score of 69, with a time penalty of 0.
+Puzzle #16
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 22 width x 28 height and ID=55bc0eb521624bacba054cba89693e9d-14323182916833187
+Generating solution
+localhost: 95
+localhost: 95
+localhost: 91
+localhost: 93
+192.168.0.22: 93
+192.168.0.22: 93
+Submitting solution
+Your solution succeeded with 91 squares, for a score of 91, with a time penalty of 0.
+Puzzle #17
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 38 width x 37 height and ID=20cf0c0f783b434eb6b079f0de1ca13d-14323183026833933
+Generating solution
+localhost: 171
+localhost: 167
+localhost: 169
+localhost: 178
+192.168.0.22: 167
+192.168.0.22: 173
+Submitting solution
+Your solution succeeded with 167 squares, for a score of 167, with a time penalty of 0.
+Puzzle #18
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 37 width x 25 height and ID=f698419259694c67ad64c5f6819b7b03-14323183138239354
+Generating solution
+localhost: 93
+localhost: 97
+localhost: 93
+localhost: 98
+192.168.0.22: 99
+192.168.0.22: 103
+Submitting solution
+Your solution succeeded with 93 squares, for a score of 93, with a time penalty of 0.
+Puzzle #19
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 32 width x 24 height and ID=1da2d75c633f47b0b606dbbcda8de365-14323183248239249
+Generating solution
+localhost: 109
+localhost: 114
+localhost: 117
+localhost: 113
+192.168.0.22: 113
+192.168.0.22: 110
+Submitting solution
+Your solution succeeded with 109 squares, for a score of 109, with a time penalty of 0.
+Puzzle #20
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 36 width x 30 height and ID=bc8a316b75a84f66af9a6b21b1b3811c-14323183358395984
+Generating solution
+localhost: 134
+localhost: 141
+localhost: 139
+localhost: 136
+192.168.0.22: 139
+192.168.0.22: 130
+Submitting solution
+Your solution succeeded with 130 squares, for a score of 130, with a time penalty of 0.
+Puzzle #21
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 26 width x 38 height and ID=8baa010b201846bc8b24a604b25fc750-14323183469020624
+Generating solution
+localhost: 167
+localhost: 183
+localhost: 178
+localhost: 184
+192.168.0.22: 178
+192.168.0.22: 176
+Submitting solution
+Your solution succeeded with 167 squares, for a score of 167, with a time penalty of 0.
+Puzzle #22
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 22 width x 28 height and ID=d371bcd485cd42779cb77a59f5add38b-14323183581052584
+Generating solution
+localhost: 131
+localhost: 133
+localhost: 132
+localhost: 136
+192.168.0.22: 134
+192.168.0.22: 140
+Submitting solution
+Your solution succeeded with 131 squares, for a score of 131, with a time penalty of 0.
+Puzzle #23
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 25 width x 28 height and ID=e45193b9482d410c8811a85d22db47aa-14323183692302095
+Generating solution
+localhost: 83
+localhost: 88
+localhost: 85
+localhost: 83
+192.168.0.22: 79
+192.168.0.22: 89
+Submitting solution
+Your solution succeeded with 79 squares, for a score of 79, with a time penalty of 0.
+Puzzle #24
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 24 width x 28 height and ID=0a3258df07e5444496215b95c68491d4-14323183802302068
+Generating solution
+localhost: 95
+localhost: 96
+localhost: 106
+localhost: 111
+192.168.0.22: 111
+192.168.0.22: 110
+Submitting solution
+Your solution succeeded with 95 squares, for a score of 95, with a time penalty of 0.
+Puzzle #25
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 30 width x 36 height and ID=f74fa417ff1142aa8d39fb43f523499d-14323183912770845
+Generating solution
+localhost: 176
+localhost: 183
+localhost: 177
+localhost: 176
+192.168.0.22: 180
+192.168.0.22: 186
+Submitting solution
+Your solution succeeded with 176 squares, for a score of 176, with a time penalty of 0.
+Puzzle #26
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 36 width x 27 height and ID=c204afdf621c413ebf9e696b51af41fb-14323184021989691
+Generating solution
+localhost: 146
+localhost: 156
+localhost: 153
+localhost: 147
+192.168.0.22: 151
+192.168.0.22: 159
+Submitting solution
+Your solution succeeded with 146 squares, for a score of 146, with a time penalty of 0.
+Puzzle #27
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 25 width x 29 height and ID=b9129dfdc7c642f683d93c9a0b946063-14323184132146422
+Generating solution
+localhost: 138
+localhost: 138
+localhost: 132
+localhost: 137
+192.168.0.22: 133
+192.168.0.22: 136
+Submitting solution
+Your solution succeeded with 132 squares, for a score of 132, with a time penalty of 0.
+Puzzle #28
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 27 width x 27 height and ID=8ad7429f5e434b658d026298f4a2d5f0-14323184242146570
+Generating solution
+localhost: 120
+localhost: 121
+localhost: 125
+localhost: 124
+192.168.0.22: 125
+192.168.0.22: 127
+Submitting solution
+Your solution succeeded with 120 squares, for a score of 120, with a time penalty of 0.
+Puzzle #29
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 33 width x 34 height and ID=e69466c4e0ca4a7d8953a91d3d878b82-14323184351365177
+Generating solution
+localhost: 183
+localhost: 176
+localhost: 181
+localhost: 181
+192.168.0.22: 177
+192.168.0.22: 170
+Submitting solution
+Your solution succeeded with 170 squares, for a score of 170, with a time penalty of 0.
+Puzzle #30
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 24 width x 23 height and ID=3cd6fad0dac442d89290336c8f8fbecd-14323184461990605
+Generating solution
+localhost: 92
+localhost: 96
+localhost: 91
+localhost: 87
+192.168.0.22: 95
+192.168.0.22: 92
+Submitting solution
+Your solution succeeded with 87 squares, for a score of 87, with a time penalty of 0.
+Puzzle #31
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 21 width x 35 height and ID=6f374b0eb8504e7587c57356b75349ac-14323184572302618
+Generating solution
+localhost: 148
+localhost: 148
+localhost: 146
+localhost: 152
+192.168.0.22: 153
+192.168.0.22: 141
+Submitting solution
+Your solution succeeded with 141 squares, for a score of 141, with a time penalty of 0.
+Puzzle #32
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 38 width x 21 height and ID=8170e159ee174170b93033caea3e68ad-14323184682458785
+Generating solution
+localhost: 127
+localhost: 127
+localhost: 113
+localhost: 108
+192.168.0.22: 124
+192.168.0.22: 124
+Submitting solution
+Your solution succeeded with 108 squares, for a score of 108, with a time penalty of 0.
+Puzzle #33
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 36 width x 39 height and ID=c8da8501f45c4e728d395db20ef6af67-14323184792458880
+Generating solution
+localhost: 151
+localhost: 159
+localhost: 151
+localhost: 155
+192.168.0.22: 161
+192.168.0.22: 152
+Submitting solution
+Your solution succeeded with 151 squares, for a score of 151, with a time penalty of 0.
+Puzzle #34
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 22 width x 24 height and ID=4855ed2cdec64595b07095f797e365a7-14323184903083935
+Generating solution
+localhost: 122
+localhost: 121
+localhost: 126
+localhost: 119
+192.168.0.22: 122
+192.168.0.22: 119
+Submitting solution
+Your solution succeeded with 119 squares, for a score of 119, with a time penalty of 0.
+Puzzle #35
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 32 width x 31 height and ID=e1f77c47e50e4c419673e49e00170d7e-14323185013396014
+Generating solution
+localhost: 95
+localhost: 98
+localhost: 93
+localhost: 102
+192.168.0.22: 98
+192.168.0.22: 101
+Submitting solution
+Your solution succeeded with 93 squares, for a score of 93, with a time penalty of 0.
+Puzzle #36
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 26 width x 34 height and ID=8c4d7958311f45738f3cd971a5093a74-14323185123396755
+Generating solution
+localhost: 146
+localhost: 148
+localhost: 158
+localhost: 153
+192.168.0.22: 157
+192.168.0.22: 153
+Submitting solution
+Your solution succeeded with 146 squares, for a score of 146, with a time penalty of 0.
+Puzzle #37
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 35 width x 26 height and ID=28cf3775eacc47c3bff1a72b841e3e2d-14323185234021920
+Generating solution
+localhost: 149
+localhost: 156
+localhost: 165
+localhost: 148
+192.168.0.22: 164
+192.168.0.22: 142
+Submitting solution
+Your solution succeeded with 142 squares, for a score of 142, with a time penalty of 0.
+Puzzle #38
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 35 width x 36 height and ID=fe97947ad93545cc84006b393ee4ecc0-14323185344491133
+Generating solution
+localhost: 178
+localhost: 172
+localhost: 173
+localhost: 178
+192.168.0.22: 180
+192.168.0.22: 180
+Submitting solution
+Your solution succeeded with 172 squares, for a score of 172, with a time penalty of 0.
+Puzzle #39
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 27 width x 23 height and ID=993bb0c2196a44f4a0252f8ac58ecc56-14323185454802998
+Generating solution
+localhost: 66
+localhost: 64
+localhost: 64
+localhost: 60
+192.168.0.22: 64
+192.168.0.22: 67
+Submitting solution
+Your solution succeeded with 60 squares, for a score of 60, with a time penalty of 0.
+Puzzle #40
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 21 width x 22 height and ID=c4f67bc8e66446f88f04f986b0b243a1-14323185565584396
+Generating solution
+localhost: 71
+localhost: 68
+localhost: 65
+localhost: 66
+192.168.0.22: 70
+192.168.0.22: 69
+Submitting solution
+Your solution succeeded with 65 squares, for a score of 65, with a time penalty of 0.
+Puzzle #41
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 37 width x 37 height and ID=62f2116f3d394ef4ab40959f8e6b2d14-14323185675897626
+Generating solution
+localhost: 161
+localhost: 166
+localhost: 164
+localhost: 156
+192.168.0.22: 159
+192.168.0.22: 170
+Submitting solution
+Your solution succeeded with 156 squares, for a score of 156, with a time penalty of 0.
+Puzzle #42
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 30 width x 36 height and ID=d9adc0751b204ff3bd72f42343dd3f0e-14323185785115618
+Generating solution
+localhost: 136
+localhost: 118
+localhost: 133
+localhost: 135
+192.168.0.22: 138
+192.168.0.22: 141
+Submitting solution
+Your solution succeeded with 118 squares, for a score of 118, with a time penalty of 0.
+Puzzle #43
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 28 width x 23 height and ID=4bbf8580d814468ea680e6ed56df06a9-14323185895115633
+Generating solution
+localhost: 124
+localhost: 135
+localhost: 127
+localhost: 136
+192.168.0.22: 125
+192.168.0.22: 125
+Submitting solution
+Your solution succeeded with 124 squares, for a score of 124, with a time penalty of 0.
+Puzzle #44
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 20 width x 22 height and ID=45192bcbb14043b697662ae60f6f78ce-14323186004959783
+Generating solution
+localhost: 56
+localhost: 58
+localhost: 56
+localhost: 55
+192.168.0.22: 53
+192.168.0.22: 53
+Submitting solution
+Your solution succeeded with 53 squares, for a score of 53, with a time penalty of 0.
+Puzzle #45
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 21 width x 21 height and ID=a8076970b90d482a8e473a93153d4e79-14323186115741545
+Generating solution
+localhost: 114
+localhost: 116
+localhost: 109
+localhost: 113
+192.168.0.22: 117
+192.168.0.22: 119
+Submitting solution
+Your solution succeeded with 109 squares, for a score of 109, with a time penalty of 0.
+Puzzle #46
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 22 width x 31 height and ID=ddf53ee6c79041828e7c178959cf82b5-14323186225584930
+Generating solution
+localhost: 106
+localhost: 108
+localhost: 107
+localhost: 107
+192.168.0.22: 109
+192.168.0.22: 109
+Submitting solution
+Your solution succeeded with 106 squares, for a score of 106, with a time penalty of 0.
+Puzzle #47
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 35 width x 32 height and ID=c93a0f46e0f1418180c22ec4b694f74e-14323186335897215
+Generating solution
+localhost: 176
+localhost: 183
+localhost: 176
+localhost: 187
+192.168.0.22: 182
+192.168.0.22: 180
+Submitting solution
+Your solution succeeded with 176 squares, for a score of 176, with a time penalty of 0.
+Puzzle #48
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 31 width x 21 height and ID=78e550df3add47038796a8f7555033f2-14323186445272487
+Generating solution
+localhost: 120
+localhost: 115
+localhost: 115
+localhost: 116
+192.168.0.22: 111
+192.168.0.22: 117
+Submitting solution
+Your solution succeeded with 111 squares, for a score of 111, with a time penalty of 0.
+Puzzle #49
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 20 width x 21 height and ID=5886a92d5a0a4500b0e4615161fceac3-14323186555740941
+Generating solution
+localhost: 70
+localhost: 62
+localhost: 70
+localhost: 69
+192.168.0.22: 70
+192.168.0.22: 69
+Submitting solution
+Your solution succeeded with 62 squares, for a score of 62, with a time penalty of 0.
+
+You retrieved a puzzle with 34 width x 23 height and ID=b5516f9c30d742d39f9d3e3225d98015-14323216952475254
+Generating solution
+localhost: 118
+localhost: 122
+localhost: 118
+localhost: 122
+192.168.0.22: 131
+192.168.0.22: 128
+Submitting solution
+Your solution succeeded with 118 squares, for a score of 118, with a time penalty of 0.
+Puzzle #259
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 39 width x 25 height and ID=d96b6be45078487d83357d76a705ae5d-14323217060287870
+Generating solution
+localhost: 74
+localhost: 74
+localhost: 75
+localhost: 71
+192.168.0.22: 74
+192.168.0.22: 77
+Submitting solution
+Your solution succeeded with 71 squares, for a score of 71, with a time penalty of 0.
+Puzzle #260
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 20 width x 33 height and ID=37e1eb5a933a4f8b8923d0bd20192a30-14323217168100491
+Generating solution
+localhost: 72
+localhost: 64
+localhost: 64
+localhost: 64
+192.168.0.22: 66
+192.168.0.22: 64
+Submitting solution
+Your solution succeeded with 64 squares, for a score of 64, with a time penalty of 0.
+Puzzle #261
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 29 width x 22 height and ID=87d836bc93dc4686921802466da96bbc-14323217276069403
+Generating solution
+localhost: 83
+localhost: 73
+localhost: 75
+localhost: 79
+192.168.0.22: 77
+192.168.0.22: 73
+Submitting solution
+Your solution succeeded with 73 squares, for a score of 73, with a time penalty of 0.
+Puzzle #262
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 21 width x 37 height and ID=a40cb7c2bdfd4b6284d57b497fa7c334-14323217384507227
+Generating solution
+localhost: 61
+localhost: 62
+localhost: 61
+localhost: 61
+192.168.0.22: 70
+192.168.0.22: 61
+Submitting solution
+Your solution succeeded with 61 squares, for a score of 61, with a time penalty of 0.
+Puzzle #263
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 29 width x 31 height and ID=dbac9cc4627e491da57debd121f349ee-14323217493569313
+Generating solution
+localhost: 162
+localhost: 158
+localhost: 157
+localhost: 152
+192.168.0.22: 148
+192.168.0.22: 149
+Submitting solution
+Your solution succeeded with 148 squares, for a score of 148, with a time penalty of 0.
+Puzzle #264
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 28 width x 37 height and ID=d2c2627fc327423591d095f64ba7c002-14323217601538120
+Generating solution
+localhost: 189
+localhost: 180
+localhost: 186
+localhost: 181
+192.168.0.22: 182
+192.168.0.22: 187
+Submitting solution
+Your solution succeeded with 180 squares, for a score of 180, with a time penalty of 0.
+Puzzle #265
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 23 width x 30 height and ID=558100398123454ca4b8764981da3018-14323217710131948
+Generating solution
+localhost: 143
+localhost: 141
+localhost: 143
+localhost: 128
+192.168.0.22: 145
+192.168.0.22: 151
+Submitting solution
+Your solution succeeded with 128 squares, for a score of 128, with a time penalty of 0.
+Puzzle #266
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 23 width x 38 height and ID=b5db2eb1249b491e8f8cba343c31b315-14323217818257355
+Generating solution
+localhost: 69
+localhost: 71
+localhost: 70
+localhost: 71
+192.168.0.22: 69
+192.168.0.22: 72
+Submitting solution
+Your solution succeeded with 69 squares, for a score of 69, with a time penalty of 0.
+Puzzle #267
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 39 width x 35 height and ID=05b666f2635a4d93bead9a4d5dc3b8f4-14323217926538419
+Generating solution
+localhost: 144
+localhost: 130
+localhost: 130
+localhost: 129
+192.168.0.22: 146
+192.168.0.22: 128
+Submitting solution
+Your solution succeeded with 128 squares, for a score of 128, with a time penalty of 0.
+Puzzle #268
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 24 width x 24 height and ID=37f4cc3f786449db9f6621112f4663be-14323218034819667
+Generating solution
+localhost: 121
+localhost: 122
+localhost: 120
+localhost: 122
+192.168.0.22: 123
+192.168.0.22: 125
+Submitting solution
+Your solution succeeded with 120 squares, for a score of 120, with a time penalty of 0.
+Puzzle #269
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 25 width x 33 height and ID=4c160168b2b64d28b55c23d8624a3c4e-14323218143100978
+Generating solution
+localhost: 144
+localhost: 142
+localhost: 141
+localhost: 141
+192.168.0.22: 143
+192.168.0.22: 142
+Submitting solution
+Your solution succeeded with 141 squares, for a score of 141, with a time penalty of 0.
+Puzzle #270
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 39 width x 31 height and ID=e6c59b4b6da3430e96603a465c1d38b7-14323218250757554
+Generating solution
+localhost: 108
+localhost: 109
+localhost: 106
+localhost: 110
+192.168.0.22: 108
+192.168.0.22: 112
+Submitting solution
+Your solution succeeded with 106 squares, for a score of 106, with a time penalty of 0.
+Puzzle #271
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 28 width x 28 height and ID=594fe2a4fe0e490cb54635993d44e2e2-14323218358882650
+Generating solution
+localhost: 130
+localhost: 124
+localhost: 132
+localhost: 127
+192.168.0.22: 143
+192.168.0.22: 141
+Submitting solution
+Your solution succeeded with 124 squares, for a score of 124, with a time penalty of 0.
+Puzzle #272
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 21 width x 29 height and ID=0a11be4037ef4ff6b21f4d8c9ca6ac00-14323218465757412
+Generating solution
+localhost: 67
+localhost: 66
+localhost: 67
+localhost: 73
+192.168.0.22: 71
+192.168.0.22: 73
+Submitting solution
+Your solution succeeded with 66 squares, for a score of 66, with a time penalty of 0.
+Puzzle #273
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 29 width x 21 height and ID=9d613572553647a38139a5dd6c820e63-14323218573726096
+Generating solution
+localhost: 92
+localhost: 84
+localhost: 100
+localhost: 99
+192.168.0.22: 101
+192.168.0.22: 97
+Submitting solution
+Your solution succeeded with 84 squares, for a score of 84, with a time penalty of 0.
+Puzzle #274
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 26 width x 20 height and ID=ef3d9799aba841248ea24a42c002aca2-14323218681382411
+Generating solution
+localhost: 106
+localhost: 104
+localhost: 107
+localhost: 106
+192.168.0.22: 100
+192.168.0.22: 108
+Submitting solution
+Your solution succeeded with 100 squares, for a score of 100, with a time penalty of 0.
+Puzzle #275
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 31 width x 37 height and ID=5acc5fc8e408454daa7de82205c9c037-14323218789820265
+Generating solution
+localhost: 106
+localhost: 112
+localhost: 118
+localhost: 108
+192.168.0.22: 106
+192.168.0.22: 111
+Submitting solution
+Your solution succeeded with 106 squares, for a score of 106, with a time penalty of 0.
+Puzzle #276
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 21 width x 26 height and ID=911d676fff6c41229954f0b83f216475-14323218898101516
+Generating solution
+localhost: 107
+localhost: 106
+localhost: 109
+localhost: 102
+192.168.0.22: 110
+192.168.0.22: 102
+Submitting solution
+Your solution succeeded with 102 squares, for a score of 102, with a time penalty of 0.
+Puzzle #277
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 22 width x 28 height and ID=0ee7f6d3a0464f3db4441475931cf562-14323219005757712
+Generating solution
+localhost: 104
+localhost: 105
+localhost: 100
+localhost: 102
+192.168.0.22: 105
+192.168.0.22: 106
+Submitting solution
+Your solution succeeded with 100 squares, for a score of 100, with a time penalty of 0.
+Puzzle #278
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 35 width x 39 height and ID=36f952378a03468d92a6275e872d26f2-14323219113570255
+Generating solution
+localhost: 135
+localhost: 126
+localhost: 132
+localhost: 124
+192.168.0.22: 132
+192.168.0.22: 138
+Submitting solution
+Your solution succeeded with 124 squares, for a score of 124, with a time penalty of 0.
+Puzzle #279
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 22 width x 30 height and ID=75e6fba5900943caa586267eee6b3268-14323219222164365
+Generating solution
+localhost: 80
+localhost: 73
+localhost: 73
+localhost: 77
+192.168.0.22: 80
+192.168.0.22: 80
+Submitting solution
+Your solution succeeded with 73 squares, for a score of 73, with a time penalty of 0.
+Puzzle #280
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 23 width x 38 height and ID=588bc35995bf4f08a1d3756b8615feb8-14323219329976503
+Generating solution
+localhost: 76
+localhost: 72
+localhost: 72
+localhost: 71
+192.168.0.22: 72
+192.168.0.22: 72
+Submitting solution
+Your solution succeeded with 71 squares, for a score of 71, with a time penalty of 0.
+Puzzle #281
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 20 width x 32 height and ID=998c7e1d5c8a43a5ad1ce7f9dad74e20-14323219438570718
+Generating solution
+localhost: 129
+localhost: 127
+localhost: 122
+localhost: 129
+192.168.0.22: 131
+192.168.0.22: 127
+Submitting solution
+Your solution succeeded with 122 squares, for a score of 122, with a time penalty of 0.
+Puzzle #282
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 32 width x 31 height and ID=094901248be7417dac7f871110de24f0-14323219547163564
+Generating solution
+localhost: 148
+localhost: 142
+localhost: 143
+localhost: 136
+192.168.0.22: 154
+192.168.0.22: 147
+Submitting solution
+Your solution succeeded with 136 squares, for a score of 136, with a time penalty of 0.
+Puzzle #283
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 22 width x 25 height and ID=bcafad6d7f524a19942ee1a5db4f67fe-14323219655758032
+Generating solution
+localhost: 77
+localhost: 83
+localhost: 72
+localhost: 81
+192.168.0.22: 74
+192.168.0.22: 76
+Submitting solution
+Your solution succeeded with 72 squares, for a score of 72, with a time penalty of 0.
+Puzzle #284
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 36 width x 30 height and ID=1c00f16f6f934400a06f9ddf8b7d2f1b-14323219764039549
+Generating solution
+localhost: 130
+localhost: 137
+localhost: 134
+localhost: 129
+192.168.0.22: 137
+192.168.0.22: 134
+Submitting solution
+Your solution succeeded with 129 squares, for a score of 129, with a time penalty of 0.
+Puzzle #285
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 33 width x 39 height and ID=f0485772702443ebafe61d0e702a1733-14323219872633066
+Generating solution
+localhost: 146
+localhost: 166
+localhost: 144
+localhost: 154
+192.168.0.22: 155
+192.168.0.22: 166
+Submitting solution
+Your solution succeeded with 144 squares, for a score of 144, with a time penalty of 0.
+Puzzle #286
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 33 width x 39 height and ID=1862eb012aa64e719ae868f45349c178-14323219979664425
+Generating solution
+localhost: 89
+localhost: 95
+localhost: 88
+localhost: 89
+192.168.0.22: 93
+192.168.0.22: 94
+Submitting solution
+Your solution succeeded with 88 squares, for a score of 88, with a time penalty of 0.
+Puzzle #287
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 31 width x 34 height and ID=9d1816a260124984a923f79d2e487973-14323220087946204
+Generating solution
+localhost: 174
+localhost: 171
+localhost: 155
+localhost: 166
+192.168.0.22: 172
+192.168.0.22: 170
+Submitting solution
+Your solution succeeded with 155 squares, for a score of 155, with a time penalty of 0.
+Puzzle #288
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 29 width x 32 height and ID=d7cd773ae46949449cf09eb782d97f91-14323220196383176
+Generating solution
+localhost: 156
+localhost: 158
+localhost: 155
+localhost: 155
+192.168.0.22: 155
+192.168.0.22: 149
+Submitting solution
+Your solution succeeded with 149 squares, for a score of 149, with a time penalty of 0.
+Puzzle #289
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 26 width x 20 height and ID=6ca01c8ed04a4bb293781dbdcb3ed71c-14323220304977292
+Generating solution
+localhost: 104
+localhost: 103
+localhost: 110
+localhost: 101
+192.168.0.22: 103
+192.168.0.22: 99
+Submitting solution
+Your solution succeeded with 99 squares, for a score of 99, with a time penalty of 0.
+Puzzle #290
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 25 width x 31 height and ID=b457ab1df0124919b886851edea090b9-14323220413883919
+Generating solution
+localhost: 161
+localhost: 162
+localhost: 167
+localhost: 164
+192.168.0.22: 162
+192.168.0.22: 159
+Submitting solution
+Your solution succeeded with 159 squares, for a score of 159, with a time penalty of 0.
+Puzzle #291
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 22 width x 22 height and ID=18ba1f215dc94453a87596a52cc45b90-14323220522164789
+Generating solution
+localhost: 100
+localhost: 100
+localhost: 89
+localhost: 97
+192.168.0.22: 101
+192.168.0.22: 100
+Submitting solution
+Your solution succeeded with 89 squares, for a score of 89, with a time penalty of 0.
+Puzzle #292
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 20 width x 25 height and ID=7a86547127734c9283c79e1d304e6f72-14323220631227652
+Generating solution
+localhost: 115
+localhost: 113
+localhost: 111
+localhost: 107
+192.168.0.22: 123
+192.168.0.22: 120
+Submitting solution
+Your solution succeeded with 107 squares, for a score of 107, with a time penalty of 0.
+Puzzle #293
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 25 width x 32 height and ID=e637fc7c223d473aba9348a2ba20ab9e-14323220739977688
+Generating solution
+localhost: 154
+localhost: 153
+localhost: 153
+localhost: 155
+192.168.0.22: 158
+192.168.0.22: 154
+Submitting solution
+Your solution succeeded with 153 squares, for a score of 153, with a time penalty of 0.
+Puzzle #294
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 34 width x 26 height and ID=ac5c1f48d13946fb8354c4a7aa7ef1da-14323220848415095
+Generating solution
+localhost: 85
+localhost: 86
+localhost: 85
+localhost: 84
+192.168.0.22: 82
+192.168.0.22: 85
+Submitting solution
+Your solution succeeded with 82 squares, for a score of 82, with a time penalty of 0.
+Puzzle #295
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 30 width x 29 height and ID=4050716e3af74eb59a76c1b396f29db1-14323220955914819
+Generating solution
+localhost: 79
+localhost: 78
+localhost: 81
+localhost: 79
+192.168.0.22: 82
+192.168.0.22: 80
+Submitting solution
+Your solution succeeded with 78 squares, for a score of 78, with a time penalty of 0.
+Puzzle #296
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 27 width x 38 height and ID=a9c6f12f41094df1a802106eb087b3eb-14323221063415515
+Generating solution
+localhost: 140
+localhost: 145
+localhost: 139
+localhost: 146
+192.168.0.22: 142
+192.168.0.22: 150
+Submitting solution
+Your solution succeeded with 139 squares, for a score of 139, with a time penalty of 0.
+Puzzle #297
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 37 width x 26 height and ID=3fa65676418442908b86540fc3dc248b-14323221171852577
+Generating solution
+localhost: 168
+localhost: 172
+localhost: 166
+localhost: 165
+192.168.0.22: 156
+192.168.0.22: 166
+Submitting solution
+Your solution succeeded with 156 squares, for a score of 156, with a time penalty of 0.
+Puzzle #298
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 26 width x 25 height and ID=193f103ec5ee48b6a0bcbbbb06e6ccb6-14323221279977481
+Generating solution
+localhost: 136
+localhost: 143
+localhost: 126
+localhost: 143
+192.168.0.22: 142
+192.168.0.22: 137
+Submitting solution
+Your solution succeeded with 126 squares, for a score of 126, with a time penalty of 0.
+Puzzle #299
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 31 width x 21 height and ID=fbba925631974fc4bc92e26ecea367c7-14323221387789669
+Generating solution
+localhost: 120
+localhost: 116
+localhost: 114
+localhost: 122
+192.168.0.22: 121
+192.168.0.22: 120
+Submitting solution
+Your solution succeeded with 114 squares, for a score of 114, with a time penalty of 0.
+Puzzle #300
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 20 width x 35 height and ID=d6a1c62ebe844086b14e4bcc0887c0d8-14323221496227984
+Generating solution
+localhost: 118
+localhost: 117
+localhost: 117
+localhost: 121
+192.168.0.22: 118
+192.168.0.22: 120
+Submitting solution
+Your solution succeeded with 117 squares, for a score of 117, with a time penalty of 0.
+Puzzle #301
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 39 width x 30 height and ID=a1273c2f266f4d0fb1c748e225f1cde4-14323221604196377
+Generating solution
+localhost: 113
+localhost: 125
+localhost: 114
+localhost: 123
+192.168.0.22: 109
+192.168.0.22: 121
+Submitting solution
+Your solution succeeded with 109 squares, for a score of 109, with a time penalty of 0.
+Puzzle #302
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 37 width x 24 height and ID=be02f93ed431437f9b5c593af8059afd-14323221712477811
+Generating solution
+localhost: 91
+localhost: 92
+localhost: 97
+localhost: 91
+192.168.0.22: 86
+192.168.0.22: 92
+Submitting solution
+Your solution succeeded with 86 squares, for a score of 86, with a time penalty of 0.
+Puzzle #303
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 20 width x 27 height and ID=00ad6f4419a94b39b259fa633fbebab5-14323221820602801
+Generating solution
+localhost: 117
+localhost: 113
+localhost: 111
+localhost: 109
+192.168.0.22: 113
+192.168.0.22: 120
+Submitting solution
+Your solution succeeded with 109 squares, for a score of 109, with a time penalty of 0.
+Puzzle #304
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 24 width x 39 height and ID=3484a3d7828747d689180289b9b492d9-14323221929352829
+Generating solution
+localhost: 73
+localhost: 77
+localhost: 71
+localhost: 69
+192.168.0.22: 81
+192.168.0.22: 75
+Submitting solution
+Your solution succeeded with 69 squares, for a score of 69, with a time penalty of 0.
+Puzzle #305
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 26 width x 31 height and ID=c417ff1f263c4ac8aa91d7cde85a8db1-14323222037946738
+Generating solution
+localhost: 84
+localhost: 85
+localhost: 88
+localhost: 86
+192.168.0.22: 87
+192.168.0.22: 85
+Submitting solution
+Your solution succeeded with 84 squares, for a score of 84, with a time penalty of 0.
+Puzzle #306
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 24 width x 30 height and ID=55347ad595cd4283befd0087a285503f-14323222146540532
+Generating solution
+localhost: 97
+localhost: 95
+localhost: 95
+localhost: 89
+192.168.0.22: 90
+192.168.0.22: 92
+Submitting solution
+Your solution succeeded with 89 squares, for a score of 89, with a time penalty of 0.
+Puzzle #307
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 29 width x 24 height and ID=fc5e2ce776bd471a9a0414949cec24e4-14323222254665497
+Generating solution
+localhost: 111
+localhost: 111
+localhost: 111
+localhost: 111
+192.168.0.22: 114
+192.168.0.22: 118
+Submitting solution
+Your solution succeeded with 111 squares, for a score of 111, with a time penalty of 0.
+Puzzle #308
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 23 width x 30 height and ID=262616041e0b4988a55bc9517d386b39-14323222362634279
+Generating solution
+localhost: 143
+localhost: 141
+localhost: 145
+localhost: 145
+192.168.0.22: 136
+192.168.0.22: 141
+Submitting solution
+Your solution succeeded with 136 squares, for a score of 136, with a time penalty of 0.
+Puzzle #309
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 34 width x 36 height and ID=0f883e22e6a340dd86c613f65b7f74f3-14323222470605039
+Generating solution
+localhost: 144
+localhost: 143
+localhost: 154
+localhost: 140
+192.168.0.22: 155
+192.168.0.22: 151
+Submitting solution
+Your solution succeeded with 140 squares, for a score of 140, with a time penalty of 0.
+Puzzle #310
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 21 width x 39 height and ID=eb12854c27cd46238f923f1ab0a2a2e5-14323222579196969
+Generating solution
+localhost: 145
+localhost: 148
+localhost: 153
+localhost: 155
+192.168.0.22: 151
+192.168.0.22: 157
+Submitting solution
+Your solution succeeded with 145 squares, for a score of 145, with a time penalty of 0.
+Puzzle #311
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 30 width x 39 height and ID=6cdae1e4d3cb4aa09cf03aa024c2c750-14323222686228274
+Generating solution
+localhost: 189
+localhost: 188
+localhost: 178
+localhost: 190
+192.168.0.22: 188
+192.168.0.22: 177
+Submitting solution
+Your solution succeeded with 177 squares, for a score of 177, with a time penalty of 0.
+Puzzle #312
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 23 width x 32 height and ID=a354650a2ad147069cc2ff7c2e4fb099-14323222793415915
+Generating solution
+localhost: 77
+localhost: 80
+localhost: 78
+localhost: 79
+192.168.0.22: 74
+192.168.0.22: 81
+Submitting solution
+Your solution succeeded with 74 squares, for a score of 74, with a time penalty of 0.
+Puzzle #313
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 26 width x 31 height and ID=cf5dd3e36ff94cac85c85ed7aa6afbeb-14323222901228742
+Generating solution
+localhost: 154
+localhost: 167
+localhost: 165
+localhost: 167
+192.168.0.22: 152
+192.168.0.22: 165
+Submitting solution
+Your solution succeeded with 152 squares, for a score of 152, with a time penalty of 0.
+Puzzle #314
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 29 width x 37 height and ID=ecfbfc08e381484f9f48137ce4f730d3-14323223009040950
+Generating solution
+localhost: 109
+localhost: 114
+localhost: 124
+localhost: 117
+192.168.0.22: 105
+192.168.0.22: 120
+Submitting solution
+Your solution succeeded with 105 squares, for a score of 105, with a time penalty of 0.
+Puzzle #315
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 33 width x 27 height and ID=2fd654337a61457bbe55b33845176a1d-14323223117634851
+Generating solution
+localhost: 62
+localhost: 66
+localhost: 73
+localhost: 68
+192.168.0.22: 69
+192.168.0.22: 65
+Submitting solution
+Your solution succeeded with 62 squares, for a score of 62, with a time penalty of 0.
+Puzzle #316
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 37 width x 25 height and ID=c18be782158a4c89b5dced6d89342627-14323223225603587
+Generating solution
+localhost: 117
+localhost: 118
+localhost: 123
+localhost: 125
+192.168.0.22: 133
+192.168.0.22: 126
+Submitting solution
+Your solution succeeded with 117 squares, for a score of 117, with a time penalty of 0.
+Puzzle #317
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 28 width x 34 height and ID=2dd4026d9f38488588432936bc73eff4-14323223333416138
+Generating solution
+localhost: 151
+localhost: 144
+localhost: 131
+localhost: 136
+192.168.0.22: 143
+192.168.0.22: 139
+Submitting solution
+Your solution succeeded with 131 squares, for a score of 131, with a time penalty of 0.
+Puzzle #318
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 25 width x 35 height and ID=6a99e25fe0384029b4991198d9c681ce-14323223491854053
+Generating solution
+localhost: 142
+localhost: 147
+localhost: 144
+localhost: 145
+192.168.0.22: 149
+192.168.0.22: 142
+Submitting solution
+Your solution succeeded with 142 squares, for a score of 142, with a time penalty of 0.
+Puzzle #319
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 32 width x 34 height and ID=18a3341d70e641a3b23bc5c08c602941-14323223600291185
+Generating solution
+localhost: 155
+localhost: 159
+localhost: 154
+localhost: 155
+192.168.0.22: 164
+192.168.0.22: 162
+Submitting solution
+Your solution succeeded with 154 squares, for a score of 154, with a time penalty of 0.
+Puzzle #320
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 29 width x 29 height and ID=705dcaefe8ad40abbf91b5449f35c927-14323223708572832
+Generating solution
+localhost: 146
+localhost: 138
+localhost: 142
+localhost: 145
+192.168.0.22: 137
+192.168.0.22: 142
+Submitting solution
+Your solution succeeded with 137 squares, for a score of 137, with a time penalty of 0.
+Puzzle #321
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 26 width x 22 height and ID=5f3e8ec5c79f4ed0a58b4a6043d95381-14323223817166001
+Generating solution
+localhost: 102
+localhost: 95
+localhost: 102
+localhost: 94
+192.168.0.22: 100
+192.168.0.22: 102
+Submitting solution
+Your solution succeeded with 94 squares, for a score of 94, with a time penalty of 0.
+Puzzle #322
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 37 width x 35 height and ID=40642eb61c304531b6728b5503b94615-14323223924822603
+Generating solution
+localhost: 157
+localhost: 157
+localhost: 155
+localhost: 153
+192.168.0.22: 152
+192.168.0.22: 156
+Submitting solution
+Your solution succeeded with 152 squares, for a score of 152, with a time penalty of 0.
+Puzzle #323
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 36 width x 21 height and ID=68f748049c254a2289132feecb9bdc42-14323224035448170
+Generating solution
+localhost: 111
+localhost: 115
+localhost: 109
+localhost: 113
+192.168.0.22: 106
+192.168.0.22: 112
+Submitting solution
+Your solution succeeded with 106 squares, for a score of 109, with a time penalty of 3.
+Puzzle #324
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 21 width x 29 height and ID=3d2532eb67f54612ac24824725d5c1a4-14323224154041610
+Generating solution
+localhost: 126
+localhost: 126
+localhost: 119
+localhost: 122
+192.168.0.22: 113
+192.168.0.22: 117
+Submitting solution
+Your solution succeeded with 113 squares, for a score of 113, with a time penalty of 0.
+Puzzle #325
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 23 width x 28 height and ID=6aadc338dbdb40bca03bb5b1f8cf8e4f-14323224262010250
+Generating solution
+localhost: 123
+localhost: 129
+localhost: 127
+localhost: 119
+192.168.0.22: 119
+192.168.0.22: 125
+Submitting solution
+Your solution succeeded with 119 squares, for a score of 119, with a time penalty of 0.
+Puzzle #326
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 34 width x 24 height and ID=b796263cba6e48b6819eeb8e08d870e0-14323224370135310
+Generating solution
+localhost: 139
+localhost: 135
+localhost: 138
+localhost: 126
+192.168.0.22: 145
+192.168.0.22: 130
+Submitting solution
+Your solution succeeded with 126 squares, for a score of 126, with a time penalty of 0.
+Puzzle #327
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 23 width x 34 height and ID=93e772cb2a0e46eca79c7c2841c34f12-14323224478416728
+Generating solution
+localhost: 85
+localhost: 88
+localhost: 89
+localhost: 79
+192.168.0.22: 85
+192.168.0.22: 85
+Submitting solution
+Your solution succeeded with 79 squares, for a score of 79, with a time penalty of 0.
+Puzzle #328
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 25 width x 26 height and ID=0e7306054cb443969995b6c117bdd36f-14323224586854263
+Generating solution
+localhost: 91
+localhost: 98
+localhost: 85
+localhost: 87
+192.168.0.22: 94
+192.168.0.22: 92
+Submitting solution
+Your solution succeeded with 85 squares, for a score of 85, with a time penalty of 0.
+Puzzle #329
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 33 width x 20 height and ID=77d56e6b8e8d4d009cc5962911df6f80-14323224696385633
+Generating solution
+localhost: 131
+localhost: 115
+localhost: 122
+localhost: 129
+192.168.0.22: 127
+192.168.0.22: 119
+Submitting solution
+Your solution succeeded with 115 squares, for a score of 115, with a time penalty of 0.
+Puzzle #330
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 32 width x 29 height and ID=db16e442b11e4bce9e962f6df00b2c63-14323224812010582
+Generating solution
+localhost: 177
+localhost: 158
+localhost: 175
+localhost: 163
+192.168.0.22: 171
+192.168.0.22: 172
+Submitting solution
+Your solution succeeded with 158 squares, for a score of 161, with a time penalty of 3.
+Puzzle #331
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 26 width x 34 height and ID=d5859a59b2a44a84a81a1c36cae354b4-14323224950760590
+Generating solution
+localhost: 136
+localhost: 133
+localhost: 141
+localhost: 134
+192.168.0.22: 142
+192.168.0.22: 139
+Submitting solution
+Your solution succeeded with 133 squares, for a score of 139, with a time penalty of 6.
+Puzzle #332
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 23 width x 23 height and ID=a8a280ccf97c423dbcc31f36bc2e4c1c-14323225096542202
+Generating solution
+localhost: 110
+localhost: 113
+localhost: 111
+localhost: 117
+192.168.0.22: 108
+192.168.0.22: 111
+Submitting solution
+Your solution succeeded with 108 squares, for a score of 111, with a time penalty of 3.
+Puzzle #333
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 37 width x 34 height and ID=41007abfb95e4d4391812c0ab19a204e-14323225215917057
+Generating solution
+localhost: 161
+localhost: 158
+localhost: 151
+localhost: 155
+192.168.0.22: 155
+192.168.0.22: 152
+Submitting solution
+Your solution succeeded with 151 squares, for a score of 151, with a time penalty of 0.
+Puzzle #334
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 36 width x 27 height and ID=a9bc6932ece445b187b779d1a55c819d-14323225324510871
+Generating solution
+localhost: 89
+localhost: 90
+localhost: 97
+localhost: 89
+192.168.0.22: 101
+192.168.0.22: 88
+Submitting solution
+Your solution succeeded with 88 squares, for a score of 88, with a time penalty of 0.
+Puzzle #335
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 36 width x 33 height and ID=23c4cbc226be4052b9163472ef7f6d49-14323225432792092
+Generating solution
+localhost: 96
+localhost: 88
+localhost: 100
+localhost: 91
+192.168.0.22: 91
+192.168.0.22: 95
+Submitting solution
+Your solution succeeded with 88 squares, for a score of 88, with a time penalty of 0.
+Puzzle #336
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 38 width x 38 height and ID=7df75cebd4cc45b0be3308b071065d66-14323225540760929
+Generating solution
+localhost: 137
+localhost: 134
+localhost: 143
+localhost: 135
+192.168.0.22: 142
+192.168.0.22: 142
+Submitting solution
+Your solution succeeded with 134 squares, for a score of 134, with a time penalty of 0.
+Puzzle #337
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 22 width x 23 height and ID=714040046366477a88895f81c85f8480-14323225647636366
+Generating solution
+localhost: 84
+localhost: 85
+localhost: 83
+localhost: 81
+192.168.0.22: 81
+192.168.0.22: 84
+Submitting solution
+Your solution succeeded with 81 squares, for a score of 81, with a time penalty of 0.
+Puzzle #338
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 37 width x 31 height and ID=8712fbcdebbd4de5adabcd0f0e012e56-14323225756542600
+Generating solution
+localhost: 163
+localhost: 178
+localhost: 168
+localhost: 164
+192.168.0.22: 163
+192.168.0.22: 166
+Submitting solution
+Your solution succeeded with 163 squares, for a score of 163, with a time penalty of 0.
+Puzzle #339
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 22 width x 34 height and ID=d4a42d0f6ef1415993ab0138964cefab-14323225864354832
+Generating solution
+localhost: 133
+localhost: 125
+localhost: 123
+localhost: 119
+192.168.0.22: 123
+192.168.0.22: 119
+Submitting solution
+Your solution succeeded with 119 squares, for a score of 122, with a time penalty of 3.
+Puzzle #340
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 32 width x 24 height and ID=27255eb9fc3c48eabaca95ea6a366d51-14323225978730740
+Generating solution
+localhost: 96
+localhost: 102
+localhost: 102
+localhost: 94
+192.168.0.22: 98
+192.168.0.22: 103
+Submitting solution
+Your solution succeeded with 94 squares, for a score of 94, with a time penalty of 0.
+Puzzle #341
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 39 width x 29 height and ID=07f02a928fff4233879a8d1f67574670-14323226087011096
+Generating solution
+localhost: 186
+localhost: 189
+localhost: 180
+localhost: 183
+192.168.0.22: 187
+192.168.0.22: 182
+Submitting solution
+Your solution succeeded with 180 squares, for a score of 180, with a time penalty of 0.
+Puzzle #342
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 39 width x 31 height and ID=ff1a9616b1e24d9a96436e67e4025889-14323226195292519
+Generating solution
+localhost: 118
+localhost: 118
+localhost: 112
+localhost: 122
+192.168.0.22: 116
+192.168.0.22: 117
+Submitting solution
+Your solution succeeded with 112 squares, for a score of 112, with a time penalty of 0.
+Puzzle #343
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 31 width x 37 height and ID=a3328f49a4be420aa146b57fd82c4973-14323226302480340
+Generating solution
+localhost: 187
+localhost: 181
+localhost: 186
+localhost: 188
+192.168.0.22: 193
+192.168.0.22: 181
+Submitting solution
+Your solution succeeded with 181 squares, for a score of 181, with a time penalty of 0.
+Puzzle #344
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 26 width x 21 height and ID=6663180551c14173b3de4bb4aa85a81a-14323226410448929
+Generating solution
+localhost: 119
+localhost: 117
+localhost: 123
+localhost: 114
+192.168.0.22: 115
+192.168.0.22: 111
+Submitting solution
+Your solution succeeded with 111 squares, for a score of 111, with a time penalty of 0.
+Puzzle #345
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 28 width x 26 height and ID=750e80ef69ec4d1bb2c0bdf95e9aae8b-14323226518261135
+Generating solution
+localhost: 77
+localhost: 79
+localhost: 81
+localhost: 78
+192.168.0.22: 77
+192.168.0.22: 75
+Submitting solution
+Your solution succeeded with 75 squares, for a score of 75, with a time penalty of 0.
+Puzzle #346
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 34 width x 35 height and ID=e327230cc7154b7bb3a9354d84b79098-14323226626230757
+Generating solution
+localhost: 93
+localhost: 97
+localhost: 101
+localhost: 98
+192.168.0.22: 100
+192.168.0.22: 88
+Submitting solution
+Your solution succeeded with 88 squares, for a score of 88, with a time penalty of 0.
+Puzzle #347
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 30 width x 26 height and ID=02fa6afa59384b5aad9336df6d0888c2-14323226735605667
+Generating solution
+localhost: 122
+localhost: 144
+localhost: 142
+localhost: 144
+192.168.0.22: 133
+192.168.0.22: 137
+Submitting solution
+Your solution succeeded with 122 squares, for a score of 122, with a time penalty of 0.
+Puzzle #348
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 36 width x 39 height and ID=f6a2a0d970e046209b427986397a3dca-14323226847167938
+Generating solution
+localhost: 155
+localhost: 154
+localhost: 157
+localhost: 159
+192.168.0.22: 161
+192.168.0.22: 164
+Submitting solution
+Your solution succeeded with 154 squares, for a score of 154, with a time penalty of 0.
+Puzzle #349
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 33 width x 33 height and ID=e9c14245a8e441cc9e68f13af8beed55-14323226955605660
+Generating solution
+localhost: 199
+localhost: 189
+localhost: 198
+localhost: 183
+192.168.0.22: 194
+192.168.0.22: 185
+Submitting solution
+Your solution succeeded with 183 squares, for a score of 183, with a time penalty of 0.
+Puzzle #350
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 23 width x 26 height and ID=a257b04599e04375b024b423b35af309-14323227063886793
+Generating solution
+localhost: 100
+localhost: 103
+localhost: 100
+localhost: 107
+192.168.0.22: 107
+192.168.0.22: 108
+Submitting solution
+Your solution succeeded with 100 squares, for a score of 100, with a time penalty of 0.
+Puzzle #351
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 35 width x 27 height and ID=2cee1d11212544af825eddec95607bc9-14323227172480592
+Generating solution
+localhost: 92
+localhost: 88
+localhost: 94
+localhost: 93
+192.168.0.22: 91
+192.168.0.22: 89
+Submitting solution
+Your solution succeeded with 88 squares, for a score of 88, with a time penalty of 0.
+Puzzle #352
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 38 width x 27 height and ID=5bf577b5de88448a95bfa25872ba2be6-14323227281230529
+Generating solution
+localhost: 169
+localhost: 164
+localhost: 166
+localhost: 164
+192.168.0.22: 158
+192.168.0.22: 165
+Submitting solution
+Your solution succeeded with 158 squares, for a score of 158, with a time penalty of 0.
+Puzzle #353
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 31 width x 28 height and ID=bd9c5ab7abe64b9aaadbe2a59998e067-14323227389199619
+Generating solution
+localhost: 153
+localhost: 158
+localhost: 159
+localhost: 151
+192.168.0.22: 156
+192.168.0.22: 148
+Submitting solution
+Your solution succeeded with 148 squares, for a score of 148, with a time penalty of 0.
+Puzzle #354
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 27 width x 33 height and ID=bba652b28f1342238f6588daa287e4c5-14323227497012210
+Generating solution
+localhost: 139
+localhost: 140
+localhost: 144
+localhost: 136
+192.168.0.22: 139
+192.168.0.22: 146
+Submitting solution
+Your solution succeeded with 136 squares, for a score of 136, with a time penalty of 0.
+Puzzle #355
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 23 width x 34 height and ID=53b6bb2752c84682aa30ecbf76a0864c-14323227605762037
+Generating solution
+localhost: 115
+localhost: 118
+localhost: 117
+localhost: 109
+192.168.0.22: 116
+192.168.0.22: 121
+Submitting solution
+Your solution succeeded with 109 squares, for a score of 109, with a time penalty of 0.
+Puzzle #356
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 37 width x 27 height and ID=36fdcd2feb094cd59ab5d22dc13356f1-14323227713887117
+Generating solution
+localhost: 89
+localhost: 90
+localhost: 91
+localhost: 82
+192.168.0.22: 97
+192.168.0.22: 90
+Submitting solution
+Your solution succeeded with 82 squares, for a score of 82, with a time penalty of 0.
+Puzzle #357
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 36 width x 34 height and ID=6440d1274bc24379a567186b09a569fd-14323227821230878
+Generating solution
+localhost: 126
+localhost: 137
+localhost: 130
+localhost: 133
+192.168.0.22: 132
+192.168.0.22: 128
+Submitting solution
+Your solution succeeded with 126 squares, for a score of 126, with a time penalty of 0.
+Puzzle #358
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 35 width x 31 height and ID=f05089296562401aa30cea43e60ac7bc-14323227929512317
+Generating solution
+localhost: 156
+localhost: 159
+localhost: 159
+localhost: 158
+192.168.0.22: 156
+192.168.0.22: 151
+Submitting solution
+Your solution succeeded with 151 squares, for a score of 151, with a time penalty of 0.
+Puzzle #359
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 21 width x 25 height and ID=b5e0f7c0d75341ce9aaf09ae057dbf3c-14323228037325033
+Generating solution
+localhost: 54
+localhost: 53
+localhost: 54
+localhost: 53
+192.168.0.22: 53
+192.168.0.22: 53
+Submitting solution
+Your solution succeeded with 53 squares, for a score of 53, with a time penalty of 0.
+Puzzle #360
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 24 width x 38 height and ID=4586d05ab1954afc80a28dfa18e425fa-14323228145918539
+Generating solution
+localhost: 91
+localhost: 94
+localhost: 97
+localhost: 98
+192.168.0.22: 99
+192.168.0.22: 93
+Submitting solution
+Your solution succeeded with 91 squares, for a score of 94, with a time penalty of 3.
+Puzzle #361
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 26 width x 21 height and ID=5156f32a49ce4edcafddaaedf660bea0-14323228261700354
+Generating solution
+localhost: 63
+localhost: 67
+localhost: 56
+localhost: 67
+192.168.0.22: 66
+192.168.0.22: 62
+Submitting solution
+Your solution succeeded with 56 squares, for a score of 56, with a time penalty of 0.
+Puzzle #362
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 38 width x 24 height and ID=c6c900f07e5345438d209562f37b3106-14323228369513038
+Generating solution
+localhost: 81
+localhost: 82
+localhost: 85
+localhost: 91
+192.168.0.22: 83
+192.168.0.22: 88
+Submitting solution
+Your solution succeeded with 81 squares, for a score of 81, with a time penalty of 0.
+Puzzle #363
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 39 width x 20 height and ID=6fe7e169b11e400f9aaf57a51781f0e8-14323228477324895
+Generating solution
+localhost: 152
+localhost: 159
+localhost: 151
+localhost: 156
+192.168.0.22: 151
+192.168.0.22: 157
+Submitting solution
+Your solution succeeded with 151 squares, for a score of 151, with a time penalty of 0.
+Puzzle #364
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 36 width x 24 height and ID=21d683fb8fdb4163a4cd0fc5d9b1e580-14323228584825171
+Generating solution
+localhost: 104
+localhost: 108
+localhost: 106
+localhost: 110
+192.168.0.22: 110
+192.168.0.22: 109
+Submitting solution
+Your solution succeeded with 104 squares, for a score of 104, with a time penalty of 0.
+Puzzle #365
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 33 width x 30 height and ID=c32adecf6adf44de8596a252710ccdf7-14323228692637648
+Generating solution
+localhost: 89
+localhost: 91
+localhost: 90
+localhost: 88
+192.168.0.22: 92
+192.168.0.22: 93
+Submitting solution
+Your solution succeeded with 88 squares, for a score of 88, with a time penalty of 0.
+Puzzle #366
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 23 width x 38 height and ID=d7b709fe2b1e498e89559d854ea4c0ac-14323228801075246
+Generating solution
+localhost: 104
+localhost: 103
+localhost: 110
+localhost: 101
+192.168.0.22: 107
+192.168.0.22: 109
+Submitting solution
+Your solution succeeded with 101 squares, for a score of 101, with a time penalty of 0.
+Puzzle #367
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 25 width x 31 height and ID=c75662a0f00f458ca0ff78eed86b5158-14323228909202209
+Generating solution
+localhost: 86
+localhost: 85
+localhost: 86
+localhost: 87
+192.168.0.22: 85
+192.168.0.22: 89
+Submitting solution
+Your solution succeeded with 85 squares, for a score of 85, with a time penalty of 0.
+Puzzle #368
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 29 width x 34 height and ID=ed03a8cf74cf48a7876d39cc7f0de441-14323229016543999
+Generating solution
+localhost: 129
+localhost: 123
+localhost: 125
+localhost: 134
+192.168.0.22: 121
+192.168.0.22: 129
+Submitting solution
+Your solution succeeded with 121 squares, for a score of 121, with a time penalty of 0.
+Puzzle #369
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 32 width x 30 height and ID=c87e28c96c464ae2b5d8de89fac52581-14323229124825332
+Generating solution
+localhost: 153
+localhost: 165
+localhost: 162
+localhost: 164
+192.168.0.22: 160
+192.168.0.22: 150
+Submitting solution
+Your solution succeeded with 150 squares, for a score of 153, with a time penalty of 3.
+Puzzle #370
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 24 width x 34 height and ID=33da563cbbe040e89a76354c58722f1a-14323229243262958
+Generating solution
+localhost: 91
+localhost: 92
+localhost: 90
+localhost: 94
+192.168.0.22: 84
+192.168.0.22: 85
+Submitting solution
+Your solution succeeded with 84 squares, for a score of 84, with a time penalty of 0.
+Puzzle #371
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 36 width x 36 height and ID=38f9ec858421432c84709557e5336abe-14323229350919133
+Generating solution
+localhost: 152
+localhost: 165
+localhost: 143
+localhost: 158
+192.168.0.22: 165
+192.168.0.22: 165
+Submitting solution
+Your solution succeeded with 143 squares, for a score of 143, with a time penalty of 0.
+Puzzle #372
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 24 width x 25 height and ID=ff4148173b79472d9f2c1da3b06647a2-14323229457950882
+Generating solution
+localhost: 63
+localhost: 62
+localhost: 68
+localhost: 63
+192.168.0.22: 64
+192.168.0.22: 59
+Submitting solution
+Your solution succeeded with 59 squares, for a score of 59, with a time penalty of 0.
+Puzzle #373
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 35 width x 32 height and ID=1e474df64da44471b206d057d172904e-14323229566700495
+Generating solution
+localhost: 148
+localhost: 155
+localhost: 143
+localhost: 155
+192.168.0.22: 151
+192.168.0.22: 142
+Submitting solution
+Your solution succeeded with 142 squares, for a score of 142, with a time penalty of 0.
+Puzzle #374
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 39 width x 33 height and ID=3154597be51047ee9b9c2f10c58dd3fd-14323229674513021
+Generating solution
+localhost: 132
+localhost: 119
+localhost: 124
+localhost: 124
+192.168.0.22: 134
+192.168.0.22: 128
+Submitting solution
+Your solution succeeded with 119 squares, for a score of 119, with a time penalty of 0.
+Puzzle #375
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 30 width x 31 height and ID=5a1fe0bcb3944bc49030ef5b3932a7fb-14323229781858761
+Generating solution
+localhost: 158
+localhost: 158
+localhost: 155
+localhost: 154
+192.168.0.22: 169
+192.168.0.22: 155
+Submitting solution
+Your solution succeeded with 154 squares, for a score of 154, with a time penalty of 0.
+Puzzle #376
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 31 width x 22 height and ID=36a276b7f0d74c9fba1b13fa8d34f260-14323229889513166
+Generating solution
+localhost: 67
+localhost: 67
+localhost: 63
+localhost: 66
+192.168.0.22: 67
+192.168.0.22: 68
+Submitting solution
+Your solution succeeded with 63 squares, for a score of 66, with a time penalty of 3.
+Puzzle #377
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 37 width x 34 height and ID=d0e23e3061e0492181bba02ccf091d40-14323230005295102
+Generating solution
+localhost: 138
+localhost: 130
+localhost: 135
+localhost: 133
+192.168.0.22: 133
+192.168.0.22: 140
+Submitting solution
+Your solution succeeded with 130 squares, for a score of 130, with a time penalty of 0.
+Puzzle #378
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 35 width x 34 height and ID=763195dd5cc4473286a4bbbe9773680a-14323230112326093
+Generating solution
+localhost: 57
+localhost: 61
+localhost: 63
+localhost: 78
+192.168.0.22: 71
+192.168.0.22: 49
+Submitting solution
+Your solution succeeded with 49 squares, for a score of 49, with a time penalty of 0.
+Puzzle #379
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 30 width x 20 height and ID=d7a9ac982bdc4cf4813382708ae7935d-14323230219825855
+Generating solution
+localhost: 101
+localhost: 104
+localhost: 112
+localhost: 101
+192.168.0.22: 111
+192.168.0.22: 110
+Submitting solution
+Your solution succeeded with 101 squares, for a score of 101, with a time penalty of 0.
+Puzzle #380
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 33 width x 34 height and ID=36c871f1d9794c558fd08b3303722aca-14323230327950900
+Generating solution
+localhost: 92
+localhost: 87
+localhost: 88
+localhost: 85
+192.168.0.22: 96
+192.168.0.22: 90
+Submitting solution
+Your solution succeeded with 85 squares, for a score of 85, with a time penalty of 0.
+Puzzle #381
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 24 width x 30 height and ID=5df3dc6344574f0dbf67b71d1f7e5c4d-14323230435920063
+Generating solution
+localhost: 82
+localhost: 79
+localhost: 85
+localhost: 87
+192.168.0.22: 81
+192.168.0.22: 88
+Submitting solution
+Your solution succeeded with 79 squares, for a score of 79, with a time penalty of 0.
+Puzzle #382
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 27 width x 27 height and ID=0bdeffacc8d24bc2a2ce1a4a0b781aa4-14323230543732248
+Generating solution
+localhost: 137
+localhost: 130
+localhost: 137
+localhost: 134
+192.168.0.22: 135
+192.168.0.22: 137
+Submitting solution
+Your solution succeeded with 130 squares, for a score of 130, with a time penalty of 0.
+Puzzle #383
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 39 width x 27 height and ID=d1b46096873d44a0a70b3a8942181f50-14323230651388864
+Generating solution
+localhost: 109
+localhost: 104
+localhost: 106
+localhost: 107
+192.168.0.22: 112
+192.168.0.22: 110
+Submitting solution
+Your solution succeeded with 104 squares, for a score of 104, with a time penalty of 0.
+Puzzle #384
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 27 width x 34 height and ID=00165b56b56548a9ba192484572036fb-14323230759201355
+Generating solution
+localhost: 130
+localhost: 141
+localhost: 138
+localhost: 148
+192.168.0.22: 151
+192.168.0.22: 146
+Submitting solution
+Your solution succeeded with 130 squares, for a score of 130, with a time penalty of 0.
+Puzzle #385
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 33 width x 29 height and ID=cd62a61f6926486586918412cb95e096-14323230867483307
+Generating solution
+localhost: 114
+localhost: 115
+localhost: 109
+localhost: 109
+192.168.0.22: 114
+192.168.0.22: 112
+Submitting solution
+Your solution succeeded with 109 squares, for a score of 109, with a time penalty of 0.
+Puzzle #386
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 29 width x 23 height and ID=dfa7e84c4bf24fd5bbaf7a3c653ca869-14323230976232538
+Generating solution
+localhost: 136
+localhost: 133
+localhost: 133
+localhost: 143
+192.168.0.22: 132
+192.168.0.22: 125
+Submitting solution
+Your solution succeeded with 125 squares, for a score of 125, with a time penalty of 0.
+Puzzle #387
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 27 width x 28 height and ID=8e0bbe61b2f24114966ecf81e0dea85c-14323231084358074
+Generating solution
+localhost: 152
+localhost: 154
+localhost: 148
+localhost: 152
+192.168.0.22: 151
+192.168.0.22: 150
+Submitting solution
+Your solution succeeded with 148 squares, for a score of 148, with a time penalty of 0.
+Puzzle #388
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 23 width x 23 height and ID=eb9a8449f4df43ce86e3bbe41503623b-14323231193263813
+Generating solution
+localhost: 84
+localhost: 86
+localhost: 83
+localhost: 84
+192.168.0.22: 87
+192.168.0.22: 84
+Submitting solution
+Your solution succeeded with 83 squares, for a score of 83, with a time penalty of 0.
+Puzzle #389
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 24 width x 30 height and ID=da6bca15f67d406aa335ba8923595b24-14323231301701758
+Generating solution
+localhost: 149
+localhost: 148
+localhost: 142
+localhost: 138
+192.168.0.22: 147
+192.168.0.22: 146
+Submitting solution
+Your solution succeeded with 138 squares, for a score of 138, with a time penalty of 0.
+Puzzle #390
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 33 width x 30 height and ID=c33cedff1cf54f388abf13b3573c997f-14323231409826522
+Generating solution
+localhost: 90
+localhost: 88
+localhost: 84
+localhost: 88
+192.168.0.22: 92
+192.168.0.22: 94
+Submitting solution
+Your solution succeeded with 84 squares, for a score of 84, with a time penalty of 0.
+Puzzle #391
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 21 width x 21 height and ID=b750ab56da34461b9ce453c0689ab39b-14323231518264550
+Generating solution
+localhost: 82
+localhost: 83
+localhost: 82
+localhost: 75
+192.168.0.22: 79
+192.168.0.22: 82
+Submitting solution
+Your solution succeeded with 75 squares, for a score of 75, with a time penalty of 0.
+Puzzle #392
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 24 width x 28 height and ID=c922d88dcd654867bab169e2dd0c8726-14323231626702011
+Generating solution
+localhost: 123
+localhost: 120
+localhost: 123
+localhost: 127
+192.168.0.22: 121
+192.168.0.22: 123
+Submitting solution
+Your solution succeeded with 120 squares, for a score of 120, with a time penalty of 0.
+Puzzle #393
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 37 width x 32 height and ID=c439f04e98d945f497aa87f6c2045c89-14323231734515309
+Generating solution
+localhost: 180
+localhost: 171
+localhost: 177
+localhost: 168
+192.168.0.22: 177
+192.168.0.22: 165
+Submitting solution
+Your solution succeeded with 165 squares, for a score of 165, with a time penalty of 0.
+Puzzle #394
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 22 width x 30 height and ID=6ddbc73dc1644a10b429f3db40224bc7-14323231842483216
+Generating solution
+localhost: 106
+localhost: 101
+localhost: 96
+localhost: 104
+192.168.0.22: 100
+192.168.0.22: 104
+Submitting solution
+Your solution succeeded with 96 squares, for a score of 96, with a time penalty of 0.
+Puzzle #395
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 35 width x 31 height and ID=269368abc14b420894c5220f18455ae5-14323231949983056
+Generating solution
+localhost: 144
+localhost: 143
+localhost: 132
+localhost: 151
+192.168.0.22: 147
+192.168.0.22: 147
+Submitting solution
+Your solution succeeded with 132 squares, for a score of 132, with a time penalty of 0.
+Puzzle #396
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 38 width x 35 height and ID=b190dd3910e34f669912b791fdb27bb2-14323232057952092
+Generating solution
+localhost: 144
+localhost: 142
+localhost: 151
+localhost: 157
+192.168.0.22: 162
+192.168.0.22: 155
+Submitting solution
+Your solution succeeded with 142 squares, for a score of 157, with a time penalty of 15.
+Puzzle #397
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 22 width x 35 height and ID=a27b3d716fd5458097e551c47fa854cf-14323232216076874
+Generating solution
+localhost: 67
+localhost: 67
+localhost: 71
+localhost: 71
+192.168.0.22: 74
+192.168.0.22: 63
+Submitting solution
+Your solution succeeded with 63 squares, for a score of 63, with a time penalty of 0.
+Puzzle #398
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 39 width x 38 height and ID=977e6f5fc89241fcba88bf814b773d79-14323232323889498
+Generating solution
+localhost: 125
+localhost: 120
+localhost: 114
+localhost: 121
+192.168.0.22: 128
+192.168.0.22: 117
+Submitting solution
+Your solution succeeded with 114 squares, for a score of 114, with a time penalty of 0.
+Puzzle #399
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 36 width x 36 height and ID=d1079e516e50483c823a3b157008a7bf-14323232432327078
+Generating solution
+localhost: 200
+localhost: 190
+localhost: 199
+localhost: 210
+192.168.0.22: 200
+192.168.0.22: 194
+Submitting solution
+Your solution succeeded with 190 squares, for a score of 190, with a time penalty of 0.
+Puzzle #400
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 35 width x 38 height and ID=91a06a5cab124a219ec460d18691e5c3-14323232540295860
+Generating solution
+localhost: 142
+localhost: 134
+localhost: 149
+localhost: 154
+192.168.0.22: 134
+192.168.0.22: 137
+Submitting solution
+Your solution succeeded with 134 squares, for a score of 134, with a time penalty of 0.
+Puzzle #401
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 24 width x 28 height and ID=728bc9dbe7e94f97a3bb7eb8d3735ad8-14323232647952182
+Generating solution
+localhost: 107
+localhost: 108
+localhost: 112
+localhost: 110
+192.168.0.22: 107
+192.168.0.22: 98
+Submitting solution
+Your solution succeeded with 98 squares, for a score of 98, with a time penalty of 0.
+Puzzle #402
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 22 width x 29 height and ID=ad520aa8da5047828be94f8ea590f788-14323232756389673
+Generating solution
+localhost: 139
+localhost: 142
+localhost: 140
+localhost: 139
+192.168.0.22: 145
+192.168.0.22: 149
+Submitting solution
+Your solution succeeded with 139 squares, for a score of 139, with a time penalty of 0.
+Puzzle #403
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 37 width x 32 height and ID=c2a74bfae45b408797f5a6c86507ee28-14323232865139696
+Generating solution
+localhost: 110
+localhost: 109
+localhost: 110
+localhost: 116
+192.168.0.22: 105
+192.168.0.22: 112
+Submitting solution
+Your solution succeeded with 105 squares, for a score of 105, with a time penalty of 0.
+Puzzle #404
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 28 width x 39 height and ID=76e0283523e349bc9df55e423dadf28e-14323232972484005
+Generating solution
+localhost: 99
+localhost: 104
+localhost: 97
+localhost: 95
+192.168.0.22: 92
+192.168.0.22: 96
+Submitting solution
+Your solution succeeded with 92 squares, for a score of 92, with a time penalty of 0.
+Puzzle #405
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 28 width x 24 height and ID=2785a6fc0ff34246bbf251246fad81a9-14323233081233795
+Generating solution
+localhost: 84
+localhost: 75
+localhost: 67
+localhost: 83
+192.168.0.22: 72
+192.168.0.22: 85
+Submitting solution
+Your solution succeeded with 67 squares, for a score of 67, with a time penalty of 0.
+Puzzle #406
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 29 width x 21 height and ID=207753b45f6b491e8d3cfbcc99c4b643-14323233188889850
+Generating solution
+localhost: 67
+localhost: 66
+localhost: 71
+localhost: 65
+192.168.0.22: 69
+192.168.0.22: 64
+Submitting solution
+Your solution succeeded with 64 squares, for a score of 64, with a time penalty of 0.
+Puzzle #407
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 27 width x 29 height and ID=b9b873b8d85b40cca98d86b437f3efef-14323233296859115
+Generating solution
+localhost: 146
+localhost: 143
+localhost: 141
+localhost: 144
+192.168.0.22: 146
+192.168.0.22: 137
+Submitting solution
+Your solution succeeded with 137 squares, for a score of 137, with a time penalty of 0.
+Puzzle #408
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 29 width x 36 height and ID=dd013732634d457cb49e81f88602b187-14323233404515103
+Generating solution
+localhost: 65
+localhost: 84
+localhost: 85
+localhost: 80
+192.168.0.22: 88
+192.168.0.22: 86
+Submitting solution
+Your solution succeeded with 65 squares, for a score of 65, with a time penalty of 0.
+Puzzle #409
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 31 width x 25 height and ID=039b69dfed2541659938164570748efb-14323233512171280
+Generating solution
+localhost: 69
+localhost: 70
+localhost: 69
+localhost: 72
+192.168.0.22: 69
+192.168.0.22: 68
+Submitting solution
+Your solution succeeded with 68 squares, for a score of 68, with a time penalty of 0.
+Puzzle #410
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 35 width x 34 height and ID=9c66d50a4b4342eca1835958880da311-14323233620296414
+Generating solution
+localhost: 95
+localhost: 91
+localhost: 97
+localhost: 94
+192.168.0.22: 97
+192.168.0.22: 91
+Submitting solution
+Your solution succeeded with 91 squares, for a score of 91, with a time penalty of 0.
+Puzzle #411
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 24 width x 36 height and ID=2b5756659ee046fa866c8b595f614a14-14323233727484016
+Generating solution
+localhost: 139
+localhost: 140
+localhost: 138
+localhost: 142
+192.168.0.22: 134
+192.168.0.22: 140
+Submitting solution
+Your solution succeeded with 134 squares, for a score of 134, with a time penalty of 0.
+Puzzle #412
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 35 width x 23 height and ID=b9321b43422b484e9ab5df4b90011ea0-14323233835765421
+Generating solution
+localhost: 129
+localhost: 124
+localhost: 134
+localhost: 124
+192.168.0.22: 136
+192.168.0.22: 134
+Submitting solution
+Your solution succeeded with 124 squares, for a score of 124, with a time penalty of 0.
+Puzzle #413
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 27 width x 27 height and ID=8993544098604b499ff39165edf3c353-14323233943890658
+Generating solution
+localhost: 110
+localhost: 112
+localhost: 106
+localhost: 110
+192.168.0.22: 111
+192.168.0.22: 107
+Submitting solution
+Your solution succeeded with 106 squares, for a score of 106, with a time penalty of 0.
+Puzzle #414
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 30 width x 20 height and ID=a970658662bb45fa936ce1bec2d8c47f-14323234051859006
+Generating solution
+localhost: 128
+localhost: 122
+localhost: 127
+localhost: 121
+192.168.0.22: 133
+192.168.0.22: 123
+Submitting solution
+Your solution succeeded with 121 squares, for a score of 121, with a time penalty of 0.
+Puzzle #415
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 26 width x 36 height and ID=eb530033617c4a77a960ccf8bf69756a-14323234159827909
+Generating solution
+localhost: 135
+localhost: 134
+localhost: 139
+localhost: 144
+192.168.0.22: 139
+192.168.0.22: 140
+Submitting solution
+Your solution succeeded with 134 squares, for a score of 134, with a time penalty of 0.
+Puzzle #416
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 34 width x 26 height and ID=3fe63358915a4bab9c92710744405439-14323234267953235
+Generating solution
+localhost: 147
+localhost: 149
+localhost: 148
+localhost: 151
+192.168.0.22: 159
+192.168.0.22: 148
+Submitting solution
+Your solution succeeded with 147 squares, for a score of 147, with a time penalty of 0.
+Puzzle #417
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 29 width x 27 height and ID=d48a9f5930fd40d9a8026c619e8a6e7e-14323234375921699
+Generating solution
+localhost: 102
+localhost: 100
+localhost: 98
+localhost: 97
+192.168.0.22: 107
+192.168.0.22: 104
+Submitting solution
+Your solution succeeded with 97 squares, for a score of 97, with a time penalty of 0.
+Puzzle #418
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 25 width x 29 height and ID=c3e1428611c747a99a55643c4d0d3886-14323234483734777
+Generating solution
+localhost: 158
+localhost: 150
+localhost: 163
+localhost: 145
+192.168.0.22: 164
+192.168.0.22: 149
+Submitting solution
+Your solution succeeded with 145 squares, for a score of 145, with a time penalty of 0.
+Puzzle #419
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 24 width x 34 height and ID=0b1ac1c81ddf4ccbb8b2bdb32e2039d9-14323234591234387
+Generating solution
+localhost: 129
+localhost: 129
+localhost: 132
+localhost: 132
+192.168.0.22: 134
+192.168.0.22: 136
+Submitting solution
+Your solution succeeded with 129 squares, for a score of 129, with a time penalty of 0.
+Puzzle #420
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 27 width x 32 height and ID=6483cbedaa35420f8520be7b4665a005-14323234698734983
+Generating solution
+localhost: 79
+localhost: 87
+localhost: 80
+localhost: 77
+192.168.0.22: 95
+192.168.0.22: 81
+Submitting solution
+Your solution succeeded with 77 squares, for a score of 77, with a time penalty of 0.
+Puzzle #421
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 29 width x 23 height and ID=5d94618175bd4ffa9bc44a1ffb197919-14323234806703152
+Generating solution
+localhost: 147
+localhost: 144
+localhost: 142
+localhost: 137
+192.168.0.22: 137
+192.168.0.22: 134
+Submitting solution
+Your solution succeeded with 134 squares, for a score of 134, with a time penalty of 0.
+Puzzle #422
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 28 width x 30 height and ID=54e96cdfa4804804a99fa85378f66dc5-14323234914359787
+Generating solution
+localhost: 149
+localhost: 153
+localhost: 153
+localhost: 148
+192.168.0.22: 155
+192.168.0.22: 156
+Submitting solution
+Your solution succeeded with 148 squares, for a score of 148, with a time penalty of 0.
+Puzzle #423
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 31 width x 38 height and ID=621e67bf3e2244c1b2931746f0e36f7d-14323235022328431
+Generating solution
+localhost: 126
+localhost: 123
+localhost: 123
+localhost: 120
+192.168.0.22: 131
+192.168.0.22: 125
+Submitting solution
+Your solution succeeded with 120 squares, for a score of 120, with a time penalty of 0.
+Puzzle #424
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 37 width x 32 height and ID=fbdf0dd1b9a943e8b8312d0fdae72a68-14323235130453377
+Generating solution
+localhost: 180
+localhost: 172
+localhost: 181
+localhost: 174
+192.168.0.22: 167
+192.168.0.22: 179
+Submitting solution
+Your solution succeeded with 167 squares, for a score of 167, with a time penalty of 0.
+Puzzle #425
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 27 width x 28 height and ID=4c9c5803de544d24849c424801252b1f-14323235238893914
+Generating solution
+localhost: 162
+localhost: 171
+localhost: 167
+localhost: 168
+192.168.0.22: 167
+192.168.0.22: 173
+Submitting solution
+Your solution succeeded with 162 squares, for a score of 162, with a time penalty of 0.
+Puzzle #426
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 38 width x 37 height and ID=27d213bee6f04064a0ef23a5e812f298-14323235346703518
+Generating solution
+localhost: 166
+localhost: 171
+localhost: 163
+localhost: 173
+192.168.0.22: 188
+192.168.0.22: 182
+Submitting solution
+Your solution succeeded with 163 squares, for a score of 163, with a time penalty of 0.
+Puzzle #427
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 28 width x 34 height and ID=5c7ca66e9a6043148370be6435503cbe-14323235455297164
+Generating solution
+localhost: 159
+localhost: 161
+localhost: 155
+localhost: 166
+192.168.0.22: 166
+192.168.0.22: 162
+Submitting solution
+Your solution succeeded with 155 squares, for a score of 155, with a time penalty of 0.
+Puzzle #428
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 22 width x 32 height and ID=6aa6e78649fd4652a5a9501c9c08792c-14323235563266542
+Generating solution
+localhost: 146
+localhost: 145
+localhost: 140
+localhost: 143
+192.168.0.22: 149
+192.168.0.22: 154
+Submitting solution
+Your solution succeeded with 140 squares, for a score of 140, with a time penalty of 0.
+Puzzle #429
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 28 width x 30 height and ID=09fb5994bd8a4b409ed2a91381780c47-14323235671547387
+Generating solution
+localhost: 61
+localhost: 65
+localhost: 63
+localhost: 69
+192.168.0.22: 66
+192.168.0.22: 63
+Submitting solution
+Your solution succeeded with 61 squares, for a score of 61, with a time penalty of 0.
+Puzzle #430
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 33 width x 39 height and ID=ccc9ce3de4334147a4f981cebdc29979-14323235779828642
+Generating solution
+localhost: 193
+localhost: 199
+localhost: 194
+localhost: 190
+192.168.0.22: 200
+192.168.0.22: 199
+Submitting solution
+Your solution succeeded with 190 squares, for a score of 190, with a time penalty of 0.
+Puzzle #431
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 21 width x 21 height and ID=977dac1b72e0402480275ae13414bedb-14323235887641291
+Generating solution
+localhost: 64
+localhost: 72
+localhost: 67
+localhost: 65
+192.168.0.22: 67
+192.168.0.22: 64
+Submitting solution
+Your solution succeeded with 64 squares, for a score of 64, with a time penalty of 0.
+Puzzle #432
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 28 width x 39 height and ID=d4de4ec2c928420cbd220700c629f416-14323235996547788
+Generating solution
+localhost: 165
+localhost: 166
+localhost: 158
+localhost: 163
+192.168.0.22: 164
+192.168.0.22: 156
+Submitting solution
+Your solution succeeded with 156 squares, for a score of 156, with a time penalty of 0.
+Puzzle #433
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 37 width x 39 height and ID=8e42302f197f43999eb331ef82498c45-14323236105297600
+Generating solution
+localhost: 216
+localhost: 206
+localhost: 209
+localhost: 206
+192.168.0.22: 221
+192.168.0.22: 213
+Submitting solution
+Your solution succeeded with 206 squares, for a score of 206, with a time penalty of 0.
+Puzzle #434
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 36 width x 29 height and ID=2b6f105dabee461fa54be08abdbf103c-14323236213422244
+Generating solution
+localhost: 148
+localhost: 156
+localhost: 151
+localhost: 146
+192.168.0.22: 160
+192.168.0.22: 155
+Submitting solution
+Your solution succeeded with 146 squares, for a score of 146, with a time penalty of 0.
+Puzzle #435
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 29 width x 25 height and ID=bfebb9536e74430e9736321cb6d0c623-14323236321703987
+Generating solution
+localhost: 61
+localhost: 65
+localhost: 61
+localhost: 68
+192.168.0.22: 61
+192.168.0.22: 62
+Submitting solution
+Your solution succeeded with 61 squares, for a score of 61, with a time penalty of 0.
+Puzzle #436
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 26 width x 23 height and ID=828bf3a5b92448b6b206df2347c16716-14323236429204002
+Generating solution
+localhost: 63
+localhost: 63
+localhost: 63
+localhost: 66
+192.168.0.22: 69
+192.168.0.22: 60
+Submitting solution
+Your solution succeeded with 60 squares, for a score of 60, with a time penalty of 0.
+Puzzle #437
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 31 width x 38 height and ID=60eab9c11f7c48bc8979d87eea6cb970-14323236536391584
+Generating solution
+localhost: 184
+localhost: 191
+localhost: 181
+localhost: 190
+192.168.0.22: 182
+192.168.0.22: 180
+Submitting solution
+Your solution succeeded with 180 squares, for a score of 180, with a time penalty of 0.
+Puzzle #438
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 37 width x 28 height and ID=d8d02f2ef6d94a8b9afc615f01ba2ec6-14323236644829497
+Generating solution
+localhost: 120
+localhost: 131
+localhost: 128
+localhost: 124
+192.168.0.22: 119
+192.168.0.22: 121
+Submitting solution
+Your solution succeeded with 119 squares, for a score of 119, with a time penalty of 0.
+Puzzle #439
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 32 width x 21 height and ID=0e6c3512f4784be6b72e7b823ef979e8-14323236752641693
+Generating solution
+localhost: 70
+localhost: 71
+localhost: 69
+localhost: 67
+192.168.0.22: 77
+192.168.0.22: 66
+Submitting solution
+Your solution succeeded with 66 squares, for a score of 66, with a time penalty of 0.
+Puzzle #440
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 20 width x 36 height and ID=7633c2c3227e48c591f5c1f22d250374-14323236860922947
+Generating solution
+localhost: 110
+localhost: 121
+localhost: 117
+localhost: 122
+192.168.0.22: 112
+192.168.0.22: 117
+Submitting solution
+Your solution succeeded with 110 squares, for a score of 110, with a time penalty of 0.
+Puzzle #441
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 21 width x 21 height and ID=d46514644f514a1483435a0e88ba3c9c-14323236968735808
+Generating solution
+localhost: 74
+localhost: 76
+localhost: 74
+localhost: 73
+192.168.0.22: 72
+192.168.0.22: 80
+Submitting solution
+Your solution succeeded with 72 squares, for a score of 72, with a time penalty of 0.
+Puzzle #442
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 28 width x 35 height and ID=0bc3b39a826d4559bfaec81042198184-14323237077016798
+Generating solution
+localhost: 167
+localhost: 179
+localhost: 174
+localhost: 168
+192.168.0.22: 175
+192.168.0.22: 165
+Submitting solution
+Your solution succeeded with 165 squares, for a score of 165, with a time penalty of 0.
+Puzzle #443
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 38 width x 28 height and ID=0b1005258fd04c96add4ce613c5c8dd0-14323237185142207
+Generating solution
+localhost: 119
+localhost: 118
+localhost: 119
+localhost: 129
+192.168.0.22: 131
+192.168.0.22: 120
+Submitting solution
+Your solution succeeded with 118 squares, for a score of 118, with a time penalty of 0.
+Puzzle #444
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 24 width x 37 height and ID=15bb662e02374ccb8e8806b51708549a-14323237292329611
+Generating solution
+localhost: 140
+localhost: 145
+localhost: 146
+localhost: 143
+192.168.0.22: 138
+192.168.0.22: 145
+Submitting solution
+Your solution succeeded with 138 squares, for a score of 138, with a time penalty of 0.
+Puzzle #445
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 37 width x 29 height and ID=ff5e7c6b7e894ffab801e45f2b6b0041-14323237400142962
+Generating solution
+localhost: 124
+localhost: 119
+localhost: 120
+localhost: 121
+192.168.0.22: 124
+192.168.0.22: 128
+Submitting solution
+Your solution succeeded with 119 squares, for a score of 119, with a time penalty of 0.
+Puzzle #446
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 30 width x 34 height and ID=e5980e6ddfb645cb9b95da25230ddbdb-14323237507954317
+Generating solution
+localhost: 105
+localhost: 107
+localhost: 99
+localhost: 102
+192.168.0.22: 103
+192.168.0.22: 107
+Submitting solution
+Your solution succeeded with 99 squares, for a score of 99, with a time penalty of 0.
+Puzzle #447
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 25 width x 26 height and ID=e76e980ace3b4414a33c8ae5c8ee177a-14323237616079621
+Generating solution
+localhost: 107
+localhost: 108
+localhost: 114
+localhost: 100
+192.168.0.22: 105
+192.168.0.22: 113
+Submitting solution
+Your solution succeeded with 100 squares, for a score of 100, with a time penalty of 0.
+Puzzle #448
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 35 width x 21 height and ID=00fd6739764b4cc8b9907531a2d0586e-14323237724048447
+Generating solution
+localhost: 79
+localhost: 90
+localhost: 88
+localhost: 88
+192.168.0.22: 89
+192.168.0.22: 88
+Submitting solution
+Your solution succeeded with 79 squares, for a score of 79, with a time penalty of 0.
+Puzzle #449
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 24 width x 25 height and ID=0a92ce00227b4629926d2ad3adb6683f-14323237832798492
+Generating solution
+localhost: 114
+localhost: 109
+localhost: 114
+localhost: 111
+192.168.0.22: 117
+192.168.0.22: 109
+Submitting solution
+Your solution succeeded with 109 squares, for a score of 109, with a time penalty of 0.
+Puzzle #450
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 26 width x 28 height and ID=3642147e8fc54dd59e99f4c84b30ddf4-14323237940610999
+Generating solution
+localhost: 94
+localhost: 101
+localhost: 108
+localhost: 107
+192.168.0.22: 104
+192.168.0.22: 104
+Submitting solution
+Your solution succeeded with 94 squares, for a score of 94, with a time penalty of 0.
+Puzzle #451
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 36 width x 35 height and ID=97e3f18e74084eab986326ab84a14b71-14323238048892431
+Generating solution
+localhost: 134
+localhost: 128
+localhost: 119
+localhost: 124
+192.168.0.22: 131
+192.168.0.22: 120
+Submitting solution
+Your solution succeeded with 119 squares, for a score of 119, with a time penalty of 0.
+Puzzle #452
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 25 width x 37 height and ID=731bc60e53874eb1bcde308a49a52df5-14323238157798440
+Generating solution
+localhost: 148
+localhost: 148
+localhost: 150
+localhost: 144
+192.168.0.22: 153
+192.168.0.22: 149
+Submitting solution
+Your solution succeeded with 144 squares, for a score of 144, with a time penalty of 0.
+Puzzle #453
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 35 width x 30 height and ID=5397dd39f9964bfbbef5e4bde02a3a67-14323238266392410
+Generating solution
+localhost: 129
+localhost: 126
+localhost: 119
+localhost: 123
+192.168.0.22: 125
+192.168.0.22: 128
+Submitting solution
+Your solution succeeded with 119 squares, for a score of 119, with a time penalty of 0.
+Puzzle #454
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 31 width x 28 height and ID=7272ec2c0fb34fcd94574435e0ae69b8-14323238374673815
+Generating solution
+localhost: 137
+localhost: 134
+localhost: 143
+localhost: 140
+192.168.0.22: 140
+192.168.0.22: 140
+Submitting solution
+Your solution succeeded with 134 squares, for a score of 134, with a time penalty of 0.
+Puzzle #455
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 24 width x 22 height and ID=b29371dd2dc749a09252031b2c325183-14323238483424370
+Generating solution
+localhost: 72
+localhost: 72
+localhost: 75
+localhost: 71
+192.168.0.22: 76
+192.168.0.22: 76
+Submitting solution
+Your solution succeeded with 71 squares, for a score of 71, with a time penalty of 0.
+Puzzle #456
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 23 width x 32 height and ID=6266c105e07f4f37b1ee30d95b8a987b-14323238590768013
+Generating solution
+localhost: 123
+localhost: 117
+localhost: 120
+localhost: 125
+192.168.0.22: 120
+192.168.0.22: 123
+Submitting solution
+Your solution succeeded with 117 squares, for a score of 117, with a time penalty of 0.
+Puzzle #457
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 20 width x 39 height and ID=d130e502dbf94b349a2267845595334e-14323238698580152
+Generating solution
+localhost: 139
+localhost: 141
+localhost: 150
+localhost: 147
+192.168.0.22: 144
+192.168.0.22: 150
+Submitting solution
+Your solution succeeded with 139 squares, for a score of 139, with a time penalty of 0.
+Puzzle #458
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 34 width x 38 height and ID=b477cfc7b87940af8c14739b01427839-14323238807174415
+Generating solution
+localhost: 140
+localhost: 124
+localhost: 130
+localhost: 122
+192.168.0.22: 130
+192.168.0.22: 136
+Submitting solution
+Your solution succeeded with 122 squares, for a score of 122, with a time penalty of 0.
+Puzzle #459
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 33 width x 20 height and ID=de302761a721472095d85d2866c43aa4-14323238916080301
+Generating solution
+localhost: 90
+localhost: 89
+localhost: 92
+localhost: 92
+192.168.0.22: 88
+192.168.0.22: 97
+Submitting solution
+Your solution succeeded with 88 squares, for a score of 88, with a time penalty of 0.
+Puzzle #460
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 25 width x 37 height and ID=30edeec2650a42ff8eac6372c5e3f7ef-14323239024674056
+Generating solution
+localhost: 145
+localhost: 151
+localhost: 146
+localhost: 148
+192.168.0.22: 145
+192.168.0.22: 152
+Submitting solution
+Your solution succeeded with 145 squares, for a score of 145, with a time penalty of 0.
+Puzzle #461
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 35 width x 28 height and ID=4fd5c446ffd4400aa44625ff0656153b-14323239132330371
+Generating solution
+localhost: 143
+localhost: 142
+localhost: 139
+localhost: 141
+192.168.0.22: 140
+192.168.0.22: 146
+Submitting solution
+Your solution succeeded with 139 squares, for a score of 139, with a time penalty of 0.
+Puzzle #462
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 39 width x 28 height and ID=c246a14979a9490491ebfa73e71522b4-14323239240142956
+Generating solution
+localhost: 153
+localhost: 161
+localhost: 164
+localhost: 160
+192.168.0.22: 137
+192.168.0.22: 168
+Submitting solution
+Your solution succeeded with 137 squares, for a score of 137, with a time penalty of 0.
+Puzzle #463
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 38 width x 27 height and ID=f4391397a3ee4e96b1e6cb1b8d99e2a1-14323239348424521
+Generating solution
+localhost: 123
+localhost: 119
+localhost: 117
+localhost: 117
+192.168.0.22: 128
+192.168.0.22: 113
+Submitting solution
+Your solution succeeded with 113 squares, for a score of 113, with a time penalty of 0.
+Puzzle #464
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 22 width x 26 height and ID=d9301ed65bcc4de293d89fd7f28e788f-14323239456080614
+Generating solution
+localhost: 137
+localhost: 131
+localhost: 138
+localhost: 135
+192.168.0.22: 132
+192.168.0.22: 126
+Submitting solution
+Your solution succeeded with 126 squares, for a score of 126, with a time penalty of 0.
+Puzzle #465
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 28 width x 28 height and ID=5d07f54cec4343418eec24783290d1e7-14323239564205592
+Generating solution
+localhost: 117
+localhost: 122
+localhost: 118
+localhost: 131
+192.168.0.22: 118
+192.168.0.22: 118
+Submitting solution
+Your solution succeeded with 117 squares, for a score of 117, with a time penalty of 0.
+Puzzle #466
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 20 width x 38 height and ID=f74dc9066b99453b8033521021bfdd92-14323239672330703
+Generating solution
+localhost: 145
+localhost: 139
+localhost: 141
+localhost: 144
+192.168.0.22: 144
+192.168.0.22: 153
+Submitting solution
+Your solution succeeded with 139 squares, for a score of 139, with a time penalty of 0.
+Puzzle #467
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 37 width x 29 height and ID=9d8f1c6c9ab44e539ebaecb70b23a498-14323239779518265
+Generating solution
+localhost: 101
+localhost: 103
+localhost: 110
+localhost: 110
+192.168.0.22: 116
+192.168.0.22: 106
+Submitting solution
+Your solution succeeded with 101 squares, for a score of 101, with a time penalty of 0.
+Puzzle #468
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 32 width x 36 height and ID=e860f623a18443eeabbd2a6a665a554a-14323239887331014
+Generating solution
+localhost: 102
+localhost: 102
+localhost: 99
+localhost: 102
+192.168.0.22: 108
+192.168.0.22: 111
+Submitting solution
+Your solution succeeded with 99 squares, for a score of 99, with a time penalty of 0.
+Puzzle #469
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 25 width x 25 height and ID=d65eb182b54642e9999714338c75ce84-14323239995768300
+Generating solution
+localhost: 100
+localhost: 106
+localhost: 105
+localhost: 102
+192.168.0.22: 106
+192.168.0.22: 98
+Submitting solution
+Your solution succeeded with 98 squares, for a score of 98, with a time penalty of 0.
+Puzzle #470
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 27 width x 35 height and ID=c2f3b4e2ef734a2b9a5ae60d54ea355a-14323240103268533
+Generating solution
+localhost: 115
+localhost: 122
+localhost: 118
+localhost: 115
+192.168.0.22: 118
+192.168.0.22: 112
+Submitting solution
+Your solution succeeded with 112 squares, for a score of 112, with a time penalty of 0.
+Puzzle #471
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 23 width x 23 height and ID=66818ac53a7941dcb134071d17758ac2-14323240211082499
+Generating solution
+localhost: 117
+localhost: 115
+localhost: 122
+localhost: 122
+192.168.0.22: 120
+192.168.0.22: 121
+Submitting solution
+Your solution succeeded with 115 squares, for a score of 115, with a time penalty of 0.
+Puzzle #472
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 24 width x 23 height and ID=ee2106eec13a416b9e20c3924daa165a-14323240319362299
+Generating solution
+localhost: 111
+localhost: 111
+localhost: 114
+localhost: 112
+192.168.0.22: 112
+192.168.0.22: 112
+Submitting solution
+Your solution succeeded with 111 squares, for a score of 111, with a time penalty of 0.
+Puzzle #473
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 21 width x 21 height and ID=1c55455999934a158aba922a6172a906-14323240427487396
+Generating solution
+localhost: 109
+localhost: 103
+localhost: 107
+localhost: 109
+192.168.0.22: 103
+192.168.0.22: 102
+Submitting solution
+Your solution succeeded with 102 squares, for a score of 102, with a time penalty of 0.
+Puzzle #474
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 25 width x 28 height and ID=36568474d6954aeab2ae39ecdb57bf28-14323240535456497
+Generating solution
+localhost: 114
+localhost: 109
+localhost: 111
+localhost: 106
+192.168.0.22: 106
+192.168.0.22: 109
+Submitting solution
+Your solution succeeded with 106 squares, for a score of 106, with a time penalty of 0.
+Puzzle #475
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 39 width x 29 height and ID=e3745a27416a4f098b12733005e47b96-14323240643268635
+Generating solution
+localhost: 170
+localhost: 162
+localhost: 155
+localhost: 173
+192.168.0.22: 155
+192.168.0.22: 160
+Submitting solution
+Your solution succeeded with 155 squares, for a score of 155, with a time penalty of 0.
+Puzzle #476
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 30 width x 31 height and ID=1b3b34c6453746aaaa769fe123339f5a-14323240751706630
+Generating solution
+localhost: 150
+localhost: 147
+localhost: 145
+localhost: 146
+192.168.0.22: 158
+192.168.0.22: 143
+Submitting solution
+Your solution succeeded with 143 squares, for a score of 143, with a time penalty of 0.
+Puzzle #477
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 35 width x 22 height and ID=841d0805d529415b983a9f8065942144-14323240861237824
+Generating solution
+localhost: 110
+localhost: 115
+localhost: 113
+localhost: 102
+192.168.0.22: 113
+192.168.0.22: 110
+Submitting solution
+Your solution succeeded with 102 squares, for a score of 102, with a time penalty of 0.
+Puzzle #478
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 30 width x 30 height and ID=8849e993dc6c49909526188b58ba861c-14323240969362912
+Generating solution
+localhost: 154
+localhost: 150
+localhost: 145
+localhost: 147
+192.168.0.22: 149
+192.168.0.22: 157
+Submitting solution
+Your solution succeeded with 145 squares, for a score of 145, with a time penalty of 0.
+Puzzle #479
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 30 width x 22 height and ID=d51482057e014571acc81cc9e23c7bbe-14323241077175121
+Generating solution
+localhost: 94
+localhost: 96
+localhost: 95
+localhost: 90
+192.168.0.22: 89
+192.168.0.22: 90
+Submitting solution
+Your solution succeeded with 89 squares, for a score of 89, with a time penalty of 0.
+Puzzle #480
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 39 width x 35 height and ID=271b3eff04ef479fa61dc3076fd9f0f5-14323241185300606
+Generating solution
+localhost: 230
+localhost: 229
+localhost: 222
+localhost: 233
+192.168.0.22: 230
+192.168.0.22: 226
+Submitting solution
+Your solution succeeded with 222 squares, for a score of 222, with a time penalty of 0.
+Puzzle #481
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 25 width x 37 height and ID=5d2ca293a7b6455599b09ed35f0ae563-14323241294675260
+Generating solution
+localhost: 159
+localhost: 147
+localhost: 164
+localhost: 164
+192.168.0.22: 153
+192.168.0.22: 148
+Submitting solution
+Your solution succeeded with 147 squares, for a score of 147, with a time penalty of 0.
+Puzzle #482
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 23 width x 24 height and ID=0e6013d4a8ba418f879cc514f04bc886-14323241403113512
+Generating solution
+localhost: 78
+localhost: 75
+localhost: 79
+localhost: 78
+192.168.0.22: 78
+192.168.0.22: 87
+Submitting solution
+Your solution succeeded with 75 squares, for a score of 75, with a time penalty of 0.
+Puzzle #483
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 38 width x 31 height and ID=a2a41841ea0b419e803d240501d8696b-14323241511394316
+Generating solution
+localhost: 197
+localhost: 201
+localhost: 198
+localhost: 198
+192.168.0.22: 192
+192.168.0.22: 203
+Submitting solution
+Your solution succeeded with 192 squares, for a score of 192, with a time penalty of 0.
+Puzzle #484
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 31 width x 33 height and ID=6c6ad0320dba4881baa83601879897ea-14323241619519428
+Generating solution
+localhost: 110
+localhost: 122
+localhost: 117
+localhost: 120
+192.168.0.22: 119
+192.168.0.22: 116
+Submitting solution
+Your solution succeeded with 110 squares, for a score of 110, with a time penalty of 0.
+Puzzle #485
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 26 width x 34 height and ID=27992b51785244eda6854b5f69d0c2fe-14323241727331972
+Generating solution
+localhost: 133
+localhost: 132
+localhost: 128
+localhost: 137
+192.168.0.22: 139
+192.168.0.22: 133
+Submitting solution
+Your solution succeeded with 128 squares, for a score of 128, with a time penalty of 0.
+Puzzle #486
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 30 width x 39 height and ID=53fad4f688664b32984b6fa483e1bfd9-14323241834519512
+Generating solution
+localhost: 84
+localhost: 99
+localhost: 82
+localhost: 88
+192.168.0.22: 81
+192.168.0.22: 89
+Submitting solution
+Your solution succeeded with 81 squares, for a score of 81, with a time penalty of 0.
+Puzzle #487
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 31 width x 32 height and ID=007966acb2ff40d8a582dca9bd239798-14323241942800918
+Generating solution
+localhost: 153
+localhost: 154
+localhost: 149
+localhost: 155
+192.168.0.22: 156
+192.168.0.22: 158
+Submitting solution
+Your solution succeeded with 149 squares, for a score of 149, with a time penalty of 0.
+Puzzle #488
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 37 width x 34 height and ID=3ddf470fb97d45e3b1adc34891c6ed0d-14323242051081937
+Generating solution
+localhost: 171
+localhost: 159
+localhost: 163
+localhost: 161
+192.168.0.22: 163
+192.168.0.22: 176
+Submitting solution
+Your solution succeeded with 159 squares, for a score of 159, with a time penalty of 0.
+Puzzle #489
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 21 width x 37 height and ID=3b75d99683ed4e51a37dc6a60efbee17-14323242158741272
+Generating solution
+localhost: 110
+localhost: 109
+localhost: 113
+localhost: 113
+192.168.0.22: 112
+192.168.0.22: 114
+Submitting solution
+Your solution succeeded with 109 squares, for a score of 109, with a time penalty of 0.
+Puzzle #490
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 24 width x 25 height and ID=33de61ad04a148c68e66542829201ce6-14323242265925732
+Generating solution
+localhost: 58
+localhost: 59
+localhost: 67
+localhost: 65
+192.168.0.22: 55
+192.168.0.22: 55
+Submitting solution
+Your solution succeeded with 55 squares, for a score of 55, with a time penalty of 0.
+Puzzle #491
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 22 width x 23 height and ID=d4eba7962ddf49a39180c8f0feaf5f6e-14323242374207374
+Generating solution
+localhost: 99
+localhost: 96
+localhost: 101
+localhost: 99
+192.168.0.22: 97
+192.168.0.22: 104
+Submitting solution
+Your solution succeeded with 96 squares, for a score of 96, with a time penalty of 0.
+Puzzle #492
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 36 width x 35 height and ID=1fe493086b8c4882bf85e8d2f672f1ac-14323242482644960
+Generating solution
+localhost: 180
+localhost: 186
+localhost: 181
+localhost: 182
+192.168.0.22: 188
+192.168.0.22: 188
+Submitting solution
+Your solution succeeded with 180 squares, for a score of 180, with a time penalty of 0.
+Puzzle #493
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 21 width x 25 height and ID=b4b83585266b436787c07e984865e307-14323242590926119
+Generating solution
+localhost: 88
+localhost: 95
+localhost: 96
+localhost: 96
+192.168.0.22: 95
+192.168.0.22: 95
+Submitting solution
+Your solution succeeded with 88 squares, for a score of 88, with a time penalty of 0.
+Puzzle #494
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 35 width x 23 height and ID=17dfc6e8c46c4977a51c5e909e91923d-14323242699051005
+Generating solution
+localhost: 82
+localhost: 80
+localhost: 77
+localhost: 76
+192.168.0.22: 82
+192.168.0.22: 83
+Submitting solution
+Your solution succeeded with 76 squares, for a score of 79, with a time penalty of 3.
+Puzzle #495
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 28 width x 24 height and ID=c2c2b1bfc62f42fc85811774a2107d49-14323242814207333
+Generating solution
+localhost: 138
+localhost: 133
+localhost: 134
+localhost: 141
+192.168.0.22: 145
+192.168.0.22: 142
+Submitting solution
+Your solution succeeded with 133 squares, for a score of 133, with a time penalty of 0.
+Puzzle #496
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 35 width x 20 height and ID=e0ad927aa9a440c4a106208023332f1f-14323242922488579
+Generating solution
+localhost: 76
+localhost: 74
+localhost: 72
+localhost: 79
+192.168.0.22: 72
+192.168.0.22: 75
+Submitting solution
+Your solution succeeded with 72 squares, for a score of 72, with a time penalty of 0.
+Puzzle #497
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 20 width x 38 height and ID=31112a2677ce466b8eb2fc4be0b8385f-14323243031238649
+Generating solution
+localhost: 156
+localhost: 168
+localhost: 160
+localhost: 162
+192.168.0.22: 157
+192.168.0.22: 163
+Submitting solution
+Your solution succeeded with 156 squares, for a score of 156, with a time penalty of 0.
+Puzzle #498
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 27 width x 24 height and ID=b83fe34d0a6242b4b47ee982f8236312-14323243139365056
+Generating solution
+localhost: 98
+localhost: 95
+localhost: 85
+localhost: 86
+192.168.0.22: 77
+192.168.0.22: 95
+Submitting solution
+Your solution succeeded with 77 squares, for a score of 77, with a time penalty of 0.
+Puzzle #499
+Using API key: 047a843b97a349568d70d7917a753c52
+You retrieved a puzzle with 38 width x 28 height and ID=6fca5a32783b4821a3c994ab15a84404-14323243247645330
+Generating solution
+localhost: 126
+localhost: 125
+localhost: 126
+localhost: 130
+192.168.0.22: 132
+192.168.0.22: 123
+Submitting solution
+Your solution succeeded with 123 squares, for a score of 123, with a time penalty of 0.
+

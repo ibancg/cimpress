@@ -8,32 +8,15 @@
 
 import json
 import requests
-# import main
 import numpy as np
-from threading import Thread
-import commands
+from thread_pool import ThreadPool
+from distributedSolver import DistributedSolver
+import time
 
-LOCALHOST = 'localhost'
-REMOTE_HOST = '192.168.0.19'
-
-class thread_it(Thread):
-    def __init__ (self,param):
-        Thread.__init__(self)
-        self.param = param
-        self.solution = None
-        
-    def run(self):
-#         call(["ssh", "%s" % (self.param), "ls", "-l"])
-#         str = commands.getstatusoutput('ssh %s cd ~/workspace-p; python main' % (self.param))
-        if self.param == LOCALHOST:
-            output  = commands.getstatusoutput('python main.py')
-        else:
-            output = commands.getstatusoutput('ssh %s python /tmp/main.py' % (self.param))
-        r = np.fromstring(output[1], dtype=int, sep=' ')
-        self.solution = np.reshape(r[2:], (r[0], r[1]))
-        
-    def sol(self):
-        return self.solution
+distributedSolver = DistributedSolver()
+distributedSolver.addHost('localhost', 4)
+distributedSolver.addHost('192.168.0.22', 2)
+distributedSolver.start()
 
 class Solver:
     # CHANGE THIS VALUE
@@ -66,32 +49,7 @@ class Solver:
                 if puzzle['puzzle'][row][col]:
                     x[row, col] = True
 
-        np.save('/tmp/puzzle', x)
-        commands.getstatusoutput('scp /tmp/puzzle.npy %s:/tmp' % (REMOTE_HOST))
-
-        threads = []
-        threads.append(thread_it(REMOTE_HOST))
-        threads.append(thread_it(REMOTE_HOST))
-        threads.append(thread_it(LOCALHOST))
-        threads.append(thread_it(LOCALHOST))
-#         current = thread_it('localhost')
-#         threads.append(current)
- 
-        for t in threads:
-            t.start()
-         
-        for t in threads:
-            t.join()
-
-        sol = np.zeros((3, 0))
-        for t in threads:
-            soli = t.sol()
-            print(soli.shape[1])
-            if (soli.shape[1] == 0):
-                continue
-            if (sol.shape[1] == 0) or (soli.shape[1] < sol.shape[1]):
-                sol = soli
-            
+        sol = distributedSolver.solve(x)
 #         sol = main.solve(x)
   
         for k in range(0, sol.shape[1]):
@@ -113,9 +71,7 @@ class Solver:
         solution = {'id': id, 'squares': squares}
         return requests.post(url, data=json.dumps(solution)).text
 
-print(commands.getstatusoutput('scp main.py %s:/tmp/' % (REMOTE_HOST)))
-
-for i in range(0, 55):
+for i in range(0, 5):
     print('Puzzle #%i' % (i))
     # Main program
     print ('Using API key: {0}'.format(Solver.API_KEY))
@@ -136,7 +92,7 @@ for i in range(0, 55):
     
     print ('Submitting solution')
     jsonResult = s.submitSolution(puzzle['id'], squares)
-     
+      
     # Describe the response
     response = json.loads(jsonResult);
     if len(response['errors']) > 0:
@@ -148,3 +104,5 @@ for i in range(0, 55):
     	       response['numberOfSquares'],
     	       response['score'],
     	       response['timePenalty']))
+    print('waiting ...')
+    time.sleep(2)
